@@ -9,7 +9,7 @@ description: |
   Deep thoughts..
 metadata:
   created: 1787862062
-  updated: 1787862207
+  updated: 1787862213
   overridePathauto: false
   published: true
   hideInMenu: false
@@ -20,4 +20,4 @@ metadata:
   images: []
 content: |
 
-  <p>Deep thoughts..</p>
+  <p></p>

@@ -11,7 +11,7 @@
 </description>
 <metadata>
 <created>1787862062</created>
-<updated>1787862207</updated>
+<updated>1787862213</updated>
 <overridePathauto>false</overridePathauto>
 <published>true</published>
 <hideInMenu>false</hideInMenu>
@@ -24,6 +24,6 @@
 </images>
 </metadata>
 <content><![CDATA[
-<p>Deep thoughts..</p>
+<p></p>
 ]]></content>
 </item>
