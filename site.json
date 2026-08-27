@@ -16,18 +16,18 @@
         "pathauto": true
       },
       "created": 1787862062,
-      "updated": 1787862062,
+      "updated": 1787862177,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
       }
     },
     "theme": {
-      "element": "haxma-theme",
-      "path": "@haxtheweb/haxma-theme/haxma-theme.js",
-      "name": "Design docs",
-      "thumbnail": "@haxtheweb/haxcms-elements/lib/theme-screenshots/theme-haxma-theme-thumb.jpg",
-      "description": "Start with a blank site using the Design docs",
+      "element": "twenty-six-theme",
+      "path": "@haxtheweb/twenty-six-theme/twenty-six-theme.js",
+      "name": "Twenty Six",
+      "thumbnail": "@haxtheweb/haxcms-elements/lib/theme-screenshots/theme-twenty-six-theme-thumb.jpg",
+      "description": "Start with a blank site using the Twenty Six",
       "category": [
         "Website"
       ],
@@ -36,9 +36,21 @@
       "terrible": false,
       "supportedPalettes": null,
       "variables": {
-        "icon": "icons:record-voice-over",
-        "hexCode": "#3f51b5",
-        "cssVariable": "--simple-colors-default-theme-light-blue-7"
+        "image": "",
+        "imageAlt": "",
+        "imageLink": "",
+        "cssVariable": "--simple-colors-default-theme-light-blue-7",
+        "palette": "5",
+        "icon": "icons:record-voice-over"
+      },
+      "regions": {
+        "header": [],
+        "sidebarFirst": [],
+        "sidebarSecond": [],
+        "contentTop": [],
+        "contentBottom": [],
+        "footerPrimary": [],
+        "footerSecondary": []
       }
     },
     "node": {
@@ -70,6 +82,5 @@
         "updated": 1787862062
       }
     }
-  ],
-  "location": "/_sites/learn/index.html"
+  ]
 }
