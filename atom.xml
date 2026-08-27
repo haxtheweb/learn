@@ -3,20 +3,20 @@
   <title>learn</title>
   <link href="https://localhost:3000/learn/" rel="self" />
   <subtitle>own course</subtitle>
-  <updated>2026-08-27T20:23:27.000Z</updated>
+  <updated>2026-08-27T20:23:33.000Z</updated>
   <author>
       <name></name>
   </author>
   <id>https://localhost:3000/learn/</id>
   
   <entry>
-    <title>Welcome to learn</title>
+    <title>Learn HAX</title>
     <id>item-fa50916b-fdbc-48af-aaa4-8a2123000e70</id>
-    <updated>2026-08-27T20:23:33.000Z</updated>
+    <updated>2026-08-27T20:23:42.000Z</updated>
     <published>2026-08-27T20:21:02.000Z</published>
     <summary>Deep thoughts..
 </summary>
-    <link href="https://localhost:3000/learn/welcome-to-learn"/>
+    <link href="https://localhost:3000/learn/learn-hax"/>
     
     <content type="html">
       <![CDATA[ 

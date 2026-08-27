@@ -3,15 +3,15 @@
 <id>item-fa50916b-fdbc-48af-aaa4-8a2123000e70</id>
 <indent>0</indent>
 <location>pages/item-fa50916b-fdbc-48af-aaa4-8a2123000e70/index.xml</location>
-<slug>welcome-to-learn</slug>
+<slug>learn-hax</slug>
 <order>0</order>
 <parent></parent>
-<title>Welcome to learn</title>
+<title>Learn HAX</title>
 <description>Deep thoughts..
 </description>
 <metadata>
 <created>1787862062</created>
-<updated>1787862213</updated>
+<updated>1787862222</updated>
 <overridePathauto>false</overridePathauto>
 <published>true</published>
 <hideInMenu>false</hideInMenu>
