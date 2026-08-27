@@ -2,18 +2,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>learn</title>
-    <link>https://localhost/_sites/learn/</link>
-    <description></description>
-    <copyright>Copyright (C) 2026 https://localhost/_sites/learn</copyright>
+    <link>https://localhost:3000/learn/</link>
+    <description>own course</description>
+    <copyright>Copyright (C) 2026 https://localhost:3000/learn</copyright>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Aug 2026 20:21:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 20:22:57 GMT</lastBuildDate>
     <generator>HAXcms NodeJS</generator>
-    <atom:link href="https://localhost/_sites/learn/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://localhost:3000/learn/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Welcome to learn</title>
-      <link>https://localhost/_sites/learn/welcome</link>
+      <link>https://localhost:3000/learn/welcome</link>
       <description>Welcome to your new HAX site! Click edit on the top bar to get started What can I do? We&apos;ve got a ton of blocks that are easy to use and get a lot done with little effort, so much in fact we made a little video exploring some of them! Here&apos;s a list of just a few things to get started, or if your a pro, delete this content and have fun! Edit this content by hitting &quot;Edit page&quot; above Hit enter in a paragraph of text to add another one Click &quot;Merlin&quot; to see a list of all the things you can do Tr...</description>
-      <guid>https://localhost/_sites/learn/welcome</guid>
+      <guid>https://localhost:3000/learn/welcome</guid>
       <pubDate>Thu, 27 Aug 2026 20:21:02 GMT</pubDate>
     </item>
   </channel>

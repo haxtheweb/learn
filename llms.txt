@@ -1,20 +1,22 @@
 # learn
 
+> own course
+
 HAXcms is a file-based CMS: authored pages and metadata are stored as portable files, not locked into a database-only workflow.
 The canonical site structure is `site.json`, represented in JSON Outline Schema (`id`, `parent`, `order`, `slug`, `location`, and `metadata`).
 Use HAX CLI and ecosystem tooling to maintain human-authored content while keeping machine-readable outputs synchronized.
 Managed files (feeds, search indexes, manifests, and this `llms.txt`) are generated artifacts and should be rebuilt by tooling.
 
 ## Core resources
-- [site.json](https://localhost/_sites/learn/site.json): Canonical site manifest and navigation tree in JSON Outline Schema format.
-- [llms.txt](https://localhost/_sites/learn/llms.txt): LLM-oriented guide to this site and its machine-readable resources.
+- [site.json](https://localhost:3000/learn/site.json): Canonical site manifest and navigation tree in JSON Outline Schema format.
+- [llms.txt](https://localhost:3000/learn/llms.txt): LLM-oriented guide to this site and its machine-readable resources.
 
 ## Pages
-- [Welcome to learn](https://localhost/_sites/learn/pages/item-fa50916b-fdbc-48af-aaa4-8a2123000e70/index.md)
+- [Welcome to learn](https://localhost:3000/learn/pages/item-fa50916b-fdbc-48af-aaa4-8a2123000e70/index.md)
 
 ## Optional
-- [Search index](https://localhost/_sites/learn/lunrSearchIndex.json): Lunr corpus for quick full-text retrieval.
-- [RSS feed](https://localhost/_sites/learn/rss.xml): Site updates in RSS format.
-- [Atom feed](https://localhost/_sites/learn/atom.xml): Site updates in Atom format.
-- [Sitemap](https://localhost/_sites/learn/sitemap.xml): URL-level discovery map for the published site.
-- [Agent skills](https://localhost/_sites/learn/.well-known/agent-skills/index.json): Agent Skills discovery index (agentskills.io v0.2.0) listing skills that teach an agent how to read, author, audit, and remix this site.
+- [Search index](https://localhost:3000/learn/lunrSearchIndex.json): Lunr corpus for quick full-text retrieval.
+- [RSS feed](https://localhost:3000/learn/rss.xml): Site updates in RSS format.
+- [Atom feed](https://localhost:3000/learn/atom.xml): Site updates in Atom format.
+- [Sitemap](https://localhost:3000/learn/sitemap.xml): URL-level discovery map for the published site.
+- [Agent skills](https://localhost:3000/learn/.well-known/agent-skills/index.json): Agent Skills discovery index (agentskills.io v0.2.0) listing skills that teach an agent how to read, author, audit, and remix this site.

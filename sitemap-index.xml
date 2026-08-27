@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>https://localhost/_sites/learn/sitemap.xml</loc>
-    <lastmod>2026-08-27T20:21:02.377Z</lastmod>
+    <loc>https://localhost:3000/learn/sitemap.xml</loc>
+    <lastmod>2026-08-27T20:22:57.297Z</lastmod>
   </sitemap>
 </sitemapindex>

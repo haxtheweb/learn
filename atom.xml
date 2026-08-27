@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>learn</title>
-  <link href="https://localhost/_sites/learn/" rel="self" />
-  <subtitle></subtitle>
-  <updated>2026-08-27T20:21:02.000Z</updated>
+  <link href="https://localhost:3000/learn/" rel="self" />
+  <subtitle>own course</subtitle>
+  <updated>2026-08-27T20:22:57.000Z</updated>
   <author>
       <name></name>
   </author>
-  <id>https://localhost/_sites/learn/</id>
+  <id>https://localhost:3000/learn/</id>
   
   <entry>
     <title>Welcome to learn</title>
@@ -15,7 +15,7 @@
     <updated>2026-08-27T20:21:02.000Z</updated>
     <published>2026-08-27T20:21:02.000Z</published>
     <summary></summary>
-    <link href="https://localhost/_sites/learn/welcome"/>
+    <link href="https://localhost:3000/learn/welcome"/>
     
     <content type="html">
       <![CDATA[ <p>Welcome to your new HAX site! Click edit on the top bar to get started</p>
