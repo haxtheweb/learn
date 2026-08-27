@@ -7,10 +7,11 @@
 <order>0</order>
 <parent></parent>
 <title>Welcome to learn</title>
-<description></description>
+<description>Deep thoughts..
+</description>
 <metadata>
 <created>1787862062</created>
-<updated>1787862201</updated>
+<updated>1787862207</updated>
 <overridePathauto>false</overridePathauto>
 <published>true</published>
 <hideInMenu>false</hideInMenu>
@@ -23,5 +24,6 @@
 </images>
 </metadata>
 <content><![CDATA[
+<p>Deep thoughts..</p>
 ]]></content>
 </item>

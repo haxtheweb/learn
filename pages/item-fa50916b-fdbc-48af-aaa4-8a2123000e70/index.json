@@ -6,10 +6,10 @@
   "order": 0,
   "parent": null,
   "title": "Welcome to learn",
-  "description": "",
+  "description": "Deep thoughts..\n",
   "metadata": {
     "created": 1787862062,
-    "updated": 1787862201,
+    "updated": 1787862207,
     "overridePathauto": false,
     "published": true,
     "hideInMenu": false,
@@ -19,5 +19,5 @@
     "videos": [],
     "images": []
   },
-  "content": "\n"
+  "content": "\n<p>Deep thoughts..</p>\n"
 }

@@ -12,7 +12,7 @@ Managed files (feeds, search indexes, manifests, and this `llms.txt`) are genera
 - [llms.txt](https://localhost:3000/learn/llms.txt): LLM-oriented guide to this site and its machine-readable resources.
 
 ## Pages
-- [Welcome to learn](https://localhost:3000/learn/pages/item-fa50916b-fdbc-48af-aaa4-8a2123000e70/index.md)
+- [Welcome to learn](https://localhost:3000/learn/pages/item-fa50916b-fdbc-48af-aaa4-8a2123000e70/index.md): Deep thoughts..
 
 ## Optional
 - [Search index](https://localhost:3000/learn/lunrSearchIndex.json): Lunr corpus for quick full-text retrieval.
