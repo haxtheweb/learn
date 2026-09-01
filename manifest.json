@@ -1,7 +1,7 @@
 {
-    "name": "learn",
+    "name": "Learn HAX",
     "short_name": "learn",
-    "description": "own course",
+    "description": "Tutorials, reference, and onboarding for the HAX ecosystem.",
     "icons": [
         {
             "src": "assets/banner.jpg",

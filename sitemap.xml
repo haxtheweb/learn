@@ -1,379 +1,379 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://localhost/learn/start-here</loc>
+    <loc>https://localhost:3001/learn/start-here</loc>
     <lastmod>2026-09-01T18:06:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/start-here/cat</loc>
+    <loc>https://localhost:3001/learn/start-here/cat</loc>
     <lastmod>2026-09-01T18:06:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/start-here/chuck</loc>
+    <loc>https://localhost:3001/learn/tutorial-library/dashboard-site-basics</loc>
     <lastmod>2026-09-01T18:06:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/start-here/sven</loc>
+    <loc>https://localhost:3001/learn/tutorial-library/dashboard-site-basics/haxcms-dashboard</loc>
+    <lastmod>2026-09-01T18:06:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://localhost:3001/learn/tutorial-library/creating-structuring-content/create-a-new-page</loc>
+    <lastmod>2026-09-01T18:06:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://localhost:3001/learn/tutorial-library/editing-authoring/edit-a-page</loc>
+    <lastmod>2026-09-01T18:06:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://localhost:3001/learn/start-here/chuck</loc>
     <lastmod>2026-09-01T18:06:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/start-here/luna</loc>
-    <lastmod>2026-09-01T18:06:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost/learn/tutorial-library/dashboard-site-basics</loc>
-    <lastmod>2026-09-01T18:06:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost/learn/tutorial-library/dashboard-site-basics/haxcms-dashboard</loc>
+    <loc>https://localhost:3001/learn/tutorial-library/dashboard-site-basics/site-admin-settings-dashboard</loc>
     <lastmod>2026-09-01T18:06:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/dashboard-site-basics/site-admin-settings-dashboard</loc>
-    <lastmod>2026-09-01T18:06:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://localhost/learn/tutorial-library/dashboard-site-basics/system-settings-dashboard</loc>
-    <lastmod>2026-09-01T18:06:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://localhost/learn/tutorial-library/creating-structuring-content/create-a-new-page</loc>
-    <lastmod>2026-09-01T18:06:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://localhost/learn/tutorial-library/editing-authoring/edit-a-page</loc>
-    <lastmod>2026-09-01T18:06:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://localhost/learn/tutorial-library</loc>
+    <loc>https://localhost:3001/learn/tutorial-library</loc>
     <lastmod>2026-09-01T18:06:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/creating-structuring-content</loc>
+    <loc>https://localhost:3001/learn/tutorial-library/creating-structuring-content</loc>
     <lastmod>2026-09-01T18:06:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/creating-structuring-content/reorder-organize-pages</loc>
+    <loc>https://localhost:3001/learn/tutorial-library/creating-structuring-content/reorder-organize-pages</loc>
     <lastmod>2026-09-01T18:06:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/creating-structuring-content/managing-course-structure</loc>
+    <loc>https://localhost:3001/learn/tutorial-library/editing-authoring/adding-blocks</loc>
     <lastmod>2026-09-01T18:06:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/editing-authoring</loc>
+    <loc>https://localhost:3001/learn/start-here/sven</loc>
     <lastmod>2026-09-01T18:06:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/editing-authoring/adding-blocks</loc>
+    <loc>https://localhost:3001/learn/tutorial-library/dashboard-site-basics/system-settings-dashboard</loc>
     <lastmod>2026-09-01T18:06:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/editing-authoring/slash-commands</loc>
+    <loc>https://localhost:3001/learn/tutorial-library/creating-structuring-content/managing-course-structure</loc>
     <lastmod>2026-09-01T18:06:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/working-with-media/adding-video-blocks</loc>
+    <loc>https://localhost:3001/learn/tutorial-library/editing-authoring</loc>
+    <lastmod>2026-09-01T18:06:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:3001/learn/tutorial-library/editing-authoring/slash-commands</loc>
+    <lastmod>2026-09-01T18:06:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://localhost:3001/learn/start-here/luna</loc>
+    <lastmod>2026-09-01T18:06:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:3001/learn/tutorial-library/working-with-media/adding-video-blocks</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/site-health-reports/reports</loc>
+    <loc>https://localhost:3001/learn/tutorial-library/site-health-reports/reports</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/developer-onboarding/developer-onboarding</loc>
+    <loc>https://localhost:3001/learn/tutorial-library/developer-onboarding/developer-onboarding</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/import-content/create-site-from-docx</loc>
+    <loc>https://localhost:3001/learn/import-content/create-site-from-docx</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional</loc>
+    <loc>https://localhost:3001/learn/block-reference/instructional</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional/math</loc>
+    <loc>https://localhost:3001/learn/block-reference/instructional/math</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional/question-types</loc>
+    <loc>https://localhost:3001/learn/block-reference/instructional/question-types/fill-in-the-blanks</loc>
+    <lastmod>2026-09-01T18:06:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:3001/learn/block-reference/instructional/question-types</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional/question-types/fill-in-the-blanks</loc>
+    <loc>https://localhost:3001/learn/block-reference/instructional/question-types/mark-the-words</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional/question-types/mark-the-words</loc>
-    <lastmod>2026-09-01T18:06:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost/learn/block-reference/instructional/question-types/matching-drag-and-drop</loc>
-    <lastmod>2026-09-01T18:06:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost/learn/block-reference/instructional/question-types/multiple-choice</loc>
-    <lastmod>2026-09-01T18:06:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost/learn/block-reference/instructional/question-types/short-answer-question</loc>
-    <lastmod>2026-09-01T18:06:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost/learn/block-reference/instructional/question-types/sorting-question</loc>
-    <lastmod>2026-09-01T18:06:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost/learn/tutorial-library/working-with-media</loc>
-    <lastmod>2026-09-01T18:06:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost/learn/tutorial-library/working-with-media/working-with-images</loc>
+    <loc>https://localhost:3001/learn/tutorial-library/working-with-media/working-with-images</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/site-health-reports</loc>
+    <loc>https://localhost:3001/learn/import-content/xlsx-data-table-and-site-import</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/developer-onboarding</loc>
+    <loc>https://localhost:3001/learn/block-reference/instructional/question-types/matching-drag-and-drop</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/import-content/xlsx-data-table-and-site-import</loc>
-    <lastmod>2026-09-01T18:06:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost/learn/import-content</loc>
+    <loc>https://localhost:3001/learn/import-content</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/import-content/migrate-data-to-hax</loc>
+    <loc>https://localhost:3001/learn/import-content/migrate-data-to-hax</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference</loc>
+    <loc>https://localhost:3001/learn/block-reference/instructional/question-types/multiple-choice</loc>
+    <lastmod>2026-09-01T18:06:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:3001/learn/tutorial-library/working-with-media</loc>
+    <lastmod>2026-09-01T18:06:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:3001/learn/block-reference</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional/question-types/tagging-question</loc>
+    <loc>https://localhost:3001/learn/block-reference/instructional/question-types/short-answer-question</loc>
+    <lastmod>2026-09-01T18:06:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:3001/learn/tutorial-library/site-health-reports</loc>
+    <lastmod>2026-09-01T18:06:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:3001/learn/block-reference/instructional/question-types/sorting-question</loc>
+    <lastmod>2026-09-01T18:06:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:3001/learn/tutorial-library/developer-onboarding</loc>
+    <lastmod>2026-09-01T18:06:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:3001/learn/block-reference/multimedia/3d-model</loc>
+    <lastmod>2026-09-01T18:06:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://localhost:3001/learn/block-reference/layout/collection-list</loc>
+    <lastmod>2026-09-01T18:06:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://localhost:3001/learn/using-hax-for/club-websites</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional/question-types/true-false-question</loc>
+    <loc>https://localhost:3001/learn/block-reference/multimedia</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional/self-check</loc>
+    <loc>https://localhost:3001/learn/block-reference/multimedia/gif-player</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional/stop-note</loc>
+    <loc>https://localhost:3001/learn/block-reference/layout/column-layout</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional/table</loc>
+    <loc>https://localhost:3001/learn/block-reference/instructional/self-check</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional/timeline</loc>
+    <loc>https://localhost:3001/learn/block-reference/multimedia/inline-audio</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/multimedia/3d-model</loc>
-    <lastmod>2026-09-01T18:06:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://localhost/learn/block-reference/layout/collection-list</loc>
-    <lastmod>2026-09-01T18:06:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://localhost/learn/using-hax-for/club-websites</loc>
+    <loc>https://localhost:3001/learn/block-reference/layout</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/multimedia</loc>
-    <lastmod>2026-09-01T18:06:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost/learn/block-reference/multimedia/gif-player</loc>
+    <loc>https://localhost:3001/learn/block-reference/layout/learning-component</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/multimedia/inline-audio</loc>
+    <loc>https://localhost:3001/learn/block-reference/instructional/stop-note</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/multimedia/video-player</loc>
+    <loc>https://localhost:3001/learn/block-reference/multimedia/video-player</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/multimedia/media-playlist</loc>
+    <loc>https://localhost:3001/learn/block-reference/layout/play-list</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/multimedia/image-gallery</loc>
+    <loc>https://localhost:3001/learn/block-reference/instructional/table</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/layout/column-layout</loc>
+    <loc>https://localhost:3001/learn/block-reference/multimedia/media-playlist</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/layout</loc>
-    <lastmod>2026-09-01T18:06:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost/learn/block-reference/layout/learning-component</loc>
-    <lastmod>2026-09-01T18:06:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://localhost/learn/block-reference/layout/play-list</loc>
-    <lastmod>2026-09-01T18:06:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://localhost/learn/using-hax-for</loc>
+    <loc>https://localhost:3001/learn/using-hax-for</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/using-hax-for/portfolios</loc>
+    <loc>https://localhost:3001/learn/block-reference/instructional/timeline</loc>
+    <lastmod>2026-09-01T18:06:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://localhost:3001/learn/block-reference/multimedia/image-gallery</loc>
+    <lastmod>2026-09-01T18:06:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://localhost:3001/learn/block-reference/instructional/question-types/tagging-question</loc>
+    <lastmod>2026-09-01T18:06:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:3001/learn/block-reference/instructional/question-types/true-false-question</loc>
+    <lastmod>2026-09-01T18:06:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:3001/learn/using-hax-for/portfolios</loc>
     <lastmod>2026-09-01T18:06:10.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/using-hax-for/courses-and-resumes</loc>
+    <loc>https://localhost:3001/learn/using-hax-for/courses-and-resumes</loc>
     <lastmod>2026-09-01T18:06:10.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/troubleshooting-faq</loc>
+    <loc>https://localhost:3001/learn/troubleshooting-faq</loc>
     <lastmod>2026-09-01T18:06:10.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/release-notes</loc>
+    <loc>https://localhost:3001/learn/release-notes</loc>
     <lastmod>2026-09-01T18:06:10.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>

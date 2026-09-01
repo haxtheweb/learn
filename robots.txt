@@ -1,8 +1,8 @@
 User-agent: *
 Crawl-delay: 10
 Allow: /
-Sitemap: https://localhost:3000/learn/sitemap.xml
-LLMS: https://localhost:3000/learn/llms.txt
+Sitemap: https://localhost:3001/learn/sitemap.xml
+LLMS: https://localhost:3001/learn/llms.txt
 # CSS, JS, Images
 Allow: /assets/*.css$
 Allow: /assets/*.css?
