@@ -23,35 +23,18 @@
       }
     },
     "theme": {
-      "element": "twenty-six-theme",
-      "path": "@haxtheweb/twenty-six-theme/twenty-six-theme.js",
-      "name": "Twenty Six",
-      "thumbnail": "@haxtheweb/haxcms-elements/lib/theme-screenshots/theme-twenty-six-theme-thumb.jpg",
-      "description": "Start with a blank site using the Twenty Six",
+      "element": "training-theme",
+      "path": "@haxtheweb/training-theme/training-theme.js",
+      "name": "Training",
+      "thumbnail": "@haxtheweb/haxcms-elements/lib/theme-screenshots/theme-training-theme-thumb.jpg",
+      "description": "Start with a blank site using the Training",
       "category": [
         "Website"
       ],
-      "hidden": false,
+      "hidden": true,
       "priority": 0,
       "terrible": false,
-      "supportedPalettes": null,
-      "variables": {
-        "image": "",
-        "imageAlt": "",
-        "imageLink": "",
-        "cssVariable": "--simple-colors-default-theme-light-blue-7",
-        "palette": "5",
-        "icon": "icons:record-voice-over"
-      },
-      "regions": {
-        "header": [],
-        "sidebarFirst": [],
-        "sidebarSecond": [],
-        "contentTop": [],
-        "contentBottom": [],
-        "footerPrimary": [],
-        "footerSecondary": []
-      }
+      "supportedPalettes": null
     },
     "node": {
       "fields": {}
@@ -67,28 +50,5 @@
       "type": "own"
     }
   },
-  "items": [
-    {
-      "id": "item-fa50916b-fdbc-48af-aaa4-8a2123000e70",
-      "indent": 0,
-      "location": "pages/item-fa50916b-fdbc-48af-aaa4-8a2123000e70/index.html",
-      "slug": "learn-hax",
-      "order": 0,
-      "parent": null,
-      "title": "Learn HAX",
-      "description": "Deep thoughts..\n",
-      "metadata": {
-        "created": 1787862062,
-        "updated": 1787862222,
-        "overridePathauto": false,
-        "published": true,
-        "hideInMenu": false,
-        "linkTarget": "_self",
-        "locked": false,
-        "readtime": 1,
-        "videos": [],
-        "images": []
-      }
-    }
-  ]
+  "items": []
 }
