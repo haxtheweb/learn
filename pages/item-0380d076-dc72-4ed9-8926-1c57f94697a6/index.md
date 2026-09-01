@@ -5,8 +5,8 @@ Where to start
 
 You don't need any web background to use HAX. These areas are the gentlest on-ramp:
 
-*   [Editing & Authoring](/tutorial-library/editing-authoring) — edit a page and add blocks by dragging, no code required.
-*   [Working with Media](/tutorial-library/working-with-media) — show off your work with images and video.
+*   [Editing & Authoring](tutorial-library/editing-authoring) — edit a page and add blocks by dragging, no code required.
+*   [Working with Media](tutorial-library/working-with-media) — show off your work with images and video.
 *   [Using HAX For…](/using-hax-for) — concept recipes for portfolios, club sites, and more.
 
 Because HAX content is portable, you own your site and can move it anywhere. See [Troubleshooting & FAQ](/troubleshooting-faq) if you get stuck.

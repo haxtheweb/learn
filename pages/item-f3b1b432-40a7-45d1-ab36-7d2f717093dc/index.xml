@@ -24,7 +24,7 @@
 <published>true</published>
 <hideInMenu>false</hideInMenu>
 <created>1788285970</created>
-<updated>1788285970</updated>
+<updated>1788288602</updated>
 </metadata>
 <content><![CDATA[<p><strong>Goal:</strong> Build a portfolio that shows off your work — art, writing, music, or projects — in a site you control and can take with you, without depending on a platform that might disappear.</p>
 <stop-note title="This is a concept stub" accent-color="grey" icon="stopnoteicons:warning-icon" status="warning" message="A dedicated concept walkthrough video for portfolios is coming soon.">
@@ -32,8 +32,8 @@
 </stop-note>
 <h2>Blocks &amp; tutorials you'll use</h2>
 <ul>
-  <li><a href="/tutorial-library/editing-authoring">Editing &amp; Authoring</a> — assemble your story without writing code.</li>
-  <li><a href="/tutorial-library/working-with-media">Working with Media</a> — feature images and video of your work.</li>
+  <li><a href="tutorial-library/editing-authoring">Editing &amp; Authoring</a> — assemble your story without writing code.</li>
+  <li><a href="tutorial-library/working-with-media">Working with Media</a> — feature images and video of your work.</li>
   <li><a href="/block-reference/multimedia/image-gallery">Image Gallery</a>, <a href="/block-reference/multimedia/media-playlist">Media Playlist</a>, and <a href="/block-reference/multimedia/video-player">Video Player</a> — present visual and audio work.</li>
   <li><a href="/using-hax-for/courses-and-resumes">Courses &amp; Resumes</a> — pair your portfolio with a resume or course evidence.</li>
 </ul>

@@ -24,7 +24,7 @@
 <published>true</published>
 <hideInMenu>false</hideInMenu>
 <created>1788285970</created>
-<updated>1788285970</updated>
+<updated>1788288602</updated>
 </metadata>
 <content><![CDATA[<p><strong>Goal:</strong> Use HAX to author a course site or a structured resume/CV — an outline of pages with instructional content, assessments, and supporting media, or a cleanly outlined record of experience.</p>
 <stop-note title="This is a concept stub" accent-color="grey" icon="stopnoteicons:warning-icon" status="warning" message="A dedicated concept walkthrough video for courses and resumes is coming soon.">
@@ -32,7 +32,7 @@
 </stop-note>
 <h2>Blocks &amp; tutorials you'll use</h2>
 <ul>
-  <li><a href="/tutorial-library/creating-structuring-content">Creating &amp; Structuring Content</a> — build the course or resume outline.</li>
+  <li><a href="tutorial-library/creating-structuring-content">Creating &amp; Structuring Content</a> — build the course or resume outline.</li>
   <li><a href="/import-content">Import Content</a> — convert an existing DOCX or spreadsheet into a structured site.</li>
   <li><a href="/block-reference/instructional">Instructional blocks</a> — question types, self checks, stop notes, timelines, and tables for course content.</li>
   <li><a href="/block-reference/layout/column-layout">Column Layout</a> and <a href="/block-reference/layout/learning-component">Learning Component</a> — structure pages for readability.</li>

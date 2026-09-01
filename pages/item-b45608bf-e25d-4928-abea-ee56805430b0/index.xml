@@ -25,7 +25,7 @@
 <published>true</published>
 <hideInMenu>false</hideInMenu>
 <created>1788285970</created>
-<updated>1788285970</updated>
+<updated>1788288602</updated>
 </metadata>
 <content><![CDATA[<p>Stuck? HAX is a community project and there are a few fast ways to get help. If you hit a bug or have a feature request, the issue queue is the canonical place to report it.</p>
 <h2>Get help</h2>
@@ -54,6 +54,6 @@
     <div slot="content"><p>File it in the <a href="https://github.com/haxtheweb/issues/issues">issue queue</a> with steps to reproduce. For quick questions, ask in <a href="https://discord.gg/EKYJAjqGhf">Discord</a>.</p></div>
   </a11y-collapse-panel>
 </a11y-collapse>
-<p>For deeper reference while you troubleshoot, browse the <a href="/tutorial-library">Tutorial Library</a> or the <a href="/block-reference">Block Reference</a>.</p>
+<p>For deeper reference while you troubleshoot, browse the <a href="tutorial-library">Tutorial Library</a> or the <a href="/block-reference">Block Reference</a>.</p>
 ]]></content>
 </item>

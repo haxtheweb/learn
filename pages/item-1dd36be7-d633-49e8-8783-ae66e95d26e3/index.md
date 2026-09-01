@@ -5,7 +5,7 @@ Where to start
 
 These areas of Learn HAX map most directly to what Luna wants to do:
 
-*   [Developer Onboarding](/tutorial-library/developer-onboarding) — fork and clone the repos, install, and verify each project runs.
+*   [Developer Onboarding](tutorial-library/developer-onboarding) — fork and clone the repos, install, and verify each project runs.
 *   [Block Reference](/block-reference) — the full inventory of HAX-capable elements and how they're used in the editor.
 *   [Release Notes](/release-notes) — track what changes across HAXcms releases.
 

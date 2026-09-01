@@ -17,9 +17,9 @@ metadata:
   published: true
   hideInMenu: false
   created: 1788285968
-  updated: 1788285968
+  updated: 1788288602
 content: |
   <p>This section includes the following pages:</p>
   <ul>
-    <li><a href="/tutorial-library/developer-onboarding/developer-onboarding">Developer Onboarding</a></li>
+    <li><a href="tutorial-library/developer-onboarding/developer-onboarding">Developer Onboarding</a></li>
   </ul>

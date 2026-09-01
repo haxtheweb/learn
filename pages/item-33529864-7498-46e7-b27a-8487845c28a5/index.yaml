@@ -18,11 +18,11 @@ metadata:
   published: true
   hideInMenu: false
   created: 1788285967
-  updated: 1788285967
+  updated: 1788288602
 content: |
   <p>This section includes the following pages:</p>
   <ul>
-    <li><a href="/tutorial-library/creating-structuring-content/create-a-new-page">Create a New Page</a></li>
-    <li><a href="/tutorial-library/creating-structuring-content/reorder-organize-pages">Reorder &amp; Organize Pages</a></li>
-    <li><a href="/tutorial-library/creating-structuring-content/managing-course-structure">Managing Course Structure</a></li>
+    <li><a href="tutorial-library/creating-structuring-content/create-a-new-page">Create a New Page</a></li>
+    <li><a href="tutorial-library/creating-structuring-content/reorder-organize-pages">Reorder &amp; Organize Pages</a></li>
+    <li><a href="tutorial-library/creating-structuring-content/managing-course-structure">Managing Course Structure</a></li>
   </ul>

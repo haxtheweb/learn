@@ -20,7 +20,7 @@ metadata:
   published: true
   hideInMenu: false
   created: 1788285967
-  updated: 1788285967
+  updated: 1788288602
 content: >
   <p>New to HAX? You're in the right place. Learn HAX organizes everything you
   need to get productive — from your first orientation video to deep reference
@@ -52,6 +52,6 @@ content: >
   </ul>
 
   <p>Prefer to just browse? Jump straight to the <a
-  href="/tutorial-library">Tutorial Library</a>, the <a
+  href="tutorial-library">Tutorial Library</a>, the <a
   href="/block-reference">Block Reference</a>, or see <a
   href="/using-hax-for">what HAX is good for</a>.</p>

@@ -19,7 +19,7 @@ metadata:
   published: true
   hideInMenu: false
   created: 1788285967
-  updated: 1788285967
+  updated: 1788288602
 content: >
   <accent-card accent-color="deep-purple" accent-heading="" horizontal=""
   image-src="files/start-here/CopyQ.wRrLph.png" image-alt="Chuck avatar"
@@ -35,12 +35,12 @@ content: >
   <p>These areas of Learn HAX map most directly to what Chuck wants to do:</p>
 
   <ul>
-    <li><a href="/tutorial-library/dashboard-site-basics">Dashboard &amp; Site Basics</a> — the HAXcms dashboard and the system / site admin settings dashboards.</li>
-    <li><a href="/tutorial-library/creating-structuring-content">Creating &amp; Structuring Content</a> — manage the outline and navigation of a site.</li>
-    <li><a href="/tutorial-library/site-health-reports">Site Health &amp; Reports</a> — run reports and link checks to keep a site healthy.</li>
+    <li><a href="tutorial-library/dashboard-site-basics">Dashboard &amp; Site Basics</a> — the HAXcms dashboard and the system / site admin settings dashboards.</li>
+    <li><a href="tutorial-library/creating-structuring-content">Creating &amp; Structuring Content</a> — manage the outline and navigation of a site.</li>
+    <li><a href="tutorial-library/site-health-reports">Site Health &amp; Reports</a> — run reports and link checks to keep a site healthy.</li>
     <li><a href="/import-content">Import Content</a> — migrate content from DOCX, spreadsheets, Notion, and other HAX sites.</li>
   </ul>
 
   <p>Want to extend HAX itself? See <a
-  href="/tutorial-library/developer-onboarding">Developer Onboarding</a> and the
+  href="tutorial-library/developer-onboarding">Developer Onboarding</a> and the
   <a href="/block-reference">Block Reference</a> for what each element does.</p>

@@ -24,7 +24,7 @@
     "published": true,
     "hideInMenu": false,
     "created": 1788285967,
-    "updated": 1788285967
+    "updated": 1788288602
   },
-  "content": "<p>This section includes the following pages:</p>\n<ul>\n  <li><a href=\"/tutorial-library/editing-authoring/edit-a-page\">Edit a Page</a></li>\n  <li><a href=\"/tutorial-library/editing-authoring/adding-blocks\">Adding Blocks</a></li>\n  <li><a href=\"/tutorial-library/editing-authoring/slash-commands\">Slash Commands</a></li>\n</ul>\n"
+  "content": "<p>This section includes the following pages:</p>\n<ul>\n  <li><a href=\"tutorial-library/editing-authoring/edit-a-page\">Edit a Page</a></li>\n  <li><a href=\"tutorial-library/editing-authoring/adding-blocks\">Adding Blocks</a></li>\n  <li><a href=\"tutorial-library/editing-authoring/slash-commands\">Slash Commands</a></li>\n</ul>\n"
 }

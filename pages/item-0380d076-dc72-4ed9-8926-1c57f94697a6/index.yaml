@@ -18,7 +18,7 @@ metadata:
   published: true
   hideInMenu: false
   created: 1788285967
-  updated: 1788285967
+  updated: 1788288602
 content: >
   <accent-card accent-color="deep-orange" accent-heading="" horizontal=""
   image-src="files/start-here/CopyQ.allSms.png" image-alt="Sven avatar"
@@ -35,8 +35,8 @@ content: >
   on-ramp:</p>
 
   <ul>
-    <li><a href="/tutorial-library/editing-authoring">Editing &amp; Authoring</a> — edit a page and add blocks by dragging, no code required.</li>
-    <li><a href="/tutorial-library/working-with-media">Working with Media</a> — show off your work with images and video.</li>
+    <li><a href="tutorial-library/editing-authoring">Editing &amp; Authoring</a> — edit a page and add blocks by dragging, no code required.</li>
+    <li><a href="tutorial-library/working-with-media">Working with Media</a> — show off your work with images and video.</li>
     <li><a href="/using-hax-for">Using HAX For…</a> — concept recipes for portfolios, club sites, and more.</li>
   </ul>
 

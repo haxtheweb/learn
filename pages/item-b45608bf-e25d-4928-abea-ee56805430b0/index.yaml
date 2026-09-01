@@ -20,7 +20,7 @@ metadata:
   published: true
   hideInMenu: false
   created: 1788285970
-  updated: 1788285970
+  updated: 1788288602
 content: >
   <p>Stuck? HAX is a community project and there are a few fast ways to get
   help. If you hit a bug or have a feature request, the issue queue is the
@@ -64,5 +64,5 @@ content: >
   </a11y-collapse>
 
   <p>For deeper reference while you troubleshoot, browse the <a
-  href="/tutorial-library">Tutorial Library</a> or the <a
+  href="tutorial-library">Tutorial Library</a> or the <a
   href="/block-reference">Block Reference</a>.</p>

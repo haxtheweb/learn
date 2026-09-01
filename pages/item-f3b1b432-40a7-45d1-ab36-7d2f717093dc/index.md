@@ -5,8 +5,8 @@
 Blocks & tutorials you'll use
 -----------------------------
 
-*   [Editing & Authoring](/tutorial-library/editing-authoring) — assemble your story without writing code.
-*   [Working with Media](/tutorial-library/working-with-media) — feature images and video of your work.
+*   [Editing & Authoring](tutorial-library/editing-authoring) — assemble your story without writing code.
+*   [Working with Media](tutorial-library/working-with-media) — feature images and video of your work.
 *   [Image Gallery](/block-reference/multimedia/image-gallery), [Media Playlist](/block-reference/multimedia/media-playlist), and [Video Player](/block-reference/multimedia/video-player) — present visual and audio work.
 *   [Courses & Resumes](/using-hax-for/courses-and-resumes) — pair your portfolio with a resume or course evidence.
 

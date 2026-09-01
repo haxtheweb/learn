@@ -16,4 +16,4 @@ HAX serves a few different kinds of users. Choose the persona that sounds most l
 *   [Sven — Creator](/start-here/sven): you make things (art, music, writing) and need a simple, portable web presence.
 *   [Luna — Developer](/start-here/luna): you write code and want to extend, theme, and remix HAX on web standards.
 
-Prefer to just browse? Jump straight to the [Tutorial Library](/tutorial-library), the [Block Reference](/block-reference), or see [what HAX is good for](/using-hax-for).
+Prefer to just browse? Jump straight to the [Tutorial Library](tutorial-library), the [Block Reference](/block-reference), or see [what HAX is good for](/using-hax-for).
