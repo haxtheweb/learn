@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+<id>item-5b3b531b-8bdb-45d1-8f2e-ede9a6ed42f0</id>
+<indent>1</indent>
+<location>pages/item-5b3b531b-8bdb-45d1-8f2e-ede9a6ed42f0/index.xml</location>
+<slug>import-content/xlsx-data-table-and-site-import</slug>
+<order>1</order>
+<parent>item-a55e9f51-e83c-4c33-bbc5-9b82bdb39d72</parent>
+<title>XLSX Data Table and Site Import</title>
+<description></description>
+<metadata>
+<tags>beginner,content-author,site-builder,import-export,pages-structure</tags>
+<fields>
+<skill>beginner</skill>
+<persona>
+<item>content-author</item>
+<item>site-builder</item>
+</persona>
+<capability>
+<item>import-export</item>
+<item>pages-structure</item>
+</capability>
+</fields>
+<published>true</published>
+<hideInMenu>false</hideInMenu>
+<created>1788285968</created>
+<updated>1788285968</updated>
+</metadata>
+<content><![CDATA[<video-player id="726bc6de-11cd-40ff-858f-f944ee7dc021" source="https://www.youtube.com/watch?v=e73YmYQwqXU" media-title="Learn HAX: XLSX Data Table and Site Import" data-width="100" data-margin="center" track="files/xlsx-data-table-and-site-import/transcript.vtt"></video-player>
+<h2>How to Import an XLSX File as a Data Table and Build a Site in HAXcms</h2><h2>Prerequisites</h2><ul><li>Ensure you have access to <strong>HAXcms</strong> and permission to edit pages.</li><li>Prepare your <strong>XLSX file</strong> with properly formatted data and clear headings.</li><li>Familiarize yourself with locating the <strong>edit mode</strong> (pencil icon) and the <strong>Merlin/search bar</strong> in HAXcms.</li></ul><p>Want to follow along? Download the <a href="files/xlsx-data-table-and-site-import/import-example.xlsx">example XLSX file (import-example.xlsx)</a> used in this tutorial.</p><media-image source="files/xlsx-data-table-and-site-import/images/screenshot-1.jpg" caption="Prerequisites" offset="narrow" card="" box="" alt="Prerequisites"></media-image><h2>Enter Edit Mode</h2><p>Click the <strong>pencil icon</strong> to put your HAXcms page into edit mode. This enables you to make changes and import content.</p><media-image source="files/xlsx-data-table-and-site-import/images/screenshot-2.jpg" caption="Enter Edit Mode" offset="narrow" card="" box="" alt="Enter Edit Mode"></media-image><h2>Upload the XLSX File</h2><p>Drag and drop your <strong>XLSX file</strong> onto the <strong>Merlin assistant</strong> or the <strong>search bar</strong> at the top of the page. HAXcms will automatically detect the file type and present several import options.</p><media-image source="files/xlsx-data-table-and-site-import/images/screenshot-3.jpg" caption="Upload the XLSX File" offset="narrow" card="" box="" alt="Upload the XLSX File"></media-image><h2>Choose Import Option</h2><ul><li>After dropping the file, you will see options such as:</li><li><strong>Insert as table</strong> (recommended for data display)</li><li>Insert as CSV text</li><li>Link to the file</li><li>Upload only (no display)</li></ul><p>For creating a data table, select <strong>Insert as table</strong>.</p><media-image source="files/xlsx-data-table-and-site-import/images/screenshot-4.jpg" caption="Choose Import Option" offset="narrow" card="" box="" alt="Choose Import Option"></media-image><h2>Review the Imported Table</h2><p>HAXcms will instantly convert the XLSX file into a <strong>highly accessible table</strong> embedded in your page. The table will include headings and all content from your file. You can inspect the source to verify the table structure.</p><media-image source="files/xlsx-data-table-and-site-import/images/screenshot-5.jpg" caption="Review the Imported Table" offset="narrow" card="" box="" alt="Review the Imported Table"></media-image><h2>Inspect Table Structure</h2><p>Right-click and select <strong>View Source</strong> to confirm that HAXcms has created a proper HTML table. You should see your headings and data accurately placed within table rows and columns.</p><media-image source="files/xlsx-data-table-and-site-import/images/screenshot-6.jpg" caption="Inspect Table Structure" offset="narrow" card="" box="" alt="Inspect Table Structure"></media-image><h2>Use XLSX Data to Build a New Site</h2><p>If your content is suitable, you can use the imported XLSX file to <strong>create a new site hierarchy</strong> in HAXcms. Go to the <strong>Import</strong> section and select <strong>Excel</strong> as the import type. This will allow HAXcms to generate a site structure based on your file's organization.</p><media-image source="files/xlsx-data-table-and-site-import/images/screenshot-7.jpg" caption="Use XLSX Data to Build a New Site" offset="narrow" card="" box="" alt="Use XLSX Data to Build a New Site"></media-image><h2>Verification</h2><ul><li>Check that your table displays correctly with all data and headings intact.</li><li>Confirm that a new site hierarchy was created if you opted for site generation from Excel.</li><li>Test accessibility and layout to ensure your data is usable and well formatted in HAXcms.</li></ul><media-image source="files/xlsx-data-table-and-site-import/images/screenshot-8.jpg" caption="Verification" offset="narrow" card="" box="" alt="Verification"></media-image>
+<h2>Tutorial Details</h2>
+<ul>
+    <li><a href="https://www.youtube.com/watch?v=e73YmYQwqXU">Video Tutorial Link (YouTube)</a> - <a href="files/xlsx-data-table-and-site-import/transcript.vtt">transcript</a></li>
+    <li>Images in this page: <a href="files/xlsx-data-table-and-site-import/images/screenshot-1.jpg">screenshot-1.jpg</a>, <a href="files/xlsx-data-table-and-site-import/images/screenshot-2.jpg">screenshot-2.jpg</a>, <a href="files/xlsx-data-table-and-site-import/images/screenshot-3.jpg">screenshot-3.jpg</a>, <a href="files/xlsx-data-table-and-site-import/images/screenshot-4.jpg">screenshot-4.jpg</a>, <a href="files/xlsx-data-table-and-site-import/images/screenshot-5.jpg">screenshot-5.jpg</a>, <a href="files/xlsx-data-table-and-site-import/images/screenshot-6.jpg">screenshot-6.jpg</a>, <a href="files/xlsx-data-table-and-site-import/images/screenshot-7.jpg">screenshot-7.jpg</a>, <a href="files/xlsx-data-table-and-site-import/images/screenshot-8.jpg">screenshot-8.jpg</a></li>
+    <li><a href="files/xlsx-data-table-and-site-import/2026-07-27-Learn-HAX_-XLSX-Data-Table-and-Site-Import.docx">Original Content Source (DOCX)</a></li>
+    <li><a href="files/xlsx-data-table-and-site-import/import-xlsx.json">Automation recording (JSON)</a></li>
+    <li>Last updated: July 27, 2026</li>
+    <li>HAXcms version: 26.0.0</li>
+</ul>
+]]></content>
+</item>

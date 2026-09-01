@@ -1,0 +1,29 @@
+{
+  "id": "item-ef38f789-2cd8-4400-8e25-e34f4b48ff24",
+  "indent": 3,
+  "location": "pages/item-ef38f789-2cd8-4400-8e25-e34f4b48ff24/index.json",
+  "slug": "block-reference/instructional/question-types/true-false-question",
+  "order": 7,
+  "parent": "item-cdb028a2-5397-4117-a736-c602121ff70b",
+  "title": "True / False Question",
+  "description": "",
+  "metadata": {
+    "tags": "beginner,content-author,developer,reference,blocks",
+    "fields": {
+      "skill": "beginner",
+      "persona": [
+        "content-author",
+        "developer"
+      ],
+      "capability": [
+        "reference",
+        "blocks"
+      ]
+    },
+    "published": true,
+    "hideInMenu": false,
+    "created": 1788285969,
+    "updated": 1788285969
+  },
+  "content": "\n<p>A simple question type that allows you to supply the question but the user only can pick between true and false.</p>\n<h2 data-original-level=\"H2\" id=\"header-561b3a35-40b8-da4a-1dbe-6531cd73ab09\">Example</h2>\n<true-false-question question=\"HAX is a game changer.\" max-attempts=\"0\" typeof=\"oer:Assessment\" resource=\"#4c179eb4-acb5-43e0-65ab-95a2de2e9e77\" prefix=\"oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org\" quiz-name=\"default\" data-primary=\"13\" data-padding=\"m\" data-margin=\"l\" single-option=\"\">\n<input type=\"checkbox\" value=\"True\"><input type=\"checkbox\" value=\"False\"></true-false-question>\n<h2 data-original-level=\"H2\" id=\"header-5e32b456-4eb9-c641-e91a-9248e8476e97\">Developer</h2>\n<ul><li><a href=\"https://npmjs.com/package/@haxtheweb/multiple-choice\">npm install @haxtheweb/multiple-choice --save</a> (true-false-question is included in this package)</li><li><a href=\"https://github.com/haxtheweb/webcomponents/blob/master/elements/multiple-choice/lib/true-false-question.js\">Source on Github</a></li><li><a href=\"https://codepen.io/btopro/pen/gONwBzo\">Codepen example from CDN</a></li></ul>\n<p></p>\n<code-sample copy-clipboard-button=\"\" type=\"html\"><template>&lt;true-false-question question=\"HAX is a game changer.\"&gt;\n  &lt;input type=\"checkbox\" value=\"True\" correct=\"correct\" role=\"textbox\"&gt;\n  &lt;input type=\"checkbox\" value=\"False\"&gt;\n&lt;/true-false-question&gt;</template></code-sample>\n"
+}

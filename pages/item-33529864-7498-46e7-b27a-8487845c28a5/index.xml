@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+<id>item-33529864-7498-46e7-b27a-8487845c28a5</id>
+<indent>1</indent>
+<location>pages/item-33529864-7498-46e7-b27a-8487845c28a5/index.xml</location>
+<slug>tutorial-library/creating-structuring-content</slug>
+<order>1</order>
+<parent>item-1467f036-344e-4c49-8232-6b1f6a730c76</parent>
+<title>Creating &amp; Structuring Content</title>
+<description></description>
+<metadata>
+<tags>beginner,content-author,site-builder,pages-structure</tags>
+<fields>
+<skill>beginner</skill>
+<persona>
+<item>content-author</item>
+<item>site-builder</item>
+</persona>
+<capability>
+<item>pages-structure</item>
+</capability>
+</fields>
+<published>true</published>
+<hideInMenu>false</hideInMenu>
+<created>1788285967</created>
+<updated>1788285967</updated>
+</metadata>
+<content><![CDATA[<p>This section includes the following pages:</p>
+<ul>
+  <li><a href="/tutorial-library/creating-structuring-content/create-a-new-page">Create a New Page</a></li>
+  <li><a href="/tutorial-library/creating-structuring-content/reorder-organize-pages">Reorder &amp; Organize Pages</a></li>
+  <li><a href="/tutorial-library/creating-structuring-content/managing-course-structure">Managing Course Structure</a></li>
+</ul>
+]]></content>
+</item>

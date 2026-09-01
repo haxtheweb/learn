@@ -1,0 +1,503 @@
+{
+    "title": "adding-images",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1520,
+            "height": 873,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "http://localhost:3000/_sites/hax100/adding-images",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "http://localhost:3000/_sites/hax100/adding-images",
+                    "title": "adding images"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#slot"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/#slot"
+                ]
+            ],
+            "offsetY": 126.59999084472656,
+            "offsetX": 508.1999816894531
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#editbutton",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#editbutton",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 12,
+            "offsetX": 7,
+            "duration": 502
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Filter Content Types"
+                ],
+                [
+                    "hax-tray",
+                    "#gizmobrowser",
+                    "#inputfilter",
+                    "#inputfilter\\."
+                ],
+                [
+                    "pierce/hax-tray",
+                    "pierce/#inputfilter\\."
+                ]
+            ],
+            "offsetY": 7.699981689453125,
+            "offsetX": 150
+        },
+        {
+            "type": "change",
+            "value": "image",
+            "selectors": [
+                [
+                    "aria/Filter Content Types"
+                ],
+                [
+                    "hax-tray",
+                    "#gizmobrowser",
+                    "#inputfilter",
+                    "#inputfilter\\."
+                ],
+                [
+                    "pierce/hax-tray",
+                    "pierce/#inputfilter\\."
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "hax-body",
+                    "#bodycontainer"
+                ],
+                [
+                    "pierce/#bodycontainer"
+                ]
+            ],
+            "offsetY": 158.59999084472656,
+            "offsetX": 231.19998168945312
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "hax-body",
+                    "#bodycontainer"
+                ],
+                [
+                    "pierce/#bodycontainer"
+                ]
+            ],
+            "offsetY": 396.59999084472656,
+            "offsetX": 30.199981689453125
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Alt"
+        },
+        {
+            "type": "doubleClick",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Alternative text"
+                ],
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.alt",
+                    "#settings\\.configure\\.alt\\."
+                ],
+                [
+                    "pierce/#settings\\.configure\\.alt\\."
+                ]
+            ],
+            "offsetY": 15.79998779296875,
+            "offsetX": 130.39999961853027
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Alternative text"
+                ],
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.alt",
+                    "#settings\\.configure\\.alt\\."
+                ],
+                [
+                    "pierce/#settings\\.configure\\.alt\\."
+                ]
+            ],
+            "offsetY": 15.79998779296875,
+            "offsetX": 130.39999961853027
+        },
+        {
+            "type": "change",
+            "value": "a championship team skates off after the big win",
+            "selectors": [
+                [
+                    "aria/Alternative text"
+                ],
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.alt",
+                    "#settings\\.configure\\.alt\\."
+                ],
+                [
+                    "pierce/#settings\\.configure\\.alt\\."
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.card",
+                    "simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#settings\\.configure\\.card",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 11.5,
+            "offsetX": 16.08749771118164
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.box",
+                    "simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#settings\\.configure\\.box",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 8.5,
+            "offsetX": 12.387500762939453
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Citation"
+                ],
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.citation",
+                    "#settings\\.configure\\.citation\\."
+                ],
+                [
+                    "pierce/#settings\\.configure\\.citation\\."
+                ]
+            ],
+            "offsetY": 15,
+            "offsetX": 88.39999961853027
+        },
+        {
+            "type": "change",
+            "value": "P",
+            "selectors": [
+                [
+                    "aria/Citation"
+                ],
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.citation",
+                    "#settings\\.configure\\.citation\\."
+                ],
+                [
+                    "pierce/#settings\\.configure\\.citation\\."
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "keyUp",
+            "key": "p",
+            "target": "main"
+        },
+        {
+            "type": "change",
+            "value": "Penn St",
+            "selectors": [
+                [
+                    "aria/Citation"
+                ],
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.citation",
+                    "#settings\\.configure\\.citation\\."
+                ],
+                [
+                    "pierce/#settings\\.configure\\.citation\\."
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "keyUp",
+            "key": "s",
+            "target": "main"
+        },
+        {
+            "type": "change",
+            "value": "Penn State Roller Hockey",
+            "selectors": [
+                [
+                    "aria/Citation"
+                ],
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.citation",
+                    "#settings\\.configure\\.citation\\."
+                ],
+                [
+                    "pierce/#settings\\.configure\\.citation\\."
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Tab"
+        },
+        {
+            "type": "keyUp",
+            "key": "Tab",
+            "target": "main"
+        },
+        {
+            "type": "change",
+            "value": "NCRHA 2010 C",
+            "selectors": [
+                [
+                    "aria/Caption"
+                ],
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.caption",
+                    "#settings\\.configure\\.caption\\."
+                ],
+                [
+                    "pierce/#settings\\.configure\\.caption\\."
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "keyUp",
+            "key": "c",
+            "target": "main"
+        },
+        {
+            "type": "change",
+            "value": "NCRHA 2010 Championship game",
+            "selectors": [
+                [
+                    "aria/Caption"
+                ],
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.caption",
+                    "#settings\\.configure\\.caption\\."
+                ],
+                [
+                    "pierce/#settings\\.configure\\.caption\\."
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/files/champions.jpg"
+                ],
+                [
+                    "clean-one",
+                    "#hax",
+                    "media-image:nth-of-type(2)",
+                    "media-image-image",
+                    "img"
+                ],
+                [
+                    "pierce/media-image:nth-of-type(2)",
+                    "pierce/img"
+                ]
+            ],
+            "offsetY": 81.4749755859375,
+            "offsetX": 66.20001220703125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/[role=\"main\"]",
+                    "aria/[role=\"article\"]"
+                ],
+                [
+                    "clean-one",
+                    "article"
+                ],
+                [
+                    "pierce/article"
+                ]
+            ],
+            "offsetY": 642,
+            "offsetX": 185.19998168945312
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Alt"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "super-daemon",
+                    "super-daemon-ui",
+                    "#option-3",
+                    "div.path"
+                ],
+                [
+                    "pierce/#option-3",
+                    "pierce/div.path"
+                ]
+            ],
+            "offsetY": 5.399993896484375,
+            "offsetX": 93
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#editbutton",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#editbutton",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 13,
+            "offsetX": 16,
+            "duration": 363
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "image-gallery",
+                    "div.masonry-layout"
+                ],
+                [
+                    "pierce/image-gallery",
+                    "pierce/div.masonry-layout"
+                ]
+            ],
+            "offsetY": 59.59999084472656,
+            "offsetX": 680.1999816894531
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#manifestbtn",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#manifestbtn",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 17,
+            "offsetX": 11.4000244140625,
+            "duration": 832
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Files"
+                ],
+                [
+                    "haxcms-site-settings-dashboard",
+                    "div.advanced-grid > div:nth-of-type(1) > button"
+                ],
+                [
+                    "pierce/div.advanced-grid > div:nth-of-type(1) > button"
+                ]
+            ],
+            "offsetY": 70.03750610351562,
+            "offsetX": 52.399993896484375,
+            "duration": 359
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+id: item-78d3584b-1eb5-489f-9355-7c3cb78a61bd
+indent: 2
+location: pages/item-78d3584b-1eb5-489f-9355-7c3cb78a61bd/index.yaml
+slug: block-reference/multimedia/media-playlist
+order: 4
+parent: item-3d74bcd7-710b-4a3c-b9eb-96ae68e9fadf
+title: Media Playlist
+description: ''
+metadata:
+  tags: beginner,content-author,creator,reference,media,blocks
+  fields:
+    skill: beginner
+    persona:
+      - content-author
+      - creator
+    capability:
+      - reference
+      - media
+      - blocks
+  published: true
+  hideInMenu: false
+  created: 1788285969
+  updated: 1788285969
+content: >
+
+  <p>Media playlist is a rich multimedia container for organizing video and
+  audio content into a navigable player layout with a sidebar playlist.</p>
+
+  <h2 data-original-level="H2" id="header-media-playlist-example">Example</h2>
+
+  <media-playlist><video-player
+  source="https://www.youtube.com/watch?v=mqT2Q7fke1c" media-title="Example
+  video"></video-player></media-playlist>

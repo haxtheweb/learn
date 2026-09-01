@@ -1,0 +1,981 @@
+{
+    "title": "outline",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1520,
+            "height": 873,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "http://localhost:3000/_sites/hax100/given-text/new-page",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "http://localhost:3000/_sites/hax100/given-text/new-page",
+                    "title": "New Page"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/[role=\"main\"]",
+                    "aria/[role=\"article\"]"
+                ],
+                [
+                    "clean-one",
+                    "article"
+                ],
+                [
+                    "pierce/article"
+                ]
+            ],
+            "offsetY": 658,
+            "offsetX": 387.1999816894531
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#slot"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/#slot"
+                ]
+            ],
+            "offsetY": 291.59999084472656,
+            "offsetX": 158.19998168945312
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#slot"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/#slot"
+                ]
+            ],
+            "offsetY": 30.599990844726562,
+            "offsetX": 433.1999816894531
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-40df49f1-1317-42a8-8103-15c8b63c7674",
+                    "haxcms-page-operations",
+                    "#outlineactionsbtn",
+                    "simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#outlineactionsbtn",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 1.074981689453125,
+            "offsetX": 3.73748779296875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Outdent"
+                ],
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-40df49f1-1317-42a8-8103-15c8b63c7674",
+                    "haxcms-page-operations",
+                    "simple-toolbar-button:nth-of-type(4)",
+                    "#button"
+                ],
+                [
+                    "pierce/#sitemenu",
+                    "pierce/simple-toolbar-button:nth-of-type(4)",
+                    "pierce/#button"
+                ]
+            ],
+            "offsetY": 16.14996337890625,
+            "offsetX": 76.9375,
+            "duration": 434
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-40df49f1-1317-42a8-8103-15c8b63c7674",
+                    "haxcms-page-operations",
+                    "#outlineactionsbtn",
+                    "simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#outlineactionsbtn",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 5.074981689453125,
+            "offsetX": 7.73748779296875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-40df49f1-1317-42a8-8103-15c8b63c7674",
+                    "haxcms-page-operations",
+                    "simple-toolbar-button:nth-of-type(1)",
+                    "#label"
+                ],
+                [
+                    "pierce/#sitemenu",
+                    "pierce/simple-toolbar-button:nth-of-type(1)",
+                    "pierce/#label"
+                ]
+            ],
+            "offsetY": 2.350006103515625,
+            "offsetX": 13.137481689453125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-5c35161e-e57b-4a29-a987-016d81c349a4",
+                    "span"
+                ],
+                [
+                    "pierce/#item-5c35161e-e57b-4a29-a987-016d81c349a4",
+                    "pierce/span"
+                ]
+            ],
+            "offsetY": 16.79998779296875,
+            "offsetX": 111,
+            "duration": 433
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-5c35161e-e57b-4a29-a987-016d81c349a4",
+                    "haxcms-page-operations",
+                    "#outlineactionsbtn",
+                    "simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#outlineactionsbtn",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 9.074981689453125,
+            "offsetX": 4.73748779296875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-5c35161e-e57b-4a29-a987-016d81c349a4",
+                    "haxcms-page-operations",
+                    "simple-toolbar-button:nth-of-type(3)",
+                    "#label"
+                ],
+                [
+                    "pierce/#sitemenu",
+                    "pierce/simple-toolbar-button:nth-of-type(3)",
+                    "pierce/#label"
+                ]
+            ],
+            "offsetY": 6.149993896484375,
+            "offsetX": 32.137481689453125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Syllabus Lesson 1 expand expand video adding images New Page collapse collapse Given text after the fact Outline Actions Outline Actions",
+                    "aria/New Page[role=\"button\"]"
+                ],
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-40df49f1-1317-42a8-8103-15c8b63c7674",
+                    "#item-40df49f1-1317-42a8-8103-15c8b63c7674",
+                    "button"
+                ],
+                [
+                    "pierce/map-menu",
+                    "pierce/#item-40df49f1-1317-42a8-8103-15c8b63c7674",
+                    "pierce/#item-40df49f1-1317-42a8-8103-15c8b63c7674",
+                    "pierce/button"
+                ]
+            ],
+            "offsetY": 14.79998779296875,
+            "offsetX": 153
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-40df49f1-1317-42a8-8103-15c8b63c7674",
+                    "#item-40df49f1-1317-42a8-8103-15c8b63c7674",
+                    "haxcms-page-operations",
+                    "#outlineactionsbtn",
+                    "simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#outlineactionsbtn",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 9.8125,
+            "offsetX": 5.212493896484375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Indent"
+                ],
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-40df49f1-1317-42a8-8103-15c8b63c7674",
+                    "#item-40df49f1-1317-42a8-8103-15c8b63c7674",
+                    "haxcms-page-operations",
+                    "simple-toolbar-button:nth-of-type(3)",
+                    "#button"
+                ],
+                [
+                    "pierce/#sitemenu",
+                    "pierce/simple-toolbar-button:nth-of-type(3)",
+                    "pierce/#button"
+                ]
+            ],
+            "offsetY": 12.48748779296875,
+            "offsetX": 62.412506103515625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-82a7beb4-d8f7-4643-8c7f-a90b65e0b8ec",
+                    "#item-82a7beb4-d8f7-4643-8c7f-a90b65e0b8ec",
+                    "div"
+                ],
+                [
+                    "pierce/map-menu",
+                    "pierce/#item-82a7beb4-d8f7-4643-8c7f-a90b65e0b8ec",
+                    "pierce/#item-82a7beb4-d8f7-4643-8c7f-a90b65e0b8ec",
+                    "pierce/div"
+                ]
+            ],
+            "offsetY": 16.800003051757812,
+            "offsetX": 57
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-82a7beb4-d8f7-4643-8c7f-a90b65e0b8ec",
+                    "#item-82a7beb4-d8f7-4643-8c7f-a90b65e0b8ec",
+                    "haxcms-page-operations",
+                    "#outlineactionsbtn",
+                    "simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#outlineactionsbtn",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 3.8125,
+            "offsetX": 6.212493896484375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-82a7beb4-d8f7-4643-8c7f-a90b65e0b8ec",
+                    "#item-82a7beb4-d8f7-4643-8c7f-a90b65e0b8ec",
+                    "haxcms-page-operations",
+                    "simple-toolbar-button:nth-of-type(1)",
+                    "#label"
+                ],
+                [
+                    "pierce/#sitemenu",
+                    "pierce/simple-toolbar-button:nth-of-type(1)",
+                    "pierce/#label"
+                ]
+            ],
+            "offsetY": 3.087493896484375,
+            "offsetX": 12.61248779296875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "image-gallery",
+                    "div.masonry-layout"
+                ],
+                [
+                    "pierce/image-gallery",
+                    "pierce/div.masonry-layout"
+                ]
+            ],
+            "offsetY": 50.59999084472656,
+            "offsetX": 681.1999816894531
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#slot"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/#slot"
+                ]
+            ],
+            "offsetY": 361.59999084472656,
+            "offsetX": 525.1999816894531
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#outlinebutton",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#outlinebutton",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 17,
+            "offsetX": 13.4000244140625,
+            "duration": 382
+        },
+        {
+            "type": "doubleClick",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-outline-editor-dialog",
+                    "#outline",
+                    "div.controls > simple-toolbar-button:nth-of-type(1)",
+                    "#icon"
+                ],
+                [
+                    "pierce/div.controls > simple-toolbar-button:nth-of-type(1)",
+                    "pierce/#icon"
+                ]
+            ],
+            "offsetY": 37.837493896484375,
+            "offsetX": 24.599990844726562
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-outline-editor-dialog",
+                    "#outline",
+                    "div.controls > simple-toolbar-button:nth-of-type(1)",
+                    "#icon"
+                ],
+                [
+                    "pierce/div.controls > simple-toolbar-button:nth-of-type(1)",
+                    "pierce/#icon"
+                ]
+            ],
+            "offsetY": 37.837493896484375,
+            "offsetX": 24.599990844726562
+        },
+        {
+            "type": "doubleClick",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-outline-editor-dialog",
+                    "#outline",
+                    "div.controls > simple-toolbar-button:nth-of-type(1)",
+                    "#icon"
+                ],
+                [
+                    "pierce/div.controls > simple-toolbar-button:nth-of-type(1)",
+                    "pierce/#icon"
+                ]
+            ],
+            "offsetY": 37.837493896484375,
+            "offsetX": 24.599990844726562
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-outline-editor-dialog",
+                    "#outline",
+                    "div.controls > simple-toolbar-button:nth-of-type(1)",
+                    "#icon"
+                ],
+                [
+                    "pierce/div.controls > simple-toolbar-button:nth-of-type(1)",
+                    "pierce/#icon"
+                ]
+            ],
+            "offsetY": 37.837493896484375,
+            "offsetX": 24.599990844726562
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-outline-editor-dialog",
+                    "#outline",
+                    "li:nth-of-type(2) > div > simple-toolbar-button",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/li:nth-of-type(2) > div > simple-toolbar-button",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 16.837493896484375,
+            "offsetX": 15.600006103515625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Duplicate"
+                ],
+                [
+                    "haxcms-outline-editor-dialog",
+                    "#outline",
+                    "li:nth-of-type(2) simple-toolbar-button:nth-of-type(7)",
+                    "#button"
+                ],
+                [
+                    "pierce/li:nth-of-type(2) simple-toolbar-button:nth-of-type(7)",
+                    "pierce/#button"
+                ]
+            ],
+            "offsetY": 13.83746337890625,
+            "offsetX": 82
+        },
+        {
+            "type": "doubleClick",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-outline-editor-dialog",
+                    "#outline",
+                    "li:nth-of-type(2) > span.label"
+                ],
+                [
+                    "pierce/li:nth-of-type(2) > span.label"
+                ]
+            ],
+            "offsetY": 9.23748779296875,
+            "offsetX": 46.600006103515625
+        },
+        {
+            "type": "change",
+            "value": "rename popageas",
+            "selectors": [
+                [
+                    "haxcms-outline-editor-dialog",
+                    "#outline",
+                    "li.active-page > span.label-edit"
+                ],
+                [
+                    "pierce/li.active-page > span.label-edit"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Enter"
+        },
+        {
+            "type": "keyUp",
+            "key": "Enter",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Tab"
+        },
+        {
+            "type": "keyUp",
+            "key": "Tab",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Tab"
+        },
+        {
+            "type": "keyUp",
+            "key": "Tab",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Tab"
+        },
+        {
+            "type": "keyUp",
+            "key": "Tab",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Tab"
+        },
+        {
+            "type": "keyUp",
+            "key": "Tab",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Enter"
+        },
+        {
+            "type": "keyUp",
+            "key": "Enter",
+            "target": "main"
+        },
+        {
+            "type": "change",
+            "value": "things",
+            "selectors": [
+                [
+                    "haxcms-outline-editor-dialog",
+                    "#outline",
+                    "li:nth-of-type(3) > span.label-edit"
+                ],
+                [
+                    "pierce/li:nth-of-type(3) > span.label-edit"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Enter"
+        },
+        {
+            "type": "keyUp",
+            "key": "Enter",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Tab"
+        },
+        {
+            "type": "keyUp",
+            "key": "Tab",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Tab"
+        },
+        {
+            "type": "keyUp",
+            "key": "Tab",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Tab"
+        },
+        {
+            "type": "keyUp",
+            "key": "Tab",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Tab"
+        },
+        {
+            "type": "keyUp",
+            "key": "Tab",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Enter"
+        },
+        {
+            "type": "keyUp",
+            "key": "Enter",
+            "target": "main"
+        },
+        {
+            "type": "change",
+            "value": "stuiff",
+            "selectors": [
+                [
+                    "haxcms-outline-editor-dialog",
+                    "#outline",
+                    "li:nth-of-type(4) > span.label-edit"
+                ],
+                [
+                    "pierce/li:nth-of-type(4) > span.label-edit"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Enter"
+        },
+        {
+            "type": "keyUp",
+            "key": "Enter",
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-outline-editor-dialog",
+                    "#outline",
+                    "li:nth-of-type(4) > div > simple-toolbar-button",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/li:nth-of-type(4) > div > simple-toolbar-button",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 20.637481689453125,
+            "offsetX": 9.600006103515625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-outline-editor-dialog",
+                    "#outline",
+                    "li:nth-of-type(4) simple-toolbar-button:nth-of-type(2)",
+                    "#label"
+                ],
+                [
+                    "pierce/li:nth-of-type(4) simple-toolbar-button:nth-of-type(2)",
+                    "pierce/#label"
+                ]
+            ],
+            "offsetY": 0.037506103515625,
+            "offsetX": 29.199981689453125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Save Outline"
+                ],
+                [
+                    "haxcms-outline-editor-dialog",
+                    "button:nth-of-type(1)"
+                ],
+                [
+                    "pierce/haxcms-outline-editor-dialog",
+                    "pierce/button:nth-of-type(1)"
+                ]
+            ],
+            "offsetY": 26.76251220703125,
+            "offsetX": 81.39999389648438
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-fd0b8226-0f0f-4340-8e97-f48a0a3cf485",
+                    "#item-fd0b8226-0f0f-4340-8e97-f48a0a3cf485",
+                    "div"
+                ],
+                [
+                    "pierce/map-menu",
+                    "pierce/#item-fd0b8226-0f0f-4340-8e97-f48a0a3cf485",
+                    "pierce/#item-fd0b8226-0f0f-4340-8e97-f48a0a3cf485",
+                    "pierce/div"
+                ]
+            ],
+            "offsetY": 2.8000030517578125,
+            "offsetX": 112
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-05cb00cf-a2d6-4bde-a9f8-087a87b15c52",
+                    "#item-05cb00cf-a2d6-4bde-a9f8-087a87b15c52",
+                    "div"
+                ],
+                [
+                    "pierce/map-menu",
+                    "pierce/#item-05cb00cf-a2d6-4bde-a9f8-087a87b15c52",
+                    "pierce/#item-05cb00cf-a2d6-4bde-a9f8-087a87b15c52",
+                    "pierce/div"
+                ]
+            ],
+            "offsetY": 15.800003051757812,
+            "offsetX": 92.39999771118164
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-78bae84c-e6f2-495c-b80a-9bdfb2de80d4",
+                    "#item-78bae84c-e6f2-495c-b80a-9bdfb2de80d4",
+                    "button"
+                ],
+                [
+                    "pierce/map-menu",
+                    "pierce/#item-78bae84c-e6f2-495c-b80a-9bdfb2de80d4",
+                    "pierce/#item-78bae84c-e6f2-495c-b80a-9bdfb2de80d4",
+                    "pierce/button"
+                ]
+            ],
+            "offsetY": 32.79998779296875,
+            "offsetX": 87.79999923706055
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-523f8d5d-d7e1-48a6-bd79-fa304613df40",
+                    "span"
+                ],
+                [
+                    "pierce/#item-523f8d5d-d7e1-48a6-bd79-fa304613df40",
+                    "pierce/span"
+                ]
+            ],
+            "offsetY": 7.79998779296875,
+            "offsetX": 77.79999923706055
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-4c3b7abb-522a-4f26-ad5c-f16ba9966a17",
+                    "span"
+                ],
+                [
+                    "pierce/#item-4c3b7abb-522a-4f26-ad5c-f16ba9966a17",
+                    "pierce/span"
+                ]
+            ],
+            "offsetY": 14.79998779296875,
+            "offsetX": 79.20000076293945
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Syllabus[role=\"button\"]"
+                ],
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-course-syllabus",
+                    "button"
+                ],
+                [
+                    "pierce/#item-course-syllabus",
+                    "pierce/button"
+                ]
+            ],
+            "offsetY": 28.199981689453125,
+            "offsetX": 120
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/New item rename popageas expand expand Copy of New item collapse collapse Copy of New item collapse collapse Copy of New item collapse collapse",
+                    "aria/Lesson 1[role=\"button\"]"
+                ],
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-lesson-1",
+                    "#item-lesson-1",
+                    "button"
+                ],
+                [
+                    "pierce/map-menu",
+                    "pierce/#item-lesson-1",
+                    "pierce/#item-lesson-1",
+                    "pierce/button"
+                ]
+            ],
+            "offsetY": 26.199981689453125,
+            "offsetX": 122
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-lesson-1-intro",
+                    "span"
+                ],
+                [
+                    "pierce/#item-lesson-1-intro",
+                    "pierce/span"
+                ]
+            ],
+            "offsetY": 13.199981689453125,
+            "offsetX": 89.39999771118164
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/New Page[role=\"button\"]"
+                ],
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-40df49f1-1317-42a8-8103-15c8b63c7674",
+                    "#item-40df49f1-1317-42a8-8103-15c8b63c7674",
+                    "button"
+                ],
+                [
+                    "pierce/map-menu",
+                    "pierce/#item-40df49f1-1317-42a8-8103-15c8b63c7674",
+                    "pierce/#item-40df49f1-1317-42a8-8103-15c8b63c7674",
+                    "pierce/button"
+                ]
+            ],
+            "offsetY": 1.5999755859375,
+            "offsetX": 86.39999961853027
+        }
+    ]
+}

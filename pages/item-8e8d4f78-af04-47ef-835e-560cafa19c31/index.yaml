@@ -1,0 +1,44 @@
+id: item-8e8d4f78-af04-47ef-835e-560cafa19c31
+indent: 1
+location: pages/item-8e8d4f78-af04-47ef-835e-560cafa19c31/index.yaml
+slug: start-here/cat
+order: 0
+parent: item-c79ab22a-2fbc-4054-9175-48c65fef2dd6
+title: Cat — Content Author
+description: ''
+metadata:
+  tags: beginner,content-author,authoring,blocks
+  fields:
+    skill: beginner
+    persona:
+      - content-author
+    capability:
+      - authoring
+      - blocks
+  published: true
+  hideInMenu: false
+  created: 1788285967
+  updated: 1788285967
+content: >
+  <accent-card accent-color="red" accent-heading="" horizontal=""
+  image-src="files/start-here/CopyQ.wKAPJI.png" image-alt="Cat avatar" ready="">
+    <h2 slot="heading">Web content author, knows some HTML</h2>
+    <div slot="content">
+      <p>Cat has used the web and understands HTML but doesn't write it well enough to feel confident. She likes to know she can, and it helps inform her understanding of what HAX is doing, but she'd rather let a block editor do the hard work. Cat likes the way HAX lets her organize content, especially being able to "try on" a structure within a page or across multiple pages in order to iterate toward better content.</p>
+    </div>
+  </accent-card>
+
+  <h2>Where to start</h2>
+
+  <p>These areas of Learn HAX map most directly to what Cat wants to do:</p>
+
+  <ul>
+    <li><a href="/tutorial-library/editing-authoring">Editing &amp; Authoring</a> — get comfortable opening a page, adding blocks, and using slash commands.</li>
+    <li><a href="/tutorial-library/creating-structuring-content">Creating &amp; Structuring Content</a> — build and reorder the outline of a site.</li>
+    <li><a href="/tutorial-library/working-with-media">Working with Media</a> — drop in video and images without touching code.</li>
+    <li><a href="/block-reference">Block Reference</a> — browse every block you can insert into a page.</li>
+  </ul>
+
+  <p>When you're ready to bring existing material in, see <a
+  href="/import-content">Import Content</a> for DOCX and spreadsheet import
+  paths.</p>

@@ -1,0 +1,456 @@
+{
+    "title": "import-xlsx",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1520,
+            "height": 873,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "http://localhost:3000/_sites/hax100/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "http://localhost:3000/_sites/hax100/",
+                    "title": "hax100"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#slot"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/#slot"
+                ]
+            ],
+            "offsetY": 330.59999084472656,
+            "offsetX": 320.1999816894531
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#editbutton",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#editbutton",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 10,
+            "offsetX": 15
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Alt"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "super-daemon",
+                    "super-daemon-ui",
+                    "#option-0",
+                    "div.action"
+                ],
+                [
+                    "pierce/#option-0",
+                    "pierce/div.action"
+                ]
+            ],
+            "offsetY": 10,
+            "offsetX": 108
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#exportbtn",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#exportbtn",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 14,
+            "offsetX": 20
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(6) span.mtk8"
+                ],
+                [
+                    "xpath///*[@id=\"container\"]/div/div[1]/div[2]/div[1]/div[4]/div[6]/span/span[2]"
+                ],
+                [
+                    "pierce/div:nth-of-type(6) span.mtk8"
+                ]
+            ],
+            "offsetY": 14.199996948242188,
+            "offsetX": 27.162498474121094,
+            "frame": [
+                0
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Update HTML[role=\"button\"]"
+                ],
+                [
+                    "hax-tray",
+                    "#view-source",
+                    "hax-tray-button.updatecontent",
+                    "#button"
+                ],
+                [
+                    "pierce/hax-tray-button.updatecontent",
+                    "pierce/#button"
+                ]
+            ],
+            "offsetY": 17,
+            "offsetX": 112
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#editbutton",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#editbutton",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 19,
+            "offsetX": 0
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#slot"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/#slot"
+                ]
+            ],
+            "offsetY": 358.59999084472656,
+            "offsetX": 345.1999816894531
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#slot"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/#slot"
+                ]
+            ],
+            "offsetY": 249.59999084472656,
+            "offsetX": 323.1999816894531
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "div.topbar-left-group simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/div.topbar-left-group simple-icon-lite",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 27,
+            "offsetX": 24,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "http://localhost:3000/",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "div > section div:nth-of-type(6) > app-hax-use-case",
+                    "simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/app-hax-use-case-filter",
+                    "pierce/div > section div:nth-of-type(6) > app-hax-use-case",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 45.03999328613281,
+            "offsetX": 20.239990234375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "div:nth-of-type(5) div:nth-of-type(4) > app-hax-use-case",
+                    "simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/div:nth-of-type(5) div:nth-of-type(4) > app-hax-use-case",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 64.83998107910156,
+            "offsetX": 30.63995361328125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Create Site"
+                ],
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "#siteCreationModal",
+                    "button.button-primary"
+                ],
+                [
+                    "pierce/button.button-primary"
+                ]
+            ],
+            "offsetY": 29.39996337890625,
+            "offsetX": 98.77496337890625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Go to Site"
+                ],
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "#siteCreationModal",
+                    "button.button-success"
+                ],
+                [
+                    "pierce/button.button-success"
+                ]
+            ],
+            "offsetY": 40.5999755859375,
+            "offsetX": 70.33746337890625
+        },
+        {
+            "type": "click",
+            "target": "http://localhost:3000/_sites/import-example/",
+            "selectors": [
+                [
+                    "aria/Home Outline Actions Outline Actions collapse collapse About expand expand Contact",
+                    "aria/About[role=\"button\"]"
+                ],
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-8f8cd8ac-eb1d-4c8c-bb46-8780987759a5",
+                    "#item-8f8cd8ac-eb1d-4c8c-bb46-8780987759a5",
+                    "button"
+                ],
+                [
+                    "pierce/map-menu",
+                    "pierce/#item-8f8cd8ac-eb1d-4c8c-bb46-8780987759a5",
+                    "pierce/#item-8f8cd8ac-eb1d-4c8c-bb46-8780987759a5",
+                    "pierce/button"
+                ]
+            ],
+            "offsetY": 31.800003051757812,
+            "offsetX": 154.39999961853027
+        },
+        {
+            "type": "click",
+            "target": "http://localhost:3000/_sites/import-example/",
+            "selectors": [
+                [
+                    "html"
+                ],
+                [
+                    "xpath//html"
+                ],
+                [
+                    "pierce/html"
+                ]
+            ],
+            "offsetY": 189,
+            "offsetX": 167
+        },
+        {
+            "type": "click",
+            "target": "http://localhost:3000/_sites/import-example/",
+            "selectors": [
+                [
+                    "html"
+                ],
+                [
+                    "xpath//html"
+                ],
+                [
+                    "pierce/html"
+                ]
+            ],
+            "offsetY": 201,
+            "offsetX": 420
+        },
+        {
+            "type": "click",
+            "target": "http://localhost:3000/_sites/import-example/",
+            "selectors": [
+                [
+                    "html"
+                ],
+                [
+                    "xpath//html"
+                ],
+                [
+                    "pierce/html"
+                ]
+            ],
+            "offsetY": 194,
+            "offsetX": 134
+        },
+        {
+            "type": "click",
+            "target": "http://localhost:3000/_sites/import-example/",
+            "selectors": [
+                [
+                    "html"
+                ],
+                [
+                    "xpath//html"
+                ],
+                [
+                    "pierce/html"
+                ]
+            ],
+            "offsetY": 218,
+            "offsetX": 96
+        },
+        {
+            "type": "click",
+            "target": "http://localhost:3000/_sites/import-example/",
+            "selectors": [
+                [
+                    "html"
+                ],
+                [
+                    "xpath//html"
+                ],
+                [
+                    "pierce/html"
+                ]
+            ],
+            "offsetY": 378,
+            "offsetX": 611
+        },
+        {
+            "type": "click",
+            "target": "http://localhost:3000/_sites/import-example/",
+            "selectors": [
+                [
+                    "html"
+                ],
+                [
+                    "xpath//html"
+                ],
+                [
+                    "pierce/html"
+                ]
+            ],
+            "offsetY": 221,
+            "offsetX": 110
+        },
+        {
+            "type": "click",
+            "target": "http://localhost:3000/_sites/import-example/",
+            "selectors": [
+                [
+                    "html"
+                ],
+                [
+                    "xpath//html"
+                ],
+                [
+                    "pierce/html"
+                ]
+            ],
+            "offsetY": 187,
+            "offsetX": 45
+        },
+        {
+            "type": "click",
+            "target": "http://localhost:3000/_sites/import-example/",
+            "selectors": [
+                [
+                    "html"
+                ],
+                [
+                    "xpath//html"
+                ],
+                [
+                    "pierce/html"
+                ]
+            ],
+            "offsetY": 34,
+            "offsetX": 28
+        }
+    ]
+}

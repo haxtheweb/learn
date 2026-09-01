@@ -1,0 +1,78 @@
+id: item-a18c52a4-5f61-46cb-ac85-d954e7473977
+indent: 2
+location: pages/item-a18c52a4-5f61-46cb-ac85-d954e7473977/index.yaml
+slug: tutorial-library/editing-authoring/edit-a-page
+order: 0
+parent: item-77e491c7-219b-4501-bbd2-76c71aea802f
+title: Edit a Page
+description: ''
+metadata:
+  tags: beginner,content-author,creator,editing,authoring
+  fields:
+    skill: beginner
+    persona:
+      - content-author
+      - creator
+    capability:
+      - editing
+      - authoring
+  published: true
+  hideInMenu: false
+  created: 1788285967
+  updated: 1788285967
+content: >
+  <video-player id="1612d9e5-3fc8-4f00-8f8d-ccef7d98892b"
+  source="https://www.youtube.com/watch?v=hnG2IrpNy4A" media-title="Learn HAX:
+  Edit a page" data-width="100" data-margin="center"
+  track="files/edit-a-page/transcript.vtt"></video-player>
+
+  <h2>How to Edit a Page in HACS: Step-by-Step
+  Tutorial</h2><h2>Prerequisites</h2><ul><li><strong>Permissions</strong>: You
+  need editing rights for the page you wish to modify.</li></ul><p>Familiarity
+  with basic navigation in HAX will help you follow these steps
+  smoothly.</p><media-image source="files/edit-a-page/images/screenshot-1.jpg"
+  caption="Prerequisites" offset="narrow" card="" box=""
+  alt="Prerequisites"></media-image><h2>Open the Editor Panel</h2><p>To begin
+  editing, click the <strong>pencil icon</strong> at the top of the page. This
+  action opens the editor panel, displaying the content blocks and page
+  structure. You'll see the current source powering the page and a grayed-out
+  section for settings.</p><media-image
+  source="files/edit-a-page/images/screenshot-2.jpg" caption="Open the Editor
+  Panel" offset="narrow" card="" box="" alt="Open the Editor
+  Panel"></media-image><h2>Select and Edit Content Blocks</h2><p>Click on any
+  content block within the page body—such as a heading. The settings tab will
+  open, allowing you to modify properties specific to that block. For example,
+  selecting a heading reveals settings like text, lock status, and advanced
+  developer options. Most users will focus on the <strong>Configure</strong>
+  section for basic edits.</p><media-image
+  source="files/edit-a-page/images/screenshot-3.jpg" caption="Select and Edit
+  Content Blocks" offset="narrow" card="" box="" alt="Select and Edit Content
+  Blocks"></media-image><h2>Edit Text and Block
+  Type</h2><ul><li><strong>Typing:</strong> Click into the text area and start
+  typing or deleting as needed. The editing bar will disappear as you type and
+  reappear when you pause.</li><li><strong>Change Block Type:</strong> If you
+  want to switch from a paragraph to another block type, use the tab provided in
+  the editor panel.</li></ul><p>This flexible editing lets you update content
+  and structure easily.</p><media-image
+  source="files/edit-a-page/images/screenshot-4.jpg" caption="Edit Text and
+  Block Type" offset="narrow" card="" box="" alt="Edit Text and Block
+  Type"></media-image><h2>Save Your Changes</h2><p>Once you've made your edits,
+  click the <strong>Save</strong> button to apply your changes to the page. This
+  ensures all modifications are stored and visible to others with
+  access.</p><media-image source="files/edit-a-page/images/screenshot-5.jpg"
+  caption="Save Your Changes" offset="narrow" card="" box="" alt="Save Your
+  Changes"></media-image><h2>Verification</h2><p>Review the updated page to
+  confirm your changes appear as intended. If necessary, repeat the steps to
+  make further adjustments. Congratulations! You've successfully edited a page
+  in HAX.</p>
+
+  <h2>Tutorial Details</h2>
+
+  <ul>
+      <li><a href="https://www.youtube.com/watch?v=hnG2IrpNy4A">Video Tutorial Link (YouTube)</a> - <a href="files/edit-a-page/transcript.vtt">transcript</a></li>
+      <li>Images in this page: <a href="files/edit-a-page/images/screenshot-1.jpg">screenshot-1.jpg</a>, <a href="files/edit-a-page/images/screenshot-2.jpg">screenshot-2.jpg</a>, <a href="files/edit-a-page/images/screenshot-3.jpg">screenshot-3.jpg</a>, <a href="files/edit-a-page/images/screenshot-4.jpg">screenshot-4.jpg</a>, <a href="files/edit-a-page/images/screenshot-5.jpg">screenshot-5.jpg</a></li>
+      <li><a href="files/edit-a-page/2026-07-24-Learn-HAX_-Edit-a-Page.docx">Original Content Source (DOCX)</a></li>
+      <li><a href="files/edit-a-page/edit-a-page.json">Automation recording (JSON)</a></li>
+      <li>Last updated: July 27, 2026</li>
+      <li>HAXcms version: 26.0.0</li>
+  </ul>

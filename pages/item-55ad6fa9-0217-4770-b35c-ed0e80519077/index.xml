@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+<id>item-55ad6fa9-0217-4770-b35c-ed0e80519077</id>
+<indent>2</indent>
+<location>pages/item-55ad6fa9-0217-4770-b35c-ed0e80519077/index.xml</location>
+<slug>tutorial-library/creating-structuring-content/managing-course-structure</slug>
+<order>2</order>
+<parent>item-33529864-7498-46e7-b27a-8487845c28a5</parent>
+<title>Managing Course Structure</title>
+<description></description>
+<metadata>
+<tags>beginner,site-builder,content-author,pages-structure</tags>
+<fields>
+<skill>beginner</skill>
+<persona>
+<item>site-builder</item>
+<item>content-author</item>
+</persona>
+<capability>
+<item>pages-structure</item>
+</capability>
+</fields>
+<published>true</published>
+<hideInMenu>false</hideInMenu>
+<created>1788285967</created>
+<updated>1788285967</updated>
+</metadata>
+<content><![CDATA[
+<p>The outline designer is an interface for bulk management of the site outline. It allows you to add, delete, duplicate, and move content around in bulk and then see changes applied on save.</p>
+]]></content>
+</item>

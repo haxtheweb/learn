@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+<id>item-f5956eb6-ba21-4204-9995-ba3392b26768</id>
+<indent>1</indent>
+<location>pages/item-f5956eb6-ba21-4204-9995-ba3392b26768/index.xml</location>
+<slug>tutorial-library/developer-onboarding</slug>
+<order>5</order>
+<parent>item-1467f036-344e-4c49-8232-6b1f6a730c76</parent>
+<title>Developer Onboarding</title>
+<description></description>
+<metadata>
+<tags>developer,developer,onboarding</tags>
+<fields>
+<skill>developer</skill>
+<persona>
+<item>developer</item>
+</persona>
+<capability>
+<item>onboarding</item>
+</capability>
+</fields>
+<published>true</published>
+<hideInMenu>false</hideInMenu>
+<created>1788285968</created>
+<updated>1788285968</updated>
+</metadata>
+<content><![CDATA[<p>This section includes the following pages:</p>
+<ul>
+  <li><a href="/tutorial-library/developer-onboarding/developer-onboarding">Developer Onboarding</a></li>
+</ul>
+]]></content>
+</item>
