@@ -1,0 +1,72 @@
+<p>This page consolidates HAX release notes into one ongoing section fed by future releases. For per-repo detail, follow the release feeds listed under <a href="#tracking-releases">Tracking releases</a>.</p>
+<h2 id="tracking-releases">Tracking releases</h2>
+<ul><li><a href="https://github.com/haxtheweb/webcomponents/releases">webcomponents releases</a> for elements, themes, and DDD updates.</li><li><a href="https://github.com/haxtheweb/create/releases">create CLI releases</a> for authoring workflow and scaffolding changes.</li><li><a href="https://github.com/haxtheweb/haxcms-nodejs/releases">haxcms-nodejs releases</a> and <a href="https://github.com/haxtheweb/haxcms-php/releases">haxcms-php releases</a> for backend and endpoint updates.</li></ul>
+<h2>Suggested upgrade workflow</h2>
+<ol><li>Review release notes for breaking changes and dependency expectations.</li><li>Apply updates in a staging site and test your most-used authoring and import paths.</li><li>Run Reports-based checks (especially link checks) after upgrades.</li><li>Publish once page rendering, media, and navigation all validate.</li></ol>
+<h2>HAX 26.8.0</h2>
+<video-player source="https://www.youtube.com/watch?v=0GqsJ83-gQk" media-title="HAX 26.8.0 Release" data-width="100" data-margin="center" track="files/release-notes/transcript.vtt"></video-player>
+<p>HAX 26.8.0 is the first release shipped under the calendar versioning scheme — the <strong>.8.</strong> marks the August 2026 ship month, not a feature count. It covers roughly three months of work (May 13 → August 13, 2026) since <a href="https://github.com/haxtheweb/webcomponents/releases/tag/v26.0.0">26.0.0</a>, with the PHP and NodeJS backends converged onto a single on-premises v1 REST API, a stronger document and media pipeline, two new themes, and a cleanup pass that cut thousands of legacy lines.</p>
+<h3>Release at a glance</h3>
+<ul>
+<li><strong>Issues closed this cycle:</strong> 236 (vs. 166 opened — closing 1.4× faster than incoming)</li>
+<li><strong>Open backlog:</strong> 191 → 121, a reduction of 70 issues (−37%) while the release was being built</li>
+<li><strong>Commits across the four core repos:</strong> 688</li>
+<li><strong>Files touched:</strong> 9,514</li>
+<li><strong>Net source change:</strong> +94,838 lines — and webcomponents alone shrank net −8,127</li>
+<li><strong>New contributors:</strong> Alyssa F (<a href="https://github.com/kazmyriad">kazmyriad</a>) and Winston (<a href="https://github.com/winstonwumbo">winstonwumbo</a>) — first commits this cycle</li>
+<li><strong>Release QA:</strong> the release QA tracker is closed — <a href="https://github.com/haxtheweb/issues/issues/2918">#2918</a> — signaling the QA pass is complete ahead of tagging.</li>
+</ul>
+<h3>What's new in 26.8.0</h3>
+<h4>On-premises API migration</h4>
+<p>HAX moved off open-api.hax.cloud entirely. Document conversion, the file list, and site operations now run locally, and both backends converged on a v1 REST API — PHP routes refactored to mirror NodeJS, haxcms-php implementing the new v1 surface, with legacy blox, v0, and screenshot endpoints removed.</p>
+<p>Issues: <a href="https://github.com/haxtheweb/issues/issues/2903">#2903</a>, <a href="https://github.com/haxtheweb/issues/issues/2852">#2852</a>, <a href="https://github.com/haxtheweb/issues/issues/2856">#2856</a>, <a href="https://github.com/haxtheweb/issues/issues/2857">#2857</a>, <a href="https://github.com/haxtheweb/issues/issues/2867">#2867</a>, <a href="https://github.com/haxtheweb/issues/issues/2825">#2825</a>, <a href="https://github.com/haxtheweb/issues/issues/2833">#2833</a>, <a href="https://github.com/haxtheweb/issues/issues/2828">#2828</a>, <a href="https://github.com/haxtheweb/issues/issues/2860">#2860</a></p>
+<h4>Import, export, and document conversion</h4>
+<p>Docx import reliability and hierarchy dialog improvements, no more double-encoded ampersands in titles, outline-from-file presentation, EPUB page export, PDF download review, direct embedding from the file admin panel, and CLI skeleton import/export with a better site-creation skeleton selector.</p>
+<p>Issues: <a href="https://github.com/haxtheweb/issues/issues/2794">#2794</a>, <a href="https://github.com/haxtheweb/issues/issues/2915">#2915</a>, <a href="https://github.com/haxtheweb/issues/issues/2916">#2916</a>, <a href="https://github.com/haxtheweb/issues/issues/2922">#2922</a>, <a href="https://github.com/haxtheweb/issues/issues/2924">#2924</a>, <a href="https://github.com/haxtheweb/issues/issues/2925">#2925</a>, <a href="https://github.com/haxtheweb/issues/issues/2937">#2937</a>, <a href="https://github.com/haxtheweb/issues/issues/2902">#2902</a>, <a href="https://github.com/haxtheweb/issues/issues/2798">#2798</a>, <a href="https://github.com/haxtheweb/issues/issues/2799">#2799</a>, <a href="https://github.com/haxtheweb/issues/issues/2921">#2921</a></p>
+<h4>Media and image handling</h4>
+<p>media-playlist and image-gallery blocks folded in, MP3 and MP4 UX improvements, transcript-gap detection for videos, in-place image rotation that reflects changes instantly, and a JPEG quality setting.</p>
+<p>Issues: <a href="https://github.com/haxtheweb/issues/issues/2893">#2893</a>, <a href="https://github.com/haxtheweb/issues/issues/2901">#2901</a>, <a href="https://github.com/haxtheweb/issues/issues/2800">#2800</a>, <a href="https://github.com/haxtheweb/issues/issues/2815">#2815</a>, <a href="https://github.com/haxtheweb/issues/issues/2836">#2836</a>, <a href="https://github.com/haxtheweb/issues/issues/2816">#2816</a></p>
+<h4>Themes and design system</h4>
+<p>Two new themes — a twenty-six (2015-inspired) theme and a link-tree theme — plus palette-default respect, a system-level style guide, site-level block management, normalized .3s/.6s transitions, and a unified user menu across app-hax and hax sites.</p>
+<p>Issues: <a href="https://github.com/haxtheweb/issues/issues/2823">#2823</a>, <a href="https://github.com/haxtheweb/issues/issues/2822">#2822</a>, <a href="https://github.com/haxtheweb/issues/issues/2796">#2796</a>, <a href="https://github.com/haxtheweb/issues/issues/2846">#2846</a>, <a href="https://github.com/haxtheweb/issues/issues/2844">#2844</a>, <a href="https://github.com/haxtheweb/issues/issues/2917">#2917</a>, <a href="https://github.com/haxtheweb/issues/issues/2905">#2905</a></p>
+<h4>Performance and security cleanup</h4>
+<p>Removed legacy polyfills, Polymer references, wiredjs, and the shoelace carousel (replaced in-house); CLS fixes, a Chrome first-load hang fix, a lighthouse audit pass, cache-expiration review, .well-known and SECURITY.txt rollout, and VERSION.txt access removed for hardening.</p>
+<p>Issues: <a href="https://github.com/haxtheweb/issues/issues/2875">#2875</a>, <a href="https://github.com/haxtheweb/issues/issues/2882">#2882</a>, <a href="https://github.com/haxtheweb/issues/issues/2890">#2890</a>, <a href="https://github.com/haxtheweb/issues/issues/2895">#2895</a>, <a href="https://github.com/haxtheweb/issues/issues/2897">#2897</a>, <a href="https://github.com/haxtheweb/issues/issues/2909">#2909</a>, <a href="https://github.com/haxtheweb/issues/issues/2850">#2850</a>, <a href="https://github.com/haxtheweb/issues/issues/2840">#2840</a>, <a href="https://github.com/haxtheweb/issues/issues/2878">#2878</a>, <a href="https://github.com/haxtheweb/issues/issues/2859">#2859</a>, <a href="https://github.com/haxtheweb/issues/issues/2839">#2839</a>, <a href="https://github.com/haxtheweb/issues/issues/2838">#2838</a>, <a href="https://github.com/haxtheweb/issues/issues/2866">#2866</a>, <a href="https://github.com/haxtheweb/issues/issues/2864">#2864</a></p>
+<h4>Developer experience and Skills</h4>
+<p>The Skills framework was incorporated into PRAW (and split intentionally between PRAW and create), an OpenStax-to-HAX plugin for Claude, a tutorial-producing skill, an audio skill bridge, NodeJS live-reload with local assets, custom ports, JSON CLI output, and project scorecards for every core repo.</p>
+<p>Issues: <a href="https://github.com/haxtheweb/issues/issues/2832">#2832</a>, <a href="https://github.com/haxtheweb/issues/issues/2908">#2908</a>, <a href="https://github.com/haxtheweb/issues/issues/2932">#2932</a>, <a href="https://github.com/haxtheweb/issues/issues/2911">#2911</a>, <a href="https://github.com/haxtheweb/issues/issues/2943">#2943</a>, <a href="https://github.com/haxtheweb/issues/issues/2931">#2931</a>, <a href="https://github.com/haxtheweb/issues/issues/2855">#2855</a>, <a href="https://github.com/haxtheweb/issues/issues/2847">#2847</a>, <a href="https://github.com/haxtheweb/issues/issues/2812">#2812</a>, <a href="https://github.com/haxtheweb/issues/issues/2948">#2948</a>, <a href="https://github.com/haxtheweb/issues/issues/2808">#2808</a>, <a href="https://github.com/haxtheweb/issues/issues/2809">#2809</a>, <a href="https://github.com/haxtheweb/issues/issues/2810">#2810</a>, <a href="https://github.com/haxtheweb/issues/issues/2811">#2811</a></p>
+<h4>Reports and revision history</h4>
+<p>The reports dashboard was redesigned as table-based information, and revision history now accounts for the .json variant of each item.</p>
+<p>Issues: <a href="https://github.com/haxtheweb/issues/issues/2829">#2829</a>, <a href="https://github.com/haxtheweb/issues/issues/2830">#2830</a>, <a href="https://github.com/haxtheweb/issues/issues/2827">#2827</a></p>
+<h4>Publishing resilience</h4>
+<p>Windows PowerShell publish-to-surge/netlify/vercel fix, symlink-publish errors, undefined-domain and custom-theme publishing hardening, and server-port respect.</p>
+<p>Issues: <a href="https://github.com/haxtheweb/issues/issues/2862">#2862</a>, <a href="https://github.com/haxtheweb/issues/issues/2870">#2870</a>, <a href="https://github.com/haxtheweb/issues/issues/2868">#2868</a>, <a href="https://github.com/haxtheweb/issues/issues/2874">#2874</a>, <a href="https://github.com/haxtheweb/issues/issues/2873">#2873</a></p>
+<h3>Community pillars reflected this cycle</h3>
+<p>HAX development is evaluated against seven <a href="https://haxtheweb.org/welcome/community/pillars">community pillars</a>. Here is how the 26.8.0 work maps onto them:</p>
+<ul>
+<li><strong>Accessible:</strong> WCAG 2.0 AA components, a11y-media-player transcript support, and video transcript-gap detection so uncaptioned media gets surfaced.</li>
+<li><strong>Efficient:</strong> webcomponents shrank net 8,127 lines through polyfill, Polymer, and wiredjs removal; CLS fixes and lazy loading keep it fast.</li>
+<li><strong>Free and Open:</strong> The on-premises API migration keeps content and calls on your own infrastructure, and OpenStax-to-HAX import extends the 5Rs of OER.</li>
+<li><strong>Extensible:</strong> The Skills framework and an app-store editor make HAX stretch further without forking.</li>
+<li><strong>Platform Agnostic:</strong> PHP and NodeJS backends converged on one v1 REST API, and publish-to-surge, netlify, and vercel reach anywhere.</li>
+<li><strong>Remixable:</strong> Skeleton import/export, docx and EPUB pipelines, and semantic content structures make sites portable and re-mixable.</li>
+<li><strong>Sustainable:</strong> Less data and lower battery use from the net code reduction, web standards over heavy libraries, and inclusive community governance.</li>
+</ul>
+<h3>Contributors</h3>
+<ul>
+<li><a href="https://github.com/btopro">Bryan Ollendyke (btopro)</a> — lead; 204 commits in webcomponents this cycle</li>
+<li><a href="https://github.com/kazmyriad">Alyssa F (kazmyriad)</a> — new contributor — first commits this cycle</li>
+<li><a href="https://github.com/winstonwumbo">Winston (winstonwumbo)</a> — new contributor — first commits this cycle</li>
+<li><a href="https://github.com/features/copilot">GitHub Copilot SWE agent</a> — AI-assisted commits (copilot-swe-agent bot)</li>
+</ul>
+<h3>In progress — what's next</h3>
+<p>These issues are open and not yet shipped; they are the likely candidates for the next cycle: <a href="https://github.com/haxtheweb/issues/issues/2910">#2910</a>, <a href="https://github.com/haxtheweb/issues/issues/2923">#2923</a>, <a href="https://github.com/haxtheweb/issues/issues/2912">#2912</a>, <a href="https://github.com/haxtheweb/issues/issues/2945">#2945</a>, <a href="https://github.com/haxtheweb/issues/issues/2947">#2947</a>, <a href="https://github.com/haxtheweb/issues/issues/2936">#2936</a>, <a href="https://github.com/haxtheweb/issues/issues/2955">#2955</a>, <a href="https://github.com/haxtheweb/issues/issues/2951">#2951</a>, <a href="https://github.com/haxtheweb/issues/issues/2952">#2952</a>, <a href="https://github.com/haxtheweb/issues/issues/2953">#2953</a>, <a href="https://github.com/haxtheweb/issues/issues/2928">#2928</a>, <a href="https://github.com/haxtheweb/issues/issues/2845">#2845</a>, <a href="https://github.com/haxtheweb/issues/issues/2818">#2818</a>, <a href="https://github.com/haxtheweb/issues/issues/2814">#2814</a>, <a href="https://github.com/haxtheweb/issues/issues/2933">#2933</a>, <a href="https://github.com/haxtheweb/issues/issues/2956">#2956</a>, <a href="https://github.com/haxtheweb/issues/issues/2957">#2957</a>, <a href="https://github.com/haxtheweb/issues/issues/2958">#2958</a>.</p>
+<h2>Tutorial Details</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=0GqsJ83-gQk">Video Tutorial Link (YouTube)</a> - <a href="files/release-notes/transcript.vtt">transcript</a></li>
+<li>Issue analytics: <a href="https://github.com/haxtheweb/issues">unified issue queue</a> (snapshot all_issues_20260813_165905.json, 2,952 issues)</li>
+<li>Code scope: git history since <a href="https://github.com/haxtheweb/webcomponents/releases/tag/v26.0.0">v26.0.0</a> across webcomponents, create, haxcms-php, and haxcms-nodejs</li>
+<li>Community pillars: <a href="https://haxtheweb.org/welcome/community/pillars">haxtheweb.org/welcome/community/pillars</a></li>
+<li>Last updated: August 13, 2026</li>
+<li>HAXcms version: 26.8.0</li>
+</ul>

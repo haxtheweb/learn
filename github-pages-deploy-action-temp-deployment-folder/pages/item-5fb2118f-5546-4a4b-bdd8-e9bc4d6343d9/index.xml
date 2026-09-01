@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+<id>item-5fb2118f-5546-4a4b-bdd8-e9bc4d6343d9</id>
+<indent>1</indent>
+<location>pages/item-5fb2118f-5546-4a4b-bdd8-e9bc4d6343d9/index.xml</location>
+<slug>import-content/create-site-from-docx</slug>
+<order>0</order>
+<parent>item-a55e9f51-e83c-4c33-bbc5-9b82bdb39d72</parent>
+<title>Create Site from DOCX</title>
+<description></description>
+<metadata>
+<tags>beginner,content-author,site-builder,import-export,pages-structure</tags>
+<fields>
+<skill>beginner</skill>
+<persona>
+<item>content-author</item>
+<item>site-builder</item>
+</persona>
+<capability>
+<item>import-export</item>
+<item>pages-structure</item>
+</capability>
+</fields>
+<published>true</published>
+<hideInMenu>false</hideInMenu>
+<created>1788285968</created>
+<updated>1788285968</updated>
+</metadata>
+<content><![CDATA[<video-player id="46cd6b42-31d3-49fe-9ecd-e2b0b8fd100d" source="https://www.youtube.com/watch?v=mkOGesnGw7Q" media-title="Learn HAX: Create Site from DOCX" data-width="100" data-margin="center" track="files/create-site-from-docx/transcript.vtt"></video-player>
+<h2>How to Import a Website from a Word Document Using HAX</h2><h2>Prerequisites</h2><ul><li><strong>Word Document:</strong> Have your <em>.docx</em> file ready for import. This should be structured for web content.</li><li><strong>Example file:</strong> Download the <a href="files/create-site-from-docx/import-example.docx">import-example.docx</a> used in this tutorial and try the import yourself.</li></ul><media-image source="files/create-site-from-docx/images/screenshot-1.jpg" caption="Prerequisites" offset="narrow" card="" box="" alt="Prerequisites"></media-image><h2>Start the Import Process</h2><p>Begin by clicking the <strong>Import</strong> option on the HAX dashboard. This opens up various import sources.</p><media-image source="files/create-site-from-docx/images/screenshot-2.jpg" caption="Start the Import Process" offset="narrow" card="" box="" alt="Start the Import Process"></media-image><h2>Select 'From Existing Source' and Choose Word Doc</h2><p>Scroll down to find <strong>From existing source</strong>. Click on <strong>Word doc</strong> to specify that you want to import from a Word document.</p><media-image source="files/create-site-from-docx/images/screenshot-3.jpg" caption="Select 'From Existing Source' and Choose Word Doc" offset="narrow" card="" box="" alt="Select 'From Existing Source' and Choose Word Doc"></media-image><h2>Upload and Analyze Your Word Document</h2><p>Upload your <em>.docx</em> file. HAX will automatically analyze the document and confirm if it is structured for import. You should see a message indicating the file is compatible.</p><media-image source="files/create-site-from-docx/images/screenshot-4.jpg" caption="Upload and Analyze Your Word Document" offset="narrow" card="" box="" alt="Upload and Analyze Your Word Document"></media-image><h2>Name Your Site and Start the Import</h2><p>Enter a name for your new site. Once named, click <strong>Go</strong> to begin the import process. You can either navigate directly to your new site or remain on the current page to watch the progress (including a confetti animation).</p><media-image source="files/create-site-from-docx/images/screenshot-5.jpg" caption="Name Your Site and Start the Import" offset="narrow" card="" box="" alt="Name Your Site and Start the Import"></media-image><h2>Access Your Imported Site</h2><p>After import, scroll back up to the site list. Your newly imported site will be visible at the top. Click on it to open and review the imported content.</p><media-image source="files/create-site-from-docx/images/screenshot-6.jpg" caption="Access Your Imported Site" offset="narrow" card="" box="" alt="Access Your Imported Site"></media-image><h2>Review and Edit Imported Content</h2><p>Open the site to see the imported pages. You will notice that content from your Word document has been transferred. Pages may include placeholders for video or other media. You can add content, such as pasting a YouTube link, and the page remains fully editable.</p><media-image source="files/create-site-from-docx/images/screenshot-7.jpg" caption="Review and Edit Imported Content" offset="narrow" card="" box="" alt="Review and Edit Imported Content"></media-image><h2>Verification</h2><ul><li><strong>Check imported content:</strong> Ensure all text and media placeholders are present as expected.</li><li><strong>Editability:</strong> Try editing a page (e.g., paste a YouTube link) to confirm the site is fully editable.</li><li><strong>Starting point:</strong> Use the imported site as a base for further customization or as a distribution platform.</li></ul><media-image source="files/create-site-from-docx/images/screenshot-8.jpg" caption="Verification" offset="narrow" card="" box="" alt="Verification"></media-image>
+<h2>Tutorial Details</h2>
+<ul>
+    <li><a href="https://www.youtube.com/watch?v=mkOGesnGw7Q">Video Tutorial Link (YouTube)</a> - <a href="files/create-site-from-docx/transcript.vtt">transcript</a></li>
+    <li>Images in this page: <a href="files/create-site-from-docx/images/screenshot-1.jpg">screenshot-1.jpg</a>, <a href="files/create-site-from-docx/images/screenshot-2.jpg">screenshot-2.jpg</a>, <a href="files/create-site-from-docx/images/screenshot-3.jpg">screenshot-3.jpg</a>, <a href="files/create-site-from-docx/images/screenshot-4.jpg">screenshot-4.jpg</a>, <a href="files/create-site-from-docx/images/screenshot-5.jpg">screenshot-5.jpg</a>, <a href="files/create-site-from-docx/images/screenshot-6.jpg">screenshot-6.jpg</a>, <a href="files/create-site-from-docx/images/screenshot-7.jpg">screenshot-7.jpg</a>, <a href="files/create-site-from-docx/images/screenshot-8.jpg">screenshot-8.jpg</a></li>
+    <li><a href="files/create-site-from-docx/2026-07-23-Learn-HAX_-Create-Site-from-DOCX.docx">Original Content Source (DOCX)</a></li>
+    <li><a href="files/create-site-from-docx/docx-site-import.json">Automation recording (JSON)</a></li>
+    <li>Last updated: July 23, 2026</li>
+    <li>HAXcms version: 26.0.0</li>
+</ul>
+]]></content>
+</item>

@@ -1,0 +1,648 @@
+{
+    "title": "add-video",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1520,
+            "height": 873,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "http://localhost:3000/_sites/hax100/video",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "http://localhost:3000/_sites/hax100/video",
+                    "title": "hax100"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#slot"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/#slot"
+                ]
+            ],
+            "offsetY": 107.59999084472656,
+            "offsetX": 207.19998168945312
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#editbutton",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#editbutton",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 9,
+            "offsetX": 8
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#content-add",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#content-add",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 15,
+            "offsetX": 12
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Filter Content Types"
+                ],
+                [
+                    "hax-tray",
+                    "#gizmobrowser",
+                    "#inputfilter",
+                    "#inputfilter\\."
+                ],
+                [
+                    "pierce/hax-tray",
+                    "pierce/#inputfilter\\."
+                ]
+            ],
+            "offsetY": 9.699981689453125,
+            "offsetX": 121
+        },
+        {
+            "type": "change",
+            "value": "video",
+            "selectors": [
+                [
+                    "aria/Filter Content Types"
+                ],
+                [
+                    "hax-tray",
+                    "#gizmobrowser",
+                    "#inputfilter",
+                    "#inputfilter\\."
+                ],
+                [
+                    "pierce/hax-tray",
+                    "pierce/#inputfilter\\."
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "hax-tray",
+                    "#gizmobrowser",
+                    "a11y-collapse:nth-of-type(7) simple-popover-selection:nth-of-type(1) > hax-tray-button",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/a11y-collapse:nth-of-type(7) simple-popover-selection:nth-of-type(1) > hax-tray-button",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 21.5999755859375,
+            "offsetX": 4.9375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "video-player",
+                    "#\\#78dae4e4-b7b0-b2b3-09e6-e341395bcbfd-media",
+                    "#controls"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/#controls"
+                ]
+            ],
+            "offsetY": 24.01251220703125,
+            "offsetX": 376.14996337890625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.source",
+                    "#url",
+                    "div.field-main"
+                ],
+                [
+                    "pierce/#settings\\.configure\\.source",
+                    "pierce/div.field-main"
+                ]
+            ],
+            "offsetY": 15.300003051757812,
+            "offsetX": 129.5999984741211
+        },
+        {
+            "type": "doubleClick",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Source",
+                    "aria/[role=\"textbox\"]"
+                ],
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.source",
+                    "#url",
+                    "#url"
+                ],
+                [
+                    "pierce/#settings\\.configure\\.source",
+                    "pierce/#url",
+                    "pierce/#url"
+                ]
+            ],
+            "offsetY": 7.5,
+            "offsetX": 124.5999984741211
+        },
+        {
+            "type": "doubleClick",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Source",
+                    "aria/[role=\"textbox\"]"
+                ],
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.source",
+                    "#url",
+                    "#url"
+                ],
+                [
+                    "pierce/#settings\\.configure\\.source",
+                    "pierce/#url",
+                    "pierce/#url"
+                ]
+            ],
+            "offsetY": 3.5,
+            "offsetX": 81.5999984741211
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Source",
+                    "aria/[role=\"textbox\"]"
+                ],
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.source",
+                    "#url",
+                    "#url"
+                ],
+                [
+                    "pierce/#settings\\.configure\\.source",
+                    "pierce/#url",
+                    "pierce/#url"
+                ]
+            ],
+            "offsetY": 3.5,
+            "offsetX": 81.5999984741211
+        },
+        {
+            "type": "change",
+            "value": "https://www.youtube.com/watch?v=IG1d_Kp7x8U",
+            "selectors": [
+                [
+                    "aria/Source",
+                    "aria/[role=\"textbox\"]"
+                ],
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.source",
+                    "#url",
+                    "#url"
+                ],
+                [
+                    "pierce/#settings\\.configure\\.source",
+                    "pierce/#url",
+                    "pierce/#url"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Save • Ctrl⇧S[role=\"button\"]"
+                ],
+                [
+                    "haxcms-site-editor-ui",
+                    "#editbutton",
+                    "#button"
+                ],
+                [
+                    "pierce/#editbutton",
+                    "pierce/#button"
+                ]
+            ],
+            "offsetY": 24,
+            "offsetX": 5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#editbutton",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#editbutton",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 5,
+            "offsetX": 20
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/[role=\"article\"]",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "clean-one",
+                    "#hax",
+                    "p"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/p"
+                ]
+            ],
+            "offsetY": 11.399993896484375,
+            "offsetX": 84.19998168945312
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "v"
+        },
+        {
+            "type": "keyUp",
+            "key": "v",
+            "target": "main"
+        },
+        {
+            "type": "keyUp",
+            "key": "Control",
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/[role=\"article\"]",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "clean-one",
+                    "#hax",
+                    "p"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/p"
+                ]
+            ],
+            "offsetY": 11.29998779296875,
+            "offsetX": 58.199981689453125
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "/"
+        },
+        {
+            "type": "keyUp",
+            "key": "/",
+            "target": "main"
+        },
+        {
+            "type": "change",
+            "value": "video",
+            "selectors": [
+                [
+                    "super-daemon",
+                    "super-daemon-ui",
+                    "super-daemon-search",
+                    "#inputfilter",
+                    "#inputfilter\\."
+                ],
+                [
+                    "pierce/super-daemon",
+                    "pierce/#inputfilter\\."
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "ArrowDown"
+        },
+        {
+            "type": "keyUp",
+            "key": "ArrowDown",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Enter"
+        },
+        {
+            "type": "keyUp",
+            "key": "Enter",
+            "target": "main"
+        },
+        {
+            "type": "doubleClick",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Source",
+                    "aria/[role=\"textbox\"]"
+                ],
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.source",
+                    "#url",
+                    "#url"
+                ],
+                [
+                    "pierce/#settings\\.configure\\.source",
+                    "pierce/#url",
+                    "pierce/#url"
+                ]
+            ],
+            "offsetY": 7.29998779296875,
+            "offsetX": 186.5999984741211
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Source",
+                    "aria/[role=\"textbox\"]"
+                ],
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.source",
+                    "#url",
+                    "#url"
+                ],
+                [
+                    "pierce/#settings\\.configure\\.source",
+                    "pierce/#url",
+                    "pierce/#url"
+                ]
+            ],
+            "offsetY": 7.29998779296875,
+            "offsetX": 186.5999984741211
+        },
+        {
+            "type": "change",
+            "value": "https://www.youtube.com/watch?v=IG1d_Kp7x8U",
+            "selectors": [
+                [
+                    "aria/Source",
+                    "aria/[role=\"textbox\"]"
+                ],
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.source",
+                    "#url",
+                    "#url"
+                ],
+                [
+                    "pierce/#settings\\.configure\\.source",
+                    "pierce/#url",
+                    "pierce/#url"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "keyUp",
+            "key": "Control",
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Title"
+                ],
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.mediaTitle",
+                    "#settings\\.configure\\.mediaTitle\\."
+                ],
+                [
+                    "pierce/#settings\\.configure\\.mediaTitle\\."
+                ]
+            ],
+            "offsetY": 2.79998779296875,
+            "offsetX": 45.39999961853027
+        },
+        {
+            "type": "change",
+            "value": "Adding a title in the title field",
+            "selectors": [
+                [
+                    "aria/Title"
+                ],
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.mediaTitle",
+                    "#settings\\.configure\\.mediaTitle\\."
+                ],
+                [
+                    "pierce/#settings\\.configure\\.mediaTitle\\."
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.thumbnailSrc",
+                    "simple-toolbar-button:nth-of-type(3)",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#settings\\.configure\\.thumbnailSrc",
+                    "pierce/simple-toolbar-button:nth-of-type(3)",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 17.29998779296875,
+            "offsetX": 9.362503051757812
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.thumbnailSrc",
+                    "simple-camera-snap",
+                    "#camera"
+                ],
+                [
+                    "pierce/#camera"
+                ]
+            ],
+            "offsetY": 69.39996337890625,
+            "offsetX": 125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Take Photo[role=\"button\"]"
+                ],
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.thumbnailSrc",
+                    "simple-camera-snap",
+                    "#snap",
+                    "button"
+                ],
+                [
+                    "pierce/simple-camera-snap",
+                    "pierce/button"
+                ]
+            ],
+            "offsetY": 16.89996337890625,
+            "offsetX": 39.07499694824219
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "hax-tray",
+                    "#settings\\.advanced > span:nth-of-type(1)"
+                ],
+                [
+                    "pierce/#settings\\.advanced > span:nth-of-type(1)"
+                ]
+            ],
+            "offsetY": 3.29998779296875,
+            "offsetX": 118.39999961853027
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "video-player:nth-of-type(2)",
+                    "#\\#7038a3d0-effa-fe22-117f-f34ce094c0a7-media",
+                    "#player-section > div:nth-of-type(4)"
+                ],
+                [
+                    "pierce/video-player:nth-of-type(2)",
+                    "pierce/#player-section > div:nth-of-type(4)"
+                ]
+            ],
+            "offsetY": 32.3125,
+            "offsetX": 305.14996337890625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#content-add",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#content-add",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 11,
+            "offsetX": 5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#editbutton",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#editbutton",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 13,
+            "offsetX": 13,
+            "duration": 603
+        }
+    ]
+}

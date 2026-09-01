@@ -1,0 +1,516 @@
+{
+    "title": "system-settings",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1520,
+            "height": 873,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "http://localhost:3000/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "http://localhost:3000/",
+                    "title": "HAX: Home"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "div > div:nth-of-type(1)"
+                ],
+                [
+                    "pierce/app-hax-use-case-filter",
+                    "pierce/div > div:nth-of-type(1)"
+                ]
+            ],
+            "offsetY": 101.39999389648438,
+            "offsetX": 1289
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "app-hax",
+                    "#tbchar",
+                    "rpg-character",
+                    "svg:nth-of-type(9) > image"
+                ],
+                [
+                    "pierce/app-hax",
+                    "pierce/svg:nth-of-type(9) > image"
+                ]
+            ],
+            "offsetY": 23,
+            "offsetX": 21.7999267578125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "app-hax",
+                    "#systemsettingsbutton",
+                    "simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#systemsettingsbutton",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 21,
+            "offsetX": 17.199951171875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Status"
+                ],
+                [
+                    "haxcms-system-settings",
+                    "div.primary-grid > button:nth-of-type(1)"
+                ],
+                [
+                    "pierce/div.primary-grid > button:nth-of-type(1)"
+                ]
+            ],
+            "offsetY": 86.9375,
+            "offsetX": 132.39999389648438
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-system-settings",
+                    "div.status-summary-grid"
+                ],
+                [
+                    "pierce/div.status-summary-grid"
+                ]
+            ],
+            "offsetY": 29.73748779296875,
+            "offsetX": 626.3999938964844,
+            "duration": 482
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-system-settings",
+                    "div:nth-of-type(3) > span.value"
+                ],
+                [
+                    "pierce/div:nth-of-type(3) > span.value"
+                ]
+            ],
+            "offsetY": 2.337493896484375,
+            "offsetX": 52.96246337890625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-system-settings",
+                    "div:nth-of-type(4)"
+                ],
+                [
+                    "pierce/haxcms-system-settings",
+                    "pierce/div:nth-of-type(4)"
+                ]
+            ],
+            "offsetY": 36.73748779296875,
+            "offsetX": 69.25
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-system-settings",
+                    "div:nth-of-type(4) > span.value"
+                ],
+                [
+                    "pierce/div:nth-of-type(4) > span.value"
+                ]
+            ],
+            "offsetY": 10.337493896484375,
+            "offsetX": 57.25
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-system-settings",
+                    "div:nth-of-type(4) > span.value"
+                ],
+                [
+                    "pierce/div:nth-of-type(4) > span.value"
+                ]
+            ],
+            "offsetY": 13.337493896484375,
+            "offsetX": 70.25
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-system-settings",
+                    "div:nth-of-type(4)"
+                ],
+                [
+                    "pierce/haxcms-system-settings",
+                    "pierce/div:nth-of-type(4)"
+                ]
+            ],
+            "offsetY": 47.73748779296875,
+            "offsetX": 56.25
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "simple-modal",
+                    "button > span"
+                ],
+                [
+                    "pierce/simple-modal",
+                    "pierce/button > span"
+                ]
+            ],
+            "offsetY": 11.637496948242188,
+            "offsetX": 34.399993896484375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-system-settings",
+                    "div.primary-grid > button:nth-of-type(2) > simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/div.primary-grid > button:nth-of-type(2) > simple-icon-lite",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 55.73748779296875,
+            "offsetX": 33.125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Art Portfolio[role=\"checkbox\"]"
+                ],
+                [
+                    "haxcms-system-settings",
+                    "#skeleton-option-3-art-portfolio-skeleton"
+                ],
+                [
+                    "pierce/#skeleton-option-3-art-portfolio-skeleton"
+                ]
+            ],
+            "offsetY": 24.23748779296875,
+            "offsetX": 21.099990844726562
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Blog[role=\"checkbox\"]"
+                ],
+                [
+                    "haxcms-system-settings",
+                    "#skeleton-option-4-clean-one-blog-skeleton"
+                ],
+                [
+                    "pierce/#skeleton-option-4-clean-one-blog-skeleton"
+                ]
+            ],
+            "offsetY": 25.9375,
+            "offsetX": 13.099990844726562
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Club Website[role=\"checkbox\"]"
+                ],
+                [
+                    "haxcms-system-settings",
+                    "#skeleton-option-5-student-club-skeleton"
+                ],
+                [
+                    "pierce/#skeleton-option-5-student-club-skeleton"
+                ]
+            ],
+            "offsetY": 21.637481689453125,
+            "offsetX": 18.099990844726562
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Documentation[role=\"checkbox\"]"
+                ],
+                [
+                    "haxcms-system-settings",
+                    "#skeleton-option-6-docs-haxma-hax-create"
+                ],
+                [
+                    "pierce/#skeleton-option-6-docs-haxma-hax-create"
+                ]
+            ],
+            "offsetY": 14.33746337890625,
+            "offsetX": 17.099990844726562
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Save"
+                ],
+                [
+                    "haxcms-system-settings",
+                    "button"
+                ],
+                [
+                    "pierce/haxcms-system-settings",
+                    "pierce/button"
+                ]
+            ],
+            "offsetY": 32.1624755859375,
+            "offsetX": 39.699951171875,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "http://localhost:3000/?admin=admin",
+                    "title": "HAX: Home"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "simple-modal",
+                    "#close",
+                    "simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#close",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 29.637496948242188,
+            "offsetX": 18.5999755859375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "app-hax-search-results",
+                    "li:nth-of-type(3) > app-hax-site-bar",
+                    "#moreOptions-2",
+                    "simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#moreOptions-2",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 11.68798828125,
+            "offsetX": 8.8599853515625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Site results carousel",
+                    "aria/[role=\"list\"]"
+                ],
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "app-hax-search-results",
+                    "#results"
+                ],
+                [
+                    "pierce/#results"
+                ]
+            ],
+            "offsetY": 207.79998779296875,
+            "offsetX": 954.5999908447266
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "app-hax",
+                    "#tbchar",
+                    "rpg-character",
+                    "svg:nth-of-type(8) > image"
+                ],
+                [
+                    "pierce/app-hax",
+                    "pierce/svg:nth-of-type(8) > image"
+                ]
+            ],
+            "offsetY": 34,
+            "offsetX": 16.7999267578125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Settings"
+                ],
+                [
+                    "app-hax",
+                    "#systemsettingsbutton",
+                    "button"
+                ],
+                [
+                    "pierce/#systemsettingsbutton",
+                    "pierce/button"
+                ]
+            ],
+            "offsetY": 15,
+            "offsetX": 67.199951171875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-system-settings",
+                    "div.primary-grid > button:nth-of-type(2) > span.label"
+                ],
+                [
+                    "pierce/div.primary-grid > button:nth-of-type(2) > span.label"
+                ]
+            ],
+            "offsetY": 23.73748779296875,
+            "offsetX": 80.0625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "simple-modal",
+                    "button > span"
+                ],
+                [
+                    "pierce/simple-modal",
+                    "pierce/button > span"
+                ]
+            ],
+            "offsetY": 31.637496948242188,
+            "offsetX": 65.39999389648438
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-system-settings",
+                    "div.primary-grid > button:nth-of-type(3) > simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/div.primary-grid > button:nth-of-type(3) > simple-icon-lite",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 39.73748779296875,
+            "offsetX": 24.61248779296875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "simple-modal",
+                    "button > span"
+                ],
+                [
+                    "pierce/simple-modal",
+                    "pierce/button > span"
+                ]
+            ],
+            "offsetY": 15.637496948242188,
+            "offsetX": 72.39999389648438
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Media"
+                ],
+                [
+                    "haxcms-system-settings",
+                    "div.advanced-grid > button:nth-of-type(2)"
+                ],
+                [
+                    "pierce/div.advanced-grid > button:nth-of-type(2)"
+                ]
+            ],
+            "offsetY": 107.03750610351562,
+            "offsetX": 79.88748168945312
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "simple-modal",
+                    "button > span"
+                ],
+                [
+                    "pierce/simple-modal",
+                    "pierce/button > span"
+                ]
+            ],
+            "offsetY": 14.637496948242188,
+            "offsetX": 40.399993896484375
+        }
+    ]
+}

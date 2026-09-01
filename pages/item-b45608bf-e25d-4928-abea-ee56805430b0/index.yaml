@@ -20,7 +20,7 @@ metadata:
   published: true
   hideInMenu: false
   created: 1788285970
-  updated: 1788285970
+  updated: 1788288624
 content: >
   <p>Stuck? HAX is a community project and there are a few fast ways to get
   help. If you hit a bug or have a feature request, the issue queue is the
@@ -55,7 +55,7 @@ content: >
     </a11y-collapse-panel>
     <a11y-collapse-panel>
       <h3 slot="heading">How do I bring in content from Word or a spreadsheet?</h3>
-      <div slot="content"><p>Use the import paths in <a href="/import-content">Import Content</a>: DOCX and XLSX import are built in, plus HAX-to-HAX, Notion, ELMS:LN, and generic HTML import via the <code>hax</code> CLI.</p></div>
+      <div slot="content"><p>Use the import paths in <a href="import-content">Import Content</a>: DOCX and XLSX import are built in, plus HAX-to-HAX, Notion, ELMS:LN, and generic HTML import via the <code>hax</code> CLI.</p></div>
     </a11y-collapse-panel>
     <a11y-collapse-panel>
       <h3 slot="heading">Something looks broken — how do I report it?</h3>
@@ -64,5 +64,5 @@ content: >
   </a11y-collapse>
 
   <p>For deeper reference while you troubleshoot, browse the <a
-  href="/tutorial-library">Tutorial Library</a> or the <a
-  href="/block-reference">Block Reference</a>.</p>
+  href="tutorial-library">Tutorial Library</a> or the <a
+  href="block-reference">Block Reference</a>.</p>

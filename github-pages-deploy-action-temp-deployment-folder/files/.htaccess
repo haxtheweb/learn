@@ -1,0 +1,18 @@
+# Managed by HAXcms. Prevent execution of uploaded scripts in /files.
+Options -ExecCGI
+<IfModule mod_authz_core.c>
+  <FilesMatch "\.(php[0-9]?|phtml|phar|pl|py|cgi|asp|aspx|jsp|sh|bash)$">
+    Require all denied
+  </FilesMatch>
+</IfModule>
+<IfModule !mod_authz_core.c>
+  <FilesMatch "\.(php[0-9]?|phtml|phar|pl|py|cgi|asp|aspx|jsp|sh|bash)$">
+    Order allow,deny
+    Deny from all
+  </FilesMatch>
+</IfModule>
+# Uploaded content encoding is not guaranteed; don't inherit the UTF-8
+# charset tagging applied at the site root to generated/managed files.
+<IfModule mod_mime.c>
+  RemoveCharset .txt .md .json .yaml .yml .xml
+</IfModule>

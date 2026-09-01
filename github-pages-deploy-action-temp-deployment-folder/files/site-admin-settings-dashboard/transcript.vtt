@@ -1,0 +1,183 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:02.720 --> 00:00:04.960
+Let's look under the hood of our hack
+
+00:00:04.960 --> 00:00:08.720
+site at the site settings. To get into
+
+00:00:08.720 --> 00:00:10.719
+the site settings and modify the way the
+
+00:00:10.719 --> 00:00:13.440
+content management system works, go to
+
+00:00:13.440 --> 00:00:15.599
+the house of the pencil, which is site
+
+00:00:15.599 --> 00:00:17.680
+settings. From here, you'll see we have
+
+00:00:17.680 --> 00:00:19.680
+lots of different categories now as to
+
+00:00:19.680 --> 00:00:21.840
+ways you can customize your experience
+
+00:00:21.840 --> 00:00:23.439
+with the hacks content management
+
+00:00:23.439 --> 00:00:25.840
+system. So, I could change the theme via
+
+00:00:25.840 --> 00:00:28.560
+appearance structure via that site
+
+00:00:28.560 --> 00:00:31.840
+outline. Review the content,
+
+00:00:31.840 --> 00:00:34.079
+query the content, see where my pages
+
+00:00:34.079 --> 00:00:37.040
+are, when they were last updated, revert
+
+00:00:37.040 --> 00:00:39.040
+revisions.
+
+00:00:39.040 --> 00:00:41.520
+I can see reports, which is an area
+
+00:00:41.520 --> 00:00:43.200
+we're still building out for the next
+
+00:00:43.200 --> 00:00:46.000
+release, but get valuable insights into
+
+00:00:46.000 --> 00:00:48.960
+our content, searching it, helping with
+
+00:00:48.960 --> 00:00:51.840
+accessibility audits, discovering media,
+
+00:00:51.840 --> 00:00:55.440
+where it's used in content, etc.
+
+00:00:55.440 --> 00:00:57.440
+Under about, I can learn more about the
+
+00:00:57.440 --> 00:01:00.079
+hacks project, how to get involved,
+
+00:01:00.079 --> 00:01:02.160
+keyboard shortcuts that exist to
+
+00:01:02.160 --> 00:01:04.320
+optimize using the system, as well as
+
+00:01:04.320 --> 00:01:06.799
+additional shortcuts, tutorial links,
+
+00:01:06.799 --> 00:01:09.600
+and API stuff.
+
+00:01:09.600 --> 00:01:12.159
+We can also dig into files where I could
+
+00:01:12.159 --> 00:01:14.320
+work just on these files. See all the
+
+00:01:14.320 --> 00:01:15.680
+files that have been uploaded to my
+
+00:01:15.680 --> 00:01:17.360
+site.
+
+00:01:17.360 --> 00:01:20.159
+Views that lets me slice the data that I
+
+00:01:20.159 --> 00:01:22.560
+have in here in different ways and
+
+00:01:22.560 --> 00:01:24.799
+visualize it for embedding insights for
+
+00:01:24.799 --> 00:01:28.159
+dynamic views of data.
+
+00:01:28.159 --> 00:01:30.960
+Features where I can toggle on and off
+
+00:01:30.960 --> 00:01:33.600
+different core features of the system.
+
+00:01:33.600 --> 00:01:35.520
+For example, if I didn't want people
+
+00:01:35.520 --> 00:01:37.119
+using this site to use the outline
+
+00:01:37.119 --> 00:01:39.439
+designer or add pages or delete pages, I
+
+00:01:39.439 --> 00:01:41.759
+could turn those off.
+
+00:01:41.759 --> 00:01:44.000
+Editor, we can toggle between a novice
+
+00:01:44.000 --> 00:01:45.520
+experience, which is a simplified
+
+00:01:45.520 --> 00:01:47.520
+editor, or the more advanced expert
+
+00:01:47.520 --> 00:01:50.479
+mode.
+
+00:01:50.479 --> 00:01:52.880
+Blocks, where we can remove the blocks
+
+00:01:52.880 --> 00:01:54.479
+that we might not want to use in our
+
+00:01:54.479 --> 00:01:57.040
+site. So, if I'm not using this career
+
+00:01:57.040 --> 00:01:59.200
+ro element, I could actually remove it
+
+00:01:59.200 --> 00:02:01.280
+so it doesn't bother to show up. And I
+
+00:02:01.280 --> 00:02:04.880
+could also glance and see what that is.
+
+00:02:04.880 --> 00:02:09.360
+SEO settings for compliance with Google,
+
+00:02:09.360 --> 00:02:12.640
+uh, Microsoft, other search engines, AI,
+
+00:02:12.640 --> 00:02:14.319
+agents,
+
+00:02:14.319 --> 00:02:16.720
+ability to import and export the current
+
+00:02:16.720 --> 00:02:20.319
+site and page in any number of formats
+
+00:02:20.319 --> 00:02:24.080
+including EPUB, DOCEX, HTML, a zip file,
+
+00:02:24.080 --> 00:02:28.080
+markdown, PDF, etc.
+
+00:02:28.080 --> 00:02:30.319
+And some additional details of our site
+
+00:02:30.319 --> 00:02:32.319
+like the title and the homepage.

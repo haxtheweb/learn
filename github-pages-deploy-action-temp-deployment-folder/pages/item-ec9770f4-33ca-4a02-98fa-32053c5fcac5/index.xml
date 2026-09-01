@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+<id>item-ec9770f4-33ca-4a02-98fa-32053c5fcac5</id>
+<indent>0</indent>
+<location>pages/item-ec9770f4-33ca-4a02-98fa-32053c5fcac5/index.xml</location>
+<slug>block-reference</slug>
+<order>3</order>
+<parent></parent>
+<title>Block Reference</title>
+<description></description>
+<metadata>
+<tags>beginner,content-author,creator,developer,reference,blocks</tags>
+<fields>
+<skill>beginner</skill>
+<persona>
+<item>content-author</item>
+<item>creator</item>
+<item>developer</item>
+</persona>
+<capability>
+<item>reference</item>
+<item>blocks</item>
+</capability>
+</fields>
+<published>true</published>
+<hideInMenu>false</hideInMenu>
+<created>1788285968</created>
+<updated>1788285968</updated>
+</metadata>
+<content><![CDATA[<p>This section includes the following pages:</p>
+<ul>
+  <li><a href="/block-reference/instructional">Instructional</a></li>
+  <li><a href="/block-reference/multimedia">Multimedia</a></li>
+  <li><a href="/block-reference/layout">Layout</a></li>
+</ul>
+]]></content>
+</item>

@@ -1,0 +1,28 @@
+{
+  "id": "item-33529864-7498-46e7-b27a-8487845c28a5",
+  "indent": 1,
+  "location": "pages/item-33529864-7498-46e7-b27a-8487845c28a5/index.json",
+  "slug": "tutorial-library/creating-structuring-content",
+  "order": 1,
+  "parent": "item-1467f036-344e-4c49-8232-6b1f6a730c76",
+  "title": "Creating & Structuring Content",
+  "description": "",
+  "metadata": {
+    "tags": "beginner,content-author,site-builder,pages-structure",
+    "fields": {
+      "skill": "beginner",
+      "persona": [
+        "content-author",
+        "site-builder"
+      ],
+      "capability": [
+        "pages-structure"
+      ]
+    },
+    "published": true,
+    "hideInMenu": false,
+    "created": 1788285967,
+    "updated": 1788285967
+  },
+  "content": "<p>This section includes the following pages:</p>\n<ul>\n  <li><a href=\"/tutorial-library/creating-structuring-content/create-a-new-page\">Create a New Page</a></li>\n  <li><a href=\"/tutorial-library/creating-structuring-content/reorder-organize-pages\">Reorder &amp; Organize Pages</a></li>\n  <li><a href=\"/tutorial-library/creating-structuring-content/managing-course-structure\">Managing Course Structure</a></li>\n</ul>\n"
+}

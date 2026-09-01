@@ -24,16 +24,16 @@
 <published>true</published>
 <hideInMenu>false</hideInMenu>
 <created>1788285968</created>
-<updated>1788285968</updated>
+<updated>1788288624</updated>
 </metadata>
 <content><![CDATA[<p>This section includes the following pages:</p>
 <ul>
-  <li><a href="/block-reference/instructional/math">Math</a></li>
-  <li><a href="/block-reference/instructional/question-types">Question Types</a></li>
-  <li><a href="/block-reference/instructional/self-check">Self Check</a></li>
-  <li><a href="/block-reference/instructional/stop-note">Stop Note</a></li>
-  <li><a href="/block-reference/instructional/table">Table</a></li>
-  <li><a href="/block-reference/instructional/timeline">Timeline</a></li>
+  <li><a href="block-reference/instructional/math">Math</a></li>
+  <li><a href="block-reference/instructional/question-types">Question Types</a></li>
+  <li><a href="block-reference/instructional/self-check">Self Check</a></li>
+  <li><a href="block-reference/instructional/stop-note">Stop Note</a></li>
+  <li><a href="block-reference/instructional/table">Table</a></li>
+  <li><a href="block-reference/instructional/timeline">Timeline</a></li>
 </ul>
 ]]></content>
 </item>

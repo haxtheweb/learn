@@ -1,0 +1,135 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:02.080 --> 00:00:03.720
+Let's look at some of the different ways
+
+00:00:03.720 --> 00:00:07.320
+that we can add video to this page.
+
+00:00:07.320 --> 00:00:09.680
+First, I'm going to hit edit.
+
+00:00:09.680 --> 00:00:11.240
+So, the first way that I can add video
+
+00:00:11.240 --> 00:00:14.400
+to the page is I can go to the blocks.
+
+00:00:14.400 --> 00:00:17.000
+Search for video.
+
+00:00:17.000 --> 00:00:19.320
+Which I can find under media.
+
+00:00:19.320 --> 00:00:23.720
+And then I can click to add the video.
+
+00:00:23.720 --> 00:00:25.440
+From there, I just update the source if
+
+00:00:25.440 --> 00:00:27.240
+I have a different YouTube video that I
+
+00:00:27.240 --> 00:00:29.640
+want to put in there.
+
+00:00:29.640 --> 00:00:32.840
+And then hit save.
+
+00:00:32.840 --> 00:00:34.080
+But, there's a couple other ways that we
+
+00:00:34.080 --> 00:00:36.280
+can add videos to the page.
+
+00:00:36.280 --> 00:00:37.800
+So, I hit edit.
+
+00:00:37.800 --> 00:00:41.480
+And I have that YouTube link already.
+
+00:00:41.480 --> 00:00:44.560
+I can just paste on an individual line
+
+00:00:44.560 --> 00:00:47.400
+and then it hacks will detect that this
+
+00:00:47.400 --> 00:00:49.000
+is a YouTube link in this case and
+
+00:00:49.000 --> 00:00:53.320
+automatically give me the video.
+
+00:00:53.320 --> 00:00:55.640
+I could also use the slash command. So,
+
+00:00:55.640 --> 00:00:58.040
+I could type video and insert one this
+
+00:00:58.040 --> 00:00:59.600
+way.
+
+00:00:59.600 --> 00:01:03.360
+Updating that URL.
+
+00:01:03.360 --> 00:01:07.080
+Adding a title in the title field.
+
+00:01:07.080 --> 00:01:10.160
+I can change the poster image.
+
+00:01:10.160 --> 00:01:11.800
+If I wanted to make it a cool picture of
+
+00:01:11.800 --> 00:01:14.320
+me.
+
+00:01:14.320 --> 00:01:17.240
+We can modify spacing and under advanced
+
+00:01:17.240 --> 00:01:20.280
+we start to get into text tracks. Uh
+
+00:01:20.280 --> 00:01:21.240
+whether it should start at the
+
+00:01:21.240 --> 00:01:23.720
+beginning, an audio descriptive track
+
+00:01:23.720 --> 00:01:26.720
+and more.
+
+00:01:26.720 --> 00:01:30.040
+I can also, uniquely to videos, I can
+
+00:01:30.040 --> 00:01:32.840
+take a video and if I drag it on top of
+
+00:01:32.840 --> 00:01:35.760
+another video, it'll automatically build
+
+00:01:35.760 --> 00:01:38.080
+a video playlist.
+
+00:01:38.080 --> 00:01:39.320
+So, these are some of the different ways
+
+00:01:39.320 --> 00:01:41.640
+that you can add video to the site. You
+
+00:01:41.640 --> 00:01:44.040
+could always use blocks and if you have
+
+00:01:44.040 --> 00:01:46.520
+video locally, you could upload a video
+
+00:01:46.520 --> 00:01:48.960
+or use the in-context screen recorder,
+
+00:01:48.960 --> 00:01:51.080
+though it will generate very large
+
+00:01:51.080 --> 00:01:53.080
+files.

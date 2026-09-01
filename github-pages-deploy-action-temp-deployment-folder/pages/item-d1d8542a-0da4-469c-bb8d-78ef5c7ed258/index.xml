@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+<id>item-d1d8542a-0da4-469c-bb8d-78ef5c7ed258</id>
+<indent>2</indent>
+<location>pages/item-d1d8542a-0da4-469c-bb8d-78ef5c7ed258/index.xml</location>
+<slug>tutorial-library/editing-authoring/adding-blocks</slug>
+<order>1</order>
+<parent>item-77e491c7-219b-4501-bbd2-76c71aea802f</parent>
+<title>Adding Blocks</title>
+<description></description>
+<metadata>
+<tags>beginner,content-author,creator,blocks,authoring</tags>
+<fields>
+<skill>beginner</skill>
+<persona>
+<item>content-author</item>
+<item>creator</item>
+</persona>
+<capability>
+<item>blocks</item>
+<item>authoring</item>
+</capability>
+</fields>
+<published>true</published>
+<hideInMenu>false</hideInMenu>
+<created>1788285967</created>
+<updated>1788285967</updated>
+</metadata>
+<content><![CDATA[<video-player id="f34f1fb6-29d1-44e1-8c3c-9ec6c4f3ac34" source="https://www.youtube.com/watch?v=E-Znf_OQJTI" media-title="Learn HAX: Adding Blocks" data-width="100" data-margin="center" track="files/adding-blocks/transcript.vtt"></video-player>
+<h2>How to Use the Blocks Engine in HAX for Dynamic Content Creation</h2><h2>Prerequisites</h2><p>Before you begin, ensure you have access to the HAX editor and are familiar with its basic text editing features. Having some experience with web content management will help you make the most of the blocks engine.</p><ul><li>Access to HAX editing environment</li><li>Basic understanding of content blocks</li></ul><media-image source="files/adding-blocks/images/screenshot-1.jpg" caption="Prerequisites" offset="narrow" card="" box="" alt="Prerequisites"></media-image><h2>Open the Blocks Menu</h2><p>Click <strong>Edit</strong> in the HAX interface. If the blocks panel isn't already visible, select <strong>Blocks</strong> to access the full blocks menu. This panel displays all available content blocks for insertion.</p><ul><li>Click 'Edit' to enter editing mode.</li><li>Select 'Blocks' if not already active.</li></ul><media-image source="files/adding-blocks/images/screenshot-2.jpg" caption="Open the Blocks Menu" offset="narrow" card="" box="" alt="Open the Blocks Menu"></media-image><h2>Explore and Preview Available Blocks</h2><p>Browse through the blocks panel to view popular and recent blocks. Hover over any block to see a preview of its appearance and function. You can also expand the panel to see all supported blocks—there are many options to choose from.</p><ul><li>Hover over blocks to preview them.</li><li>Check the 'Recents' tab for blocks you've used before.</li><li>Expand the panel to explore all block types.</li></ul><media-image source="files/adding-blocks/images/screenshot-3.jpg" caption="Explore and Preview Available Blocks" offset="narrow" card="" box="" alt="Explore and Preview Available Blocks"></media-image><h2>Filter and Select Specific Content Types</h2><p>To find a particular block, use the <strong>Filter Content Type</strong> feature. For example, type <em>video</em> to see all video-related blocks, such as media playlists. This helps you quickly locate the exact block you need.</p><ul><li>Click the filter and enter a keyword (e.g., 'video').</li><li>Review the filtered results for relevant blocks.</li></ul><media-image source="files/adding-blocks/images/screenshot-4.jpg" caption="Filter and Select Specific Content Types" offset="narrow" card="" box="" alt="Filter and Select Specific Content Types"></media-image><h2>Insert a Block into Your Page</h2><p>Once you've found your desired block, you can either <strong>drag</strong> it into the page or <strong>press the insert button</strong> to add it at the active cursor location. This places the block exactly where you want it in your content.</p><ul><li>Drag and drop the block or click 'Insert'.</li><li>Position the block as needed in the content area.</li></ul><media-image source="files/adding-blocks/images/screenshot-5.jpg" caption="Insert a Block into Your Page" offset="narrow" card="" box="" alt="Insert a Block into Your Page"></media-image><h2>Understand Block Structure and HTML Integration</h2><p>Every block you insert in HAX is based on a sustainable HTML tag, ensuring compatibility and future-proofing your content. For example, a media playlist block uses a video player HTML element. While you usually don't need to edit the HTML directly, it's always accessible for advanced customization.</p><ul><li>Blocks map to standard HTML tags.</li><li>HTML view is available for reference or advanced edits.</li></ul><h2>Reposition and Organize Blocks</h2><p>To rearrange blocks, use the <strong>drag handle</strong> to move them within the page. Alternatively, hover over a block and use the move up or down options to adjust its placement. This flexibility helps you design layouts efficiently.</p><ul><li>Grab the drag handle to move blocks.</li><li>Use hover controls to shift blocks up or down.</li></ul><media-image source="files/adding-blocks/images/screenshot-6.jpg" caption="Reposition and Organize Blocks" offset="narrow" card="" box="" alt="Reposition and Organize Blocks"></media-image><h2>Save and Present Your Content</h2><p>When you're satisfied with your block arrangement, click <strong>Save</strong>. Your changes will be applied, and the new blocks will be visible to your users. This final step ensures your content is updated and ready for presentation.</p><ul><li>Review your changes.</li><li>Click 'Save' to apply updates.</li></ul><media-image source="files/adding-blocks/images/screenshot-7.jpg" caption="Save and Present Your Content" offset="narrow" card="" box="" alt="Save and Present Your Content"></media-image><h2>Verification</h2><p>After saving, review your page to confirm that all blocks appear as expected and function correctly. Test any interactive or media elements to ensure a smooth user experience. If needed, return to edit mode for adjustments.</p><ul><li>Check block appearance and placement.</li><li>Test media playback and interactivity.</li></ul>
+<h2>Tutorial Details</h2>
+<ul>
+    <li><a href="https://www.youtube.com/watch?v=E-Znf_OQJTI">Video Tutorial Link (YouTube)</a> - <a href="files/adding-blocks/transcript.vtt">transcript</a></li>
+    <li>Images in this page: <a href="files/adding-blocks/images/screenshot-1.jpg">screenshot-1.jpg</a>, <a href="files/adding-blocks/images/screenshot-2.jpg">screenshot-2.jpg</a>, <a href="files/adding-blocks/images/screenshot-3.jpg">screenshot-3.jpg</a>, <a href="files/adding-blocks/images/screenshot-4.jpg">screenshot-4.jpg</a>, <a href="files/adding-blocks/images/screenshot-5.jpg">screenshot-5.jpg</a>, <a href="files/adding-blocks/images/screenshot-6.jpg">screenshot-6.jpg</a>, <a href="files/adding-blocks/images/screenshot-7.jpg">screenshot-7.jpg</a></li>
+    <li><a href="files/adding-blocks/2026-07-24-Learn-HAX_-Adding-Blocks.docx">Original Content Source (DOCX)</a></li>
+    <li><a href="files/adding-blocks/add-a-block.json">Automation recording (JSON)</a></li>
+    <li>Last updated: July 27, 2026</li>
+    <li>HAXcms version: 26.0.0</li>
+</ul>
+]]></content>
+</item>

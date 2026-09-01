@@ -1,0 +1,84 @@
+# Learn HAX
+
+> Tutorials, reference, and onboarding for the HAX ecosystem.
+
+HAXcms is a file-based CMS: authored pages and metadata are stored as portable files, not locked into a database-only workflow.
+The canonical site structure is `site.json`, represented in JSON Outline Schema (`id`, `parent`, `order`, `slug`, `location`, and `metadata`).
+Use HAX CLI and ecosystem tooling to maintain human-authored content while keeping machine-readable outputs synchronized.
+Managed files (feeds, search indexes, manifests, and this `llms.txt`) are generated artifacts and should be rebuilt by tooling.
+
+## Core resources
+- [site.json](https://localhost:3000/learn/site.json): Canonical site manifest and navigation tree in JSON Outline Schema format.
+- [llms.txt](https://localhost:3000/learn/llms.txt): LLM-oriented guide to this site and its machine-readable resources.
+
+## Pages
+- [Start Here](https://localhost:3000/learn/pages/item-c79ab22a-2fbc-4054-9175-48c65fef2dd6/index.md)
+- [Cat — Content Author](https://localhost:3000/learn/pages/item-8e8d4f78-af04-47ef-835e-560cafa19c31/index.md)
+- [Chuck — Site Builder](https://localhost:3000/learn/pages/item-e5618910-6223-409f-9bcf-91f37f8aad8d/index.md)
+- [Sven — Creator](https://localhost:3000/learn/pages/item-0380d076-dc72-4ed9-8926-1c57f94697a6/index.md)
+- [Luna — Developer](https://localhost:3000/learn/pages/item-1dd36be7-d633-49e8-8783-ae66e95d26e3/index.md)
+- [Dashboard & Site Basics](https://localhost:3000/learn/pages/item-1f0d127e-0642-43dd-8594-716fbb0f3cd9/index.md)
+- [HAXcms Dashboard](https://localhost:3000/learn/pages/item-bf78e0b9-41fa-42cc-a47a-1b94cfe81709/index.md)
+- [Site Admin Settings Dashboard](https://localhost:3000/learn/pages/item-037743a5-e7f6-4b3c-87af-8a509aac203d/index.md)
+- [System Settings Dashboard](https://localhost:3000/learn/pages/item-6b2dd56a-878c-4208-8674-902f7a8e7e6a/index.md)
+- [Create a New Page](https://localhost:3000/learn/pages/item-6943e66d-8a7f-4a3a-bc95-57a5d022303e/index.md)
+- [Edit a Page](https://localhost:3000/learn/pages/item-a18c52a4-5f61-46cb-ac85-d954e7473977/index.md)
+- [Adding Video Blocks](https://localhost:3000/learn/pages/item-3434a9e5-a635-4eb8-917d-538f1e5dda05/index.md)
+- [Reports](https://localhost:3000/learn/pages/item-3f28ebc9-7bf2-4b1b-80bc-2441f9c7bca7/index.md)
+- [Developer Onboarding](https://localhost:3000/learn/pages/item-74537f8b-33c9-48d5-8800-370b9db8ea29/index.md)
+- [Create Site from DOCX](https://localhost:3000/learn/pages/item-5fb2118f-5546-4a4b-bdd8-e9bc4d6343d9/index.md)
+- [Instructional](https://localhost:3000/learn/pages/item-1fad16d2-a62a-4895-b90b-052b834c8938/index.md)
+- [Math](https://localhost:3000/learn/pages/item-c787686e-1a25-4f74-ab98-9164d2ec7c3b/index.md)
+- [Question Types](https://localhost:3000/learn/pages/item-cdb028a2-5397-4117-a736-c602121ff70b/index.md)
+- [Fill in the Blanks](https://localhost:3000/learn/pages/item-146c5613-144a-4b57-800f-73e4affe28d5/index.md)
+- [Mark the Words](https://localhost:3000/learn/pages/item-dab9887d-4ca6-4e89-b8ae-b1ae0e7566c9/index.md)
+- [Matching / Drag and Drop](https://localhost:3000/learn/pages/item-90093686-d1c7-4464-8656-0f407e82e193/index.md)
+- [Multiple Choice](https://localhost:3000/learn/pages/item-d003549b-8e72-4887-9e63-ebc8392625fe/index.md)
+- [Short Answer Question](https://localhost:3000/learn/pages/item-838af7af-7e6f-45de-8f75-8728d0fc5643/index.md)
+- [Sorting Question](https://localhost:3000/learn/pages/item-6995c339-78b2-44ef-82a7-9f93c8ac2a8f/index.md)
+- [Tagging Question](https://localhost:3000/learn/pages/item-bb895134-c091-41fb-abb0-0a37b1c17fe7/index.md)
+- [True / False Question](https://localhost:3000/learn/pages/item-ef38f789-2cd8-4400-8e25-e34f4b48ff24/index.md)
+- [Self Check](https://localhost:3000/learn/pages/item-00f0e62b-01d4-4202-add8-7e8490122049/index.md)
+- [Stop Note](https://localhost:3000/learn/pages/item-08a260e1-c5be-4f4e-ae8e-b6083916bb90/index.md)
+- [Table](https://localhost:3000/learn/pages/item-5efd455d-d2b8-4127-a4c4-f7c7dfc4d153/index.md)
+- [Timeline](https://localhost:3000/learn/pages/item-e16de22c-5a24-4bc4-890f-0a3054ecdae9/index.md)
+- [3D Model](https://localhost:3000/learn/pages/item-136d1c19-6fb7-409c-853d-6f8f05c9e913/index.md)
+- [Collection List](https://localhost:3000/learn/pages/item-a1f98d11-c0b8-417f-b4f8-acbb5eba8b5d/index.md)
+- [Club Websites](https://localhost:3000/learn/pages/item-b195606d-6dd6-4992-bda0-a844c24e2fba/index.md)
+- [Tutorial Library](https://localhost:3000/learn/pages/item-1467f036-344e-4c49-8232-6b1f6a730c76/index.md)
+- [Creating & Structuring Content](https://localhost:3000/learn/pages/item-33529864-7498-46e7-b27a-8487845c28a5/index.md)
+- [Reorder & Organize Pages](https://localhost:3000/learn/pages/item-b078960a-206b-4c66-b467-ab700f69fbf4/index.md)
+- [Managing Course Structure](https://localhost:3000/learn/pages/item-55ad6fa9-0217-4770-b35c-ed0e80519077/index.md)
+- [Editing & Authoring](https://localhost:3000/learn/pages/item-77e491c7-219b-4501-bbd2-76c71aea802f/index.md)
+- [Adding Blocks](https://localhost:3000/learn/pages/item-d1d8542a-0da4-469c-bb8d-78ef5c7ed258/index.md)
+- [Slash Commands](https://localhost:3000/learn/pages/item-5bb4d1cd-9c23-4751-998c-992d89b33386/index.md)
+- [Working with Media](https://localhost:3000/learn/pages/item-597d9a46-06d4-4a04-9c7f-788078208345/index.md)
+- [Working with Images](https://localhost:3000/learn/pages/item-73ac8a17-d53e-4c52-bb3e-f7c626d48e33/index.md)
+- [Site Health & Reports](https://localhost:3000/learn/pages/item-2038f2a6-45b4-4342-ae4d-c7e01f312822/index.md)
+- [Developer Onboarding](https://localhost:3000/learn/pages/item-f5956eb6-ba21-4204-9995-ba3392b26768/index.md)
+- [XLSX Data Table and Site Import](https://localhost:3000/learn/pages/item-5b3b531b-8bdb-45d1-8f2e-ede9a6ed42f0/index.md)
+- [Multimedia](https://localhost:3000/learn/pages/item-3d74bcd7-710b-4a3c-b9eb-96ae68e9fadf/index.md)
+- [GIF Player](https://localhost:3000/learn/pages/item-36029c31-e700-48d2-b06c-d7bf1c44f381/index.md)
+- [Inline Audio](https://localhost:3000/learn/pages/item-8fda3207-09d4-47b8-9f05-239cbfb2ae1f/index.md)
+- [Video Player](https://localhost:3000/learn/pages/item-8eff8304-de6b-4648-ae0b-26f3f520f5dc/index.md)
+- [Media Playlist](https://localhost:3000/learn/pages/item-78d3584b-1eb5-489f-9355-7c3cb78a61bd/index.md)
+- [Image Gallery](https://localhost:3000/learn/pages/item-1f108878-128d-4a23-b536-cefeabf50c51/index.md)
+- [Column Layout](https://localhost:3000/learn/pages/item-01a77695-139a-4b3c-ac01-71843738454b/index.md)
+- [Portfolios](https://localhost:3000/learn/pages/item-f3b1b432-40a7-45d1-ab36-7d2f717093dc/index.md)
+- [Import Content](https://localhost:3000/learn/pages/item-a55e9f51-e83c-4c33-bbc5-9b82bdb39d72/index.md)
+- [Migrate Data to HAX](https://localhost:3000/learn/pages/item-78c6ec8d-2d94-48d7-bb08-27f06a16bdd4/index.md)
+- [Layout](https://localhost:3000/learn/pages/item-ba174e9f-0ba4-4484-bd8a-df6c63dcd181/index.md)
+- [Learning Component](https://localhost:3000/learn/pages/item-b27c5b27-567e-4abd-a462-4a5811856511/index.md)
+- [Play List](https://localhost:3000/learn/pages/item-316bda36-abf5-4a44-8ee9-89e8224e384b/index.md)
+- [Courses & Resumes](https://localhost:3000/learn/pages/item-cce252f9-eba8-40c1-84df-c96361d2c030/index.md)
+- [Block Reference](https://localhost:3000/learn/pages/item-ec9770f4-33ca-4a02-98fa-32053c5fcac5/index.md)
+- [Using HAX For…](https://localhost:3000/learn/pages/item-09a2f55a-0fbe-4e8a-a9d1-966cd133584a/index.md)
+- [Troubleshooting & FAQ](https://localhost:3000/learn/pages/item-b45608bf-e25d-4928-abea-ee56805430b0/index.md)
+- [Release Notes](https://localhost:3000/learn/pages/item-d1c8060f-493a-4ef9-9ead-80ba1950816f/index.md)
+
+## Optional
+- [Search index](https://localhost:3000/learn/lunrSearchIndex.json): Lunr corpus for quick full-text retrieval.
+- [RSS feed](https://localhost:3000/learn/rss.xml): Site updates in RSS format.
+- [Atom feed](https://localhost:3000/learn/atom.xml): Site updates in Atom format.
+- [Sitemap](https://localhost:3000/learn/sitemap.xml): URL-level discovery map for the published site.
+- [Agent skills](https://localhost:3000/learn/.well-known/agent-skills/index.json): Agent Skills discovery index (agentskills.io v0.2.0) listing skills that teach an agent how to read, author, audit, and remix this site.

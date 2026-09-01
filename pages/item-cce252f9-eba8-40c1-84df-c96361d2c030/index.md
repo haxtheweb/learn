@@ -5,9 +5,9 @@
 Blocks & tutorials you'll use
 -----------------------------
 
-*   [Creating & Structuring Content](/tutorial-library/creating-structuring-content) — build the course or resume outline.
-*   [Import Content](/import-content) — convert an existing DOCX or spreadsheet into a structured site.
-*   [Instructional blocks](/block-reference/instructional) — question types, self checks, stop notes, timelines, and tables for course content.
-*   [Column Layout](/block-reference/layout/column-layout) and [Learning Component](/block-reference/layout/learning-component) — structure pages for readability.
+*   [Creating & Structuring Content](tutorial-library/creating-structuring-content) — build the course or resume outline.
+*   [Import Content](import-content) — convert an existing DOCX or spreadsheet into a structured site.
+*   [Instructional blocks](block-reference/instructional) — question types, self checks, stop notes, timelines, and tables for course content.
+*   [Column Layout](block-reference/layout/column-layout) and [Learning Component](block-reference/layout/learning-component) — structure pages for readability.
 
 Course sites built in HAX are OER-friendly: the content is portable and can be remixed by others.

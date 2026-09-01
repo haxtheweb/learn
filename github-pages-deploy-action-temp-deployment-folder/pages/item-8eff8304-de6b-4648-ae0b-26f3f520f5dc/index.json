@@ -1,0 +1,31 @@
+{
+  "id": "item-8eff8304-de6b-4648-ae0b-26f3f520f5dc",
+  "indent": 2,
+  "location": "pages/item-8eff8304-de6b-4648-ae0b-26f3f520f5dc/index.json",
+  "slug": "block-reference/multimedia/video-player",
+  "order": 3,
+  "parent": "item-3d74bcd7-710b-4a3c-b9eb-96ae68e9fadf",
+  "title": "Video Player",
+  "description": "",
+  "metadata": {
+    "tags": "beginner,content-author,creator,reference,media,video,blocks",
+    "fields": {
+      "skill": "beginner",
+      "persona": [
+        "content-author",
+        "creator"
+      ],
+      "capability": [
+        "reference",
+        "media",
+        "video",
+        "blocks"
+      ]
+    },
+    "published": true,
+    "hideInMenu": false,
+    "created": 1788285969,
+    "updated": 1788285969
+  },
+  "content": "\n<p>The standard HAX video player has support for a variety of options that you can watch in this video about adding the video player to your content</p>\n<h3 id=\"header-692cf1a9-56f8-3cce-cc63-aa32c3ed644f\"><span>Features</span></h3>\n<ul>\n    \n    <li slot=\"col-2\">\n      \n      <span>Youtube / Vimeo / mp4 embedding</span>\n      \n      <br slot=\"col-2\">\n    \n    </li>\n    \n    <li>VTT / transcription track that generates closed captions and searchable transcript</li>\n    \n    <li>The HAX colorization standard with built in accessibility support</li>\n    \n    <li>Advanced options for developers</li>\n  \n  </ul>\n<h3 id=\"header-6f2b6170-f838-f59f-f4ce-75eb3a5e11c6\">Example and video</h3>\n<video-player accent-color=\"indigo\" crossorigin=\"anonymous\" source=\"https://youtu.be/V77C50JWB3w\" sticky-corner=\"none\" resource=\"#d1ef97cf-3a6a-627b-5dd9-d914ec05c249\" prefix=\"oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org\" element-visible=\"\" lang=\"en\" media-title=\"Populates this area\" hide-youtube-link=\"\" learning-mode=\"\" t=\"{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}\" source-type=\"youtube\" sources=\"[]\" source-data=\"[{&quot;src&quot;:&quot;https://www.youtube.com/embed/V77C50JWB3w&quot;,&quot;type&quot;:&quot;&quot;}]\" tracks=\"[]\" margin-right=\"24\"></video-player>\n"
+}

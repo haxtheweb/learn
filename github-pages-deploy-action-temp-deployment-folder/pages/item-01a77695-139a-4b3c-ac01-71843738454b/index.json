@@ -1,0 +1,29 @@
+{
+  "id": "item-01a77695-139a-4b3c-ac01-71843738454b",
+  "indent": 2,
+  "location": "pages/item-01a77695-139a-4b3c-ac01-71843738454b/index.json",
+  "slug": "block-reference/layout/column-layout",
+  "order": 1,
+  "parent": "item-ba174e9f-0ba4-4484-bd8a-df6c63dcd181",
+  "title": "Column Layout",
+  "description": "",
+  "metadata": {
+    "tags": "beginner,content-author,site-builder,reference,blocks",
+    "fields": {
+      "skill": "beginner",
+      "persona": [
+        "content-author",
+        "site-builder"
+      ],
+      "capability": [
+        "reference",
+        "blocks"
+      ]
+    },
+    "published": true,
+    "hideInMenu": false,
+    "created": 1788285969,
+    "updated": 1788285969
+  },
+  "content": "\n<p>Presenting material side by side can help the user scan and experience parts of material like they would expect to find in a well laid out book page. Adding columns to material can provide a small visual treatment to your content.</p>\n<h3 data-original-level=\"H3\" id=\"header-e802bad9-46b0-24ab-a801-d9d78a8e7af1\">Example</h3>\n<grid-plate layout=\"1-1\" responsive-size=\"xs\" disable-responsive=\"\" breakpoint-sm=\"900\" breakpoint-md=\"1200\" breakpoint-lg=\"1500\" breakpoint-xl=\"1800\"><media-image source=\"https://images-assets.nasa.gov/image/201106100020HQ/201106100020HQ~thumb.jpg\" alt=\"Aquarius SAC-D Launch\" citation=\"NASA/Bill Ingalls\" size=\"wide\" offset=\"none\" slot=\"col-1\" card=\"\" box=\"\"></media-image>\n<p slot=\"col-2\"><span>A Delta II rocket launches with the Aquarius/SAC-D spacecraft payload from Space Launch Complex 2 at Vandenberg Air Force Base, Calif. on Friday, June 10, 2011. The joint U.S./Argentinian Aquarius/Satélite de Aplicaciones Científicas (SAC)-D mission will map the salinity at the ocean surface, information critical to improving our understanding of two major components of Earth's climate system: the water cycle and ocean circulation.</span></p>\n</grid-plate>\n<h3 data-original-level=\"H3\" id=\"header-3d181d74-8f52-6c5e-f6e3-ec563886ff3a\">Video</h3>\n<video-player source=\"https://youtu.be/ehdDPCaEPBY\" caption=\"https://youtu.be/ehdDPCaEPBY\" accent-color=\"grey\" crossorigin=\"anonymous\" sticky-corner=\"none\" resource=\"#2fc7fd2a-d8b9-b41e-8581-57110b0e7f6e\" prefix=\"oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org\" element-visible=\"\" lang=\"en\" t=\"{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}\" source-type=\"youtube\" sources=\"[]\" source-data=\"[{&quot;src&quot;:&quot;https://www.youtube.com/embed/ehdDPCaEPBY&quot;,&quot;type&quot;:&quot;&quot;}]\" tracks=\"[]\"></video-player>\n"
+}
