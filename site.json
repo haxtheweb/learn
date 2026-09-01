@@ -16,20 +16,20 @@
         "pathauto": true
       },
       "created": 1787862062,
-      "updated": 1788287239,
+      "updated": 1788287272,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
       }
     },
     "theme": {
-      "element": "haxma-theme",
-      "path": "@haxtheweb/haxma-theme/haxma-theme.js",
-      "name": "Design docs",
-      "thumbnail": "@haxtheweb/haxcms-elements/lib/theme-screenshots/theme-haxma-theme-thumb.jpg",
-      "description": "Start with a blank site using the Design docs",
+      "element": "clean-two",
+      "path": "@haxtheweb/clean-two/clean-two.js",
+      "name": "Clean Two",
+      "thumbnail": "@haxtheweb/haxcms-elements/lib/theme-screenshots/theme-clean-two-thumb.jpg",
+      "description": "Start with a blank site using the Clean Two",
       "category": [
-        "Website"
+        "Course"
       ],
       "hidden": false,
       "priority": 0,
