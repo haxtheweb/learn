@@ -16,23 +16,23 @@
         "pathauto": true
       },
       "created": 1787862062,
-      "updated": 1788287207,
+      "updated": 1788287239,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
       }
     },
     "theme": {
-      "element": "polaris-flex-sidebar",
-      "path": "@haxtheweb/polaris-theme/lib/polaris-flex-sidebar.js",
-      "name": "Polaris Sidebar",
-      "thumbnail": "@haxtheweb/haxcms-elements/lib/theme-screenshots/theme-polaris-flex-sidebar-thumb.jpg",
-      "description": "Start with a blank site using the Polaris Sidebar",
+      "element": "haxma-theme",
+      "path": "@haxtheweb/haxma-theme/haxma-theme.js",
+      "name": "Design docs",
+      "thumbnail": "@haxtheweb/haxcms-elements/lib/theme-screenshots/theme-haxma-theme-thumb.jpg",
+      "description": "Start with a blank site using the Design docs",
       "category": [
         "Website"
       ],
       "hidden": false,
-      "priority": -1,
+      "priority": 0,
       "terrible": false,
       "supportedPalettes": null,
       "variables": {
