@@ -25,14 +25,14 @@
 <published>true</published>
 <hideInMenu>false</hideInMenu>
 <created>1788285969</created>
-<updated>1788285969</updated>
+<updated>1788288624</updated>
 </metadata>
 <content><![CDATA[<p>This section includes the following pages:</p>
 <ul>
-  <li><a href="/block-reference/layout/collection-list">Collection List</a></li>
-  <li><a href="/block-reference/layout/column-layout">Column Layout</a></li>
-  <li><a href="/block-reference/layout/learning-component">Learning Component</a></li>
-  <li><a href="/block-reference/layout/play-list">Play List</a></li>
+  <li><a href="block-reference/layout/collection-list">Collection List</a></li>
+  <li><a href="block-reference/layout/column-layout">Column Layout</a></li>
+  <li><a href="block-reference/layout/learning-component">Learning Component</a></li>
+  <li><a href="block-reference/layout/play-list">Play List</a></li>
 </ul>
 ]]></content>
 </item>

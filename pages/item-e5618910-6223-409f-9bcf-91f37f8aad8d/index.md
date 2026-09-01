@@ -8,6 +8,6 @@ These areas of Learn HAX map most directly to what Chuck wants to do:
 *   [Dashboard & Site Basics](tutorial-library/dashboard-site-basics) — the HAXcms dashboard and the system / site admin settings dashboards.
 *   [Creating & Structuring Content](tutorial-library/creating-structuring-content) — manage the outline and navigation of a site.
 *   [Site Health & Reports](tutorial-library/site-health-reports) — run reports and link checks to keep a site healthy.
-*   [Import Content](/import-content) — migrate content from DOCX, spreadsheets, Notion, and other HAX sites.
+*   [Import Content](import-content) — migrate content from DOCX, spreadsheets, Notion, and other HAX sites.
 
-Want to extend HAX itself? See [Developer Onboarding](tutorial-library/developer-onboarding) and the [Block Reference](/block-reference) for what each element does.
+Want to extend HAX itself? See [Developer Onboarding](tutorial-library/developer-onboarding) and the [Block Reference](block-reference) for what each element does.

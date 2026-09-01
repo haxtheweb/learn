@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://localhost:3000/learn/start-here</loc>
-    <lastmod>2026-09-01T18:50:02.000Z</lastmod>
+    <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://localhost:3000/learn/start-here/cat</loc>
-    <lastmod>2026-09-01T18:50:02.000Z</lastmod>
+    <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://localhost:3000/learn/start-here/chuck</loc>
-    <lastmod>2026-09-01T18:50:02.000Z</lastmod>
+    <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://localhost:3000/learn/start-here/sven</loc>
-    <lastmod>2026-09-01T18:50:02.000Z</lastmod>
+    <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://localhost:3000/learn/start-here/luna</loc>
-    <lastmod>2026-09-01T18:50:02.000Z</lastmod>
+    <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -134,7 +134,7 @@
   </url>
   <url>
     <loc>https://localhost:3000/learn/block-reference/instructional</loc>
-    <lastmod>2026-09-01T18:06:08.000Z</lastmod>
+    <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -146,7 +146,7 @@
   </url>
   <url>
     <loc>https://localhost:3000/learn/block-reference/instructional/question-types</loc>
-    <lastmod>2026-09-01T18:06:08.000Z</lastmod>
+    <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -218,7 +218,7 @@
   </url>
   <url>
     <loc>https://localhost:3000/learn/import-content</loc>
-    <lastmod>2026-09-01T18:06:08.000Z</lastmod>
+    <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -230,7 +230,7 @@
   </url>
   <url>
     <loc>https://localhost:3000/learn/block-reference</loc>
-    <lastmod>2026-09-01T18:06:08.000Z</lastmod>
+    <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -284,13 +284,13 @@
   </url>
   <url>
     <loc>https://localhost:3000/learn/using-hax-for/club-websites</loc>
-    <lastmod>2026-09-01T18:50:02.000Z</lastmod>
+    <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://localhost:3000/learn/block-reference/multimedia</loc>
-    <lastmod>2026-09-01T18:06:09.000Z</lastmod>
+    <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -332,7 +332,7 @@
   </url>
   <url>
     <loc>https://localhost:3000/learn/block-reference/layout</loc>
-    <lastmod>2026-09-01T18:06:09.000Z</lastmod>
+    <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -350,25 +350,25 @@
   </url>
   <url>
     <loc>https://localhost:3000/learn/using-hax-for</loc>
-    <lastmod>2026-09-01T18:06:09.000Z</lastmod>
+    <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://localhost:3000/learn/using-hax-for/portfolios</loc>
-    <lastmod>2026-09-01T18:50:02.000Z</lastmod>
+    <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://localhost:3000/learn/using-hax-for/courses-and-resumes</loc>
-    <lastmod>2026-09-01T18:50:02.000Z</lastmod>
+    <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://localhost:3000/learn/troubleshooting-faq</loc>
-    <lastmod>2026-09-01T18:50:02.000Z</lastmod>
+    <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

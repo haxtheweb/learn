@@ -23,7 +23,7 @@
 <published>true</published>
 <hideInMenu>false</hideInMenu>
 <created>1788285967</created>
-<updated>1788288602</updated>
+<updated>1788288624</updated>
 </metadata>
 <content><![CDATA[<accent-card accent-color="deep-orange" accent-heading="" horizontal="" image-src="files/start-here/CopyQ.allSms.png" image-alt="Sven avatar" ready="">
   <h2 slot="heading">Artist, student without web fundamentals</h2>
@@ -36,8 +36,8 @@
 <ul>
   <li><a href="tutorial-library/editing-authoring">Editing &amp; Authoring</a> — edit a page and add blocks by dragging, no code required.</li>
   <li><a href="tutorial-library/working-with-media">Working with Media</a> — show off your work with images and video.</li>
-  <li><a href="/using-hax-for">Using HAX For…</a> — concept recipes for portfolios, club sites, and more.</li>
+  <li><a href="using-hax-for">Using HAX For…</a> — concept recipes for portfolios, club sites, and more.</li>
 </ul>
-<p>Because HAX content is portable, you own your site and can move it anywhere. See <a href="/troubleshooting-faq">Troubleshooting &amp; FAQ</a> if you get stuck.</p>
+<p>Because HAX content is portable, you own your site and can move it anywhere. See <a href="troubleshooting-faq">Troubleshooting &amp; FAQ</a> if you get stuck.</p>
 ]]></content>
 </item>

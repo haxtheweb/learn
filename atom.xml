@@ -3,7 +3,7 @@
   <title>Learn HAX</title>
   <link href="https://localhost:3000/learn/" rel="self" />
   <subtitle>Tutorials, reference, and onboarding for the HAX ecosystem.</subtitle>
-  <updated>2026-09-01T18:50:02.000Z</updated>
+  <updated>2026-09-01T18:50:24.000Z</updated>
   <author>
       <name></name>
   </author>
@@ -12,7 +12,7 @@
   <entry>
     <title>Start Here</title>
     <id>item-c79ab22a-2fbc-4054-9175-48c65fef2dd6</id>
-    <updated>2026-09-01T18:50:02.000Z</updated>
+    <updated>2026-09-01T18:50:24.000Z</updated>
     <published>2026-09-01T18:06:07.000Z</published>
     <summary></summary>
     <link href="https://localhost:3000/learn/start-here"/>
@@ -28,19 +28,19 @@
 <h2>Pick your path</h2>
 <p>HAX serves a few different kinds of users. Choose the persona that sounds most like you and we'll point you at the right tutorials and reference material.</p>
 <ul>
-  <li><a href="/start-here/cat">Cat — Content Author</a>: you write and organize content and want a block editor to handle the HTML.</li>
-  <li><a href="/start-here/chuck">Chuck — Site Builder</a>: you build and configure sites and don't mind popping the hood when needed.</li>
-  <li><a href="/start-here/sven">Sven — Creator</a>: you make things (art, music, writing) and need a simple, portable web presence.</li>
-  <li><a href="/start-here/luna">Luna — Developer</a>: you write code and want to extend, theme, and remix HAX on web standards.</li>
+  <li><a href="start-here/cat">Cat — Content Author</a>: you write and organize content and want a block editor to handle the HTML.</li>
+  <li><a href="start-here/chuck">Chuck — Site Builder</a>: you build and configure sites and don't mind popping the hood when needed.</li>
+  <li><a href="start-here/sven">Sven — Creator</a>: you make things (art, music, writing) and need a simple, portable web presence.</li>
+  <li><a href="start-here/luna">Luna — Developer</a>: you write code and want to extend, theme, and remix HAX on web standards.</li>
 </ul>
-<p>Prefer to just browse? Jump straight to the <a href="tutorial-library">Tutorial Library</a>, the <a href="/block-reference">Block Reference</a>, or see <a href="/using-hax-for">what HAX is good for</a>.</p>
+<p>Prefer to just browse? Jump straight to the <a href="tutorial-library">Tutorial Library</a>, the <a href="block-reference">Block Reference</a>, or see <a href="using-hax-for">what HAX is good for</a>.</p>
  ]]>
     </content>
   </entry>
   <entry>
     <title>Cat — Content Author</title>
     <id>item-8e8d4f78-af04-47ef-835e-560cafa19c31</id>
-    <updated>2026-09-01T18:50:02.000Z</updated>
+    <updated>2026-09-01T18:50:24.000Z</updated>
     <published>2026-09-01T18:06:07.000Z</published>
     <summary></summary>
     <link href="https://localhost:3000/learn/start-here/cat"/>
@@ -58,16 +58,16 @@
   <li><a href="tutorial-library/editing-authoring">Editing &amp; Authoring</a> — get comfortable opening a page, adding blocks, and using slash commands.</li>
   <li><a href="tutorial-library/creating-structuring-content">Creating &amp; Structuring Content</a> — build and reorder the outline of a site.</li>
   <li><a href="tutorial-library/working-with-media">Working with Media</a> — drop in video and images without touching code.</li>
-  <li><a href="/block-reference">Block Reference</a> — browse every block you can insert into a page.</li>
+  <li><a href="block-reference">Block Reference</a> — browse every block you can insert into a page.</li>
 </ul>
-<p>When you're ready to bring existing material in, see <a href="/import-content">Import Content</a> for DOCX and spreadsheet import paths.</p>
+<p>When you're ready to bring existing material in, see <a href="import-content">Import Content</a> for DOCX and spreadsheet import paths.</p>
  ]]>
     </content>
   </entry>
   <entry>
     <title>Chuck — Site Builder</title>
     <id>item-e5618910-6223-409f-9bcf-91f37f8aad8d</id>
-    <updated>2026-09-01T18:50:02.000Z</updated>
+    <updated>2026-09-01T18:50:24.000Z</updated>
     <published>2026-09-01T18:06:07.000Z</published>
     <summary></summary>
     <link href="https://localhost:3000/learn/start-here/chuck"/>
@@ -85,16 +85,16 @@
   <li><a href="tutorial-library/dashboard-site-basics">Dashboard &amp; Site Basics</a> — the HAXcms dashboard and the system / site admin settings dashboards.</li>
   <li><a href="tutorial-library/creating-structuring-content">Creating &amp; Structuring Content</a> — manage the outline and navigation of a site.</li>
   <li><a href="tutorial-library/site-health-reports">Site Health &amp; Reports</a> — run reports and link checks to keep a site healthy.</li>
-  <li><a href="/import-content">Import Content</a> — migrate content from DOCX, spreadsheets, Notion, and other HAX sites.</li>
+  <li><a href="import-content">Import Content</a> — migrate content from DOCX, spreadsheets, Notion, and other HAX sites.</li>
 </ul>
-<p>Want to extend HAX itself? See <a href="tutorial-library/developer-onboarding">Developer Onboarding</a> and the <a href="/block-reference">Block Reference</a> for what each element does.</p>
+<p>Want to extend HAX itself? See <a href="tutorial-library/developer-onboarding">Developer Onboarding</a> and the <a href="block-reference">Block Reference</a> for what each element does.</p>
  ]]>
     </content>
   </entry>
   <entry>
     <title>Sven — Creator</title>
     <id>item-0380d076-dc72-4ed9-8926-1c57f94697a6</id>
-    <updated>2026-09-01T18:50:02.000Z</updated>
+    <updated>2026-09-01T18:50:24.000Z</updated>
     <published>2026-09-01T18:06:07.000Z</published>
     <summary></summary>
     <link href="https://localhost:3000/learn/start-here/sven"/>
@@ -111,16 +111,16 @@
 <ul>
   <li><a href="tutorial-library/editing-authoring">Editing &amp; Authoring</a> — edit a page and add blocks by dragging, no code required.</li>
   <li><a href="tutorial-library/working-with-media">Working with Media</a> — show off your work with images and video.</li>
-  <li><a href="/using-hax-for">Using HAX For…</a> — concept recipes for portfolios, club sites, and more.</li>
+  <li><a href="using-hax-for">Using HAX For…</a> — concept recipes for portfolios, club sites, and more.</li>
 </ul>
-<p>Because HAX content is portable, you own your site and can move it anywhere. See <a href="/troubleshooting-faq">Troubleshooting &amp; FAQ</a> if you get stuck.</p>
+<p>Because HAX content is portable, you own your site and can move it anywhere. See <a href="troubleshooting-faq">Troubleshooting &amp; FAQ</a> if you get stuck.</p>
  ]]>
     </content>
   </entry>
   <entry>
     <title>Luna — Developer</title>
     <id>item-1dd36be7-d633-49e8-8783-ae66e95d26e3</id>
-    <updated>2026-09-01T18:50:02.000Z</updated>
+    <updated>2026-09-01T18:50:24.000Z</updated>
     <published>2026-09-01T18:06:07.000Z</published>
     <summary></summary>
     <link href="https://localhost:3000/learn/start-here/luna"/>
@@ -136,10 +136,10 @@
 <p>These areas of Learn HAX map most directly to what Luna wants to do:</p>
 <ul>
   <li><a href="tutorial-library/developer-onboarding">Developer Onboarding</a> — fork and clone the repos, install, and verify each project runs.</li>
-  <li><a href="/block-reference">Block Reference</a> — the full inventory of HAX-capable elements and how they're used in the editor.</li>
-  <li><a href="/release-notes">Release Notes</a> — track what changes across HAXcms releases.</li>
+  <li><a href="block-reference">Block Reference</a> — the full inventory of HAX-capable elements and how they're used in the editor.</li>
+  <li><a href="release-notes">Release Notes</a> — track what changes across HAXcms releases.</li>
 </ul>
-<p>Looking to build new elements or themes? The <a href="/block-reference">Block Reference</a> documents each component's usage; combine it with the HAX CLI to scaffold and publish your own.</p>
+<p>Looking to build new elements or themes? The <a href="block-reference">Block Reference</a> documents each component's usage; combine it with the HAX CLI to scaffold and publish your own.</p>
  ]]>
     </content>
   </entry>
@@ -615,7 +615,7 @@ git remote add upstream https://github.com/haxtheweb/haxcms-php.git</template></
   <entry>
     <title>Instructional</title>
     <id>item-1fad16d2-a62a-4895-b90b-052b834c8938</id>
-    <updated>2026-09-01T18:06:08.000Z</updated>
+    <updated>2026-09-01T18:50:24.000Z</updated>
     <published>2026-09-01T18:06:08.000Z</published>
     <summary></summary>
     <link href="https://localhost:3000/learn/block-reference/instructional"/>
@@ -623,12 +623,12 @@ git remote add upstream https://github.com/haxtheweb/haxcms-php.git</template></
     <content type="html">
       <![CDATA[ <p>This section includes the following pages:</p>
 <ul>
-  <li><a href="/block-reference/instructional/math">Math</a></li>
-  <li><a href="/block-reference/instructional/question-types">Question Types</a></li>
-  <li><a href="/block-reference/instructional/self-check">Self Check</a></li>
-  <li><a href="/block-reference/instructional/stop-note">Stop Note</a></li>
-  <li><a href="/block-reference/instructional/table">Table</a></li>
-  <li><a href="/block-reference/instructional/timeline">Timeline</a></li>
+  <li><a href="block-reference/instructional/math">Math</a></li>
+  <li><a href="block-reference/instructional/question-types">Question Types</a></li>
+  <li><a href="block-reference/instructional/self-check">Self Check</a></li>
+  <li><a href="block-reference/instructional/stop-note">Stop Note</a></li>
+  <li><a href="block-reference/instructional/table">Table</a></li>
+  <li><a href="block-reference/instructional/timeline">Timeline</a></li>
 </ul>
  ]]>
     </content>
@@ -661,7 +661,7 @@ git remote add upstream https://github.com/haxtheweb/haxcms-php.git</template></
   <entry>
     <title>Question Types</title>
     <id>item-cdb028a2-5397-4117-a736-c602121ff70b</id>
-    <updated>2026-09-01T18:06:08.000Z</updated>
+    <updated>2026-09-01T18:50:24.000Z</updated>
     <published>2026-09-01T18:06:08.000Z</published>
     <summary></summary>
     <link href="https://localhost:3000/learn/block-reference/instructional/question-types"/>
@@ -669,14 +669,14 @@ git remote add upstream https://github.com/haxtheweb/haxcms-php.git</template></
     <content type="html">
       <![CDATA[ <p>This section includes the following pages:</p>
 <ul>
-  <li><a href="/block-reference/instructional/question-types/fill-in-the-blanks">Fill in the Blanks</a></li>
-  <li><a href="/block-reference/instructional/question-types/mark-the-words">Mark the Words</a></li>
-  <li><a href="/block-reference/instructional/question-types/matching-drag-and-drop">Matching / Drag and Drop</a></li>
-  <li><a href="/block-reference/instructional/question-types/multiple-choice">Multiple Choice</a></li>
-  <li><a href="/block-reference/instructional/question-types/short-answer-question">Short Answer Question</a></li>
-  <li><a href="/block-reference/instructional/question-types/sorting-question">Sorting Question</a></li>
-  <li><a href="/block-reference/instructional/question-types/tagging-question">Tagging Question</a></li>
-  <li><a href="/block-reference/instructional/question-types/true-false-question">True / False Question</a></li>
+  <li><a href="block-reference/instructional/question-types/fill-in-the-blanks">Fill in the Blanks</a></li>
+  <li><a href="block-reference/instructional/question-types/mark-the-words">Mark the Words</a></li>
+  <li><a href="block-reference/instructional/question-types/matching-drag-and-drop">Matching / Drag and Drop</a></li>
+  <li><a href="block-reference/instructional/question-types/multiple-choice">Multiple Choice</a></li>
+  <li><a href="block-reference/instructional/question-types/short-answer-question">Short Answer Question</a></li>
+  <li><a href="block-reference/instructional/question-types/sorting-question">Sorting Question</a></li>
+  <li><a href="block-reference/instructional/question-types/tagging-question">Tagging Question</a></li>
+  <li><a href="block-reference/instructional/question-types/true-false-question">True / False Question</a></li>
 </ul>
  ]]>
     </content>
