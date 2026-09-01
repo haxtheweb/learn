@@ -1,0 +1,39 @@
+id: item-3f28ebc9-7bf2-4b1b-80bc-2441f9c7bca7
+indent: 2
+location: pages/item-3f28ebc9-7bf2-4b1b-80bc-2441f9c7bca7/index.yaml
+slug: tutorial-library/site-health-reports/reports
+order: 0
+parent: item-2038f2a6-45b4-4342-ae4d-c7e01f312822
+title: Reports
+description: ''
+metadata:
+  tags: beginner,site-builder,reports
+  fields:
+    skill: beginner
+    persona:
+      - site-builder
+    capability:
+      - reports
+  published: true
+  hideInMenu: false
+  created: 1788285968
+  updated: 1788285968
+content: >
+
+  <p>Reports (beta) provide a variety of ways to optimize the process of
+  maintaining and discovering meaning in sites built with HAX.</p>
+
+  <h2 data-original-level="H2"
+  id="header-2dd31a20-493d-a7b8-3790-318ff4e6eb01">Automated Link Checking</h2>
+
+  <video-player source="https://www.youtube.com/watch?v=I6cDZLutvhU"
+  caption="https://www.youtube.com/watch?v=I6cDZLutvhU" accent-color="grey"
+  crossorigin="anonymous" sticky-corner="none"
+  resource="#15c935a1-edd2-1b92-1814-c3f43d4a1d17"
+  prefix="oer:http://oerschema.org/ schema:http://schema.org/
+  dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/
+  cc:http://creativecommons.org/ns# bib:http://bib.schema.org"
+  element-visible="" lang="en" t="{&quot;embeddedMedia&quot;:&quot;embedded
+  media&quot;}" source-type="youtube" sources="[]"
+  source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/I6cDZLutvhU&quot;,&quot;type&quot;:&quot;&quot;}]"
+  tracks="[]"></video-player>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+<id>item-1467f036-344e-4c49-8232-6b1f6a730c76</id>
+<indent>0</indent>
+<location>pages/item-1467f036-344e-4c49-8232-6b1f6a730c76/index.xml</location>
+<slug>tutorial-library</slug>
+<order>1</order>
+<parent></parent>
+<title>Tutorial Library</title>
+<description></description>
+<metadata>
+<tags>beginner,content-author,site-builder,creator</tags>
+<fields>
+<skill>beginner</skill>
+<persona>
+<item>content-author</item>
+<item>site-builder</item>
+<item>creator</item>
+</persona>
+<capability>
+</capability>
+</fields>
+<published>true</published>
+<hideInMenu>false</hideInMenu>
+<created>1788285967</created>
+<updated>1788285967</updated>
+</metadata>
+<content><![CDATA[<p>This section includes the following pages:</p>
+<ul>
+  <li><a href="/tutorial-library/dashboard-site-basics">Dashboard &amp; Site Basics</a></li>
+  <li><a href="/tutorial-library/creating-structuring-content">Creating &amp; Structuring Content</a></li>
+  <li><a href="/tutorial-library/editing-authoring">Editing &amp; Authoring</a></li>
+  <li><a href="/tutorial-library/working-with-media">Working with Media</a></li>
+  <li><a href="/tutorial-library/site-health-reports">Site Health &amp; Reports</a></li>
+  <li><a href="/tutorial-library/developer-onboarding">Developer Onboarding</a></li>
+</ul>
+]]></content>
+</item>

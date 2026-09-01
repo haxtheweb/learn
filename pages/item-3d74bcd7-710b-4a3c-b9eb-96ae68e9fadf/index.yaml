@@ -1,0 +1,34 @@
+id: item-3d74bcd7-710b-4a3c-b9eb-96ae68e9fadf
+indent: 1
+location: pages/item-3d74bcd7-710b-4a3c-b9eb-96ae68e9fadf/index.yaml
+slug: block-reference/multimedia
+order: 1
+parent: item-ec9770f4-33ca-4a02-98fa-32053c5fcac5
+title: Multimedia
+description: ''
+metadata:
+  tags: beginner,content-author,creator,developer,reference,media,blocks
+  fields:
+    skill: beginner
+    persona:
+      - content-author
+      - creator
+      - developer
+    capability:
+      - reference
+      - media
+      - blocks
+  published: true
+  hideInMenu: false
+  created: 1788285969
+  updated: 1788285969
+content: |
+  <p>This section includes the following pages:</p>
+  <ul>
+    <li><a href="/block-reference/multimedia/3d-model">3D Model</a></li>
+    <li><a href="/block-reference/multimedia/gif-player">GIF Player</a></li>
+    <li><a href="/block-reference/multimedia/inline-audio">Inline Audio</a></li>
+    <li><a href="/block-reference/multimedia/video-player">Video Player</a></li>
+    <li><a href="/block-reference/multimedia/media-playlist">Media Playlist</a></li>
+    <li><a href="/block-reference/multimedia/image-gallery">Image Gallery</a></li>
+  </ul>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+<id>item-1f0d127e-0642-43dd-8594-716fbb0f3cd9</id>
+<indent>1</indent>
+<location>pages/item-1f0d127e-0642-43dd-8594-716fbb0f3cd9/index.xml</location>
+<slug>tutorial-library/dashboard-site-basics</slug>
+<order>0</order>
+<parent>item-1467f036-344e-4c49-8232-6b1f6a730c76</parent>
+<title>Dashboard &amp; Site Basics</title>
+<description></description>
+<metadata>
+<tags>beginner,site-builder,content-author,dashboard,settings</tags>
+<fields>
+<skill>beginner</skill>
+<persona>
+<item>site-builder</item>
+<item>content-author</item>
+</persona>
+<capability>
+<item>dashboard</item>
+<item>settings</item>
+</capability>
+</fields>
+<published>true</published>
+<hideInMenu>false</hideInMenu>
+<created>1788285967</created>
+<updated>1788285967</updated>
+</metadata>
+<content><![CDATA[<p>This section includes the following pages:</p>
+<ul>
+  <li><a href="/tutorial-library/dashboard-site-basics/haxcms-dashboard">HAXcms Dashboard</a></li>
+  <li><a href="/tutorial-library/dashboard-site-basics/site-admin-settings-dashboard">Site Admin Settings Dashboard</a></li>
+  <li><a href="/tutorial-library/dashboard-site-basics/system-settings-dashboard">System Settings Dashboard</a></li>
+</ul>
+]]></content>
+</item>

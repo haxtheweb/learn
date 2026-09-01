@@ -1,0 +1,31 @@
+id: item-ba174e9f-0ba4-4484-bd8a-df6c63dcd181
+indent: 1
+location: pages/item-ba174e9f-0ba4-4484-bd8a-df6c63dcd181/index.yaml
+slug: block-reference/layout
+order: 2
+parent: item-ec9770f4-33ca-4a02-98fa-32053c5fcac5
+title: Layout
+description: ''
+metadata:
+  tags: beginner,content-author,site-builder,developer,reference,blocks
+  fields:
+    skill: beginner
+    persona:
+      - content-author
+      - site-builder
+      - developer
+    capability:
+      - reference
+      - blocks
+  published: true
+  hideInMenu: false
+  created: 1788285969
+  updated: 1788285969
+content: |
+  <p>This section includes the following pages:</p>
+  <ul>
+    <li><a href="/block-reference/layout/collection-list">Collection List</a></li>
+    <li><a href="/block-reference/layout/column-layout">Column Layout</a></li>
+    <li><a href="/block-reference/layout/learning-component">Learning Component</a></li>
+    <li><a href="/block-reference/layout/play-list">Play List</a></li>
+  </ul>

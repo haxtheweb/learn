@@ -1,0 +1,378 @@
+{
+    "title": "haxcms-dashboard",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1520,
+            "height": 839,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "http://localhost:3000/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "http://localhost:3000/",
+                    "title": "HAX: Home"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Quick create options",
+                    "aria/Online Course[role=\"image\"]"
+                ],
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "div > section div:nth-of-type(1) > app-hax-use-case",
+                    "img"
+                ],
+                [
+                    "pierce/app-hax-use-case-filter",
+                    "pierce/div > section div:nth-of-type(1) > app-hax-use-case",
+                    "pierce/img"
+                ]
+            ],
+            "offsetY": 129.4399871826172,
+            "offsetX": 54.694000244140625
+        },
+        {
+            "type": "change",
+            "value": "hax100",
+            "selectors": [
+                [
+                    "aria/Site Name"
+                ],
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "#siteCreationModal",
+                    "#siteName"
+                ],
+                [
+                    "pierce/#siteName"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Create Site"
+                ],
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "#siteCreationModal",
+                    "button.button-primary"
+                ],
+                [
+                    "pierce/button.button-primary"
+                ]
+            ],
+            "offsetY": 31.79998779296875,
+            "offsetX": 84.77496337890625,
+            "duration": 650
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Stay Here"
+                ],
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "#siteCreationModal",
+                    "button.button-secondary"
+                ],
+                [
+                    "pierce/button.button-secondary"
+                ]
+            ],
+            "offsetY": 29.20001220703125,
+            "offsetX": 57.67498779296875,
+            "duration": 688
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "app-hax-search-results",
+                    "li:nth-of-type(1) > app-hax-site-bar",
+                    "#moreOptions-0",
+                    "simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#moreOptions-0",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 13.68798828125,
+            "offsetX": 9.860015869140625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Copy"
+                ],
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "app-hax-search-results",
+                    "li:nth-of-type(1) > app-hax-site-bar",
+                    "simple-toolbar-button:nth-of-type(1)",
+                    "#button"
+                ],
+                [
+                    "pierce/li:nth-of-type(1) > app-hax-site-bar",
+                    "pierce/simple-toolbar-button:nth-of-type(1)",
+                    "pierce/#button"
+                ]
+            ],
+            "offsetY": 16.57501220703125,
+            "offsetX": 54.262481689453125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Confirm"
+                ],
+                [
+                    "app-hax-confirmation-modal",
+                    "button.button-confirm"
+                ],
+                [
+                    "pierce/button.button-confirm"
+                ]
+            ],
+            "offsetY": 22.199981689453125,
+            "offsetX": 47.17498779296875,
+            "duration": 522
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "app-hax-search-results",
+                    "li:nth-of-type(1) > app-hax-site-bar",
+                    "#moreOptions-0",
+                    "simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#moreOptions-0",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 14.68798828125,
+            "offsetX": 12.860015869140625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Download"
+                ],
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "app-hax-search-results",
+                    "li:nth-of-type(1) > app-hax-site-bar",
+                    "simple-toolbar-button:nth-of-type(2)",
+                    "#button"
+                ],
+                [
+                    "pierce/li:nth-of-type(1) > app-hax-site-bar",
+                    "pierce/simple-toolbar-button:nth-of-type(2)",
+                    "pierce/#button"
+                ]
+            ],
+            "offsetY": 16.9749755859375,
+            "offsetX": 83.26248168945312
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Confirm"
+                ],
+                [
+                    "app-hax-confirmation-modal",
+                    "button.button-confirm"
+                ],
+                [
+                    "pierce/button.button-confirm"
+                ]
+            ],
+            "offsetY": 31.600006103515625,
+            "offsetX": 74.17498779296875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "app-hax-search-results",
+                    "li:nth-of-type(1) > app-hax-site-bar",
+                    "#moreOptions-0",
+                    "simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#moreOptions-0",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 9.68798828125,
+            "offsetX": 14.860015869140625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Create Template"
+                ],
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "app-hax-search-results",
+                    "li:nth-of-type(1) > app-hax-site-bar",
+                    "simple-toolbar-button:nth-of-type(3)",
+                    "#button"
+                ],
+                [
+                    "pierce/li:nth-of-type(1) > app-hax-site-bar",
+                    "pierce/simple-toolbar-button:nth-of-type(3)",
+                    "pierce/#button"
+                ]
+            ],
+            "offsetY": 21.375,
+            "offsetX": 91.26248168945312
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Escape"
+        },
+        {
+            "type": "keyUp",
+            "key": "Escape",
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "app-hax-search-results",
+                    "li:nth-of-type(1) > app-hax-site-bar",
+                    "#moreOptions-0",
+                    "simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#moreOptions-0",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 16.68798828125,
+            "offsetX": 8.860015869140625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "app-hax-search-results",
+                    "li:nth-of-type(1) > app-hax-site-bar",
+                    "simple-toolbar-button:nth-of-type(4)",
+                    "#label"
+                ],
+                [
+                    "pierce/li:nth-of-type(1) > app-hax-site-bar",
+                    "pierce/simple-toolbar-button:nth-of-type(4)",
+                    "pierce/#label"
+                ]
+            ],
+            "offsetY": 5.17498779296875,
+            "offsetX": 25.462493896484375,
+            "duration": 398
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Confirm"
+                ],
+                [
+                    "app-hax-confirmation-modal",
+                    "button.button-confirm"
+                ],
+                [
+                    "pierce/button.button-confirm"
+                ]
+            ],
+            "offsetY": 26.600006103515625,
+            "offsetX": 56.17498779296875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "app-hax-search-results",
+                    "li:nth-of-type(1) > app-hax-site-bar",
+                    "img"
+                ],
+                [
+                    "pierce/li:nth-of-type(1) > app-hax-site-bar",
+                    "pierce/img"
+                ]
+            ],
+            "offsetY": 98.3280029296875,
+            "offsetX": 71.30000305175781,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "http://localhost:3000/_sites/hax100-1/",
+                    "title": ""
+                }
+            ]
+        }
+    ]
+}

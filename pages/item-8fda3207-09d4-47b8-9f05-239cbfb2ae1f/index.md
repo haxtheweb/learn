@@ -1,0 +1,9 @@
+The Inline audio block is a unique method of presenting material. With this block we can visualize over a block of text, an audio file while it is playing. This is a unique way of enhancing textual content that kind of has to be seen to be believed.
+
+### Example
+
+The HAX Horizon Report had the whole world in awe. Multiple media outlets reported that people were <inline-audio accent-color="purple" shiny="" source="files/block-reference/inline-audio/voice-recording-110659.80000000075.mp3" t="{&quot;play&quot;:&quot;Play&quot;,&quot;pause&quot;:&quot;Pause&quot;,&quot;selectToPlayRelatedAudioClip&quot;:&quot;Select to play related audio clip&quot;,&quot;selectToPauseRelatedAudioClip&quot;:&quot;Select to pause related audio clip&quot;}" title="Play">going out of their minds</inline-audio> , unable to process how <inline-audio accent-color="brown" shiny="" source="files/block-reference/inline-audio/voice-recording-51645.89999999851.mp3" t="{&quot;play&quot;:&quot;Play&quot;,&quot;pause&quot;:&quot;Pause&quot;,&quot;selectToPlayRelatedAudioClip&quot;:&quot;Select to play related audio clip&quot;,&quot;selectToPauseRelatedAudioClip&quot;:&quot;Select to pause related audio clip&quot;}" title="Play">so much could be developed by such a small team</inline-audio> .
+
+It was the awesome power of <inline-audio source="files/block-reference/inline-audio/voice-recording-159216.70000000298.mp3" t="{&quot;play&quot;:&quot;Play&quot;,&quot;pause&quot;:&quot;Pause&quot;,&quot;selectToPlayRelatedAudioClip&quot;:&quot;Select to play related audio clip&quot;,&quot;selectToPauseRelatedAudioClip&quot;:&quot;Select to pause related audio clip&quot;}" title="Play" accent-color="grey" shiny="">web components that was the real hero</inline-audio> .
+
+### Video

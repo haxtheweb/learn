@@ -1,0 +1,797 @@
+{
+    "title": "site-settings",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1520,
+            "height": 873,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "http://localhost:3000/_sites/hax100/new-item",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "http://localhost:3000/_sites/hax100/new-item",
+                    "title": "New item"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#slot"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/#slot"
+                ]
+            ],
+            "offsetY": 324.59999084472656,
+            "offsetX": 354.1999816894531
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#manifestbtn",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#manifestbtn",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 21,
+            "offsetX": 11.4000244140625,
+            "duration": 387
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Content"
+                ],
+                [
+                    "haxcms-site-settings-dashboard",
+                    "div.primary-grid > div:nth-of-type(3) > button"
+                ],
+                [
+                    "pierce/div.primary-grid > div:nth-of-type(3) > button"
+                ]
+            ],
+            "offsetY": 90.63749694824219,
+            "offsetX": 93.48748779296875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-content-admin-dialog",
+                    "div > div"
+                ],
+                [
+                    "pierce/haxcms-content-admin-dialog",
+                    "pierce/div > div"
+                ]
+            ],
+            "offsetY": 211.6374969482422,
+            "offsetX": 412.3999938964844
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "simple-modal",
+                    "button > span"
+                ],
+                [
+                    "pierce/simple-modal",
+                    "pierce/button > span"
+                ]
+            ],
+            "offsetY": 29.637496948242188,
+            "offsetX": 66.39999389648438
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-settings-dashboard",
+                    "div.primary-grid > div:nth-of-type(4) simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/div.primary-grid > div:nth-of-type(4) simple-icon-lite",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 21.037490844726562,
+            "offsetX": 35.04998779296875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-insights",
+                    "simple-icon-button-lite:nth-of-type(3)",
+                    "simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/simple-icon-button-lite:nth-of-type(3)",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 15.637481689453125,
+            "offsetX": 26.9375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-insights",
+                    "simple-icon-button-lite:nth-of-type(4)",
+                    "simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/simple-icon-button-lite:nth-of-type(4)",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 21.637481689453125,
+            "offsetX": 29.76251220703125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Content[role=\"button\"]"
+                ],
+                [
+                    "haxcms-site-insights",
+                    "simple-icon-button-lite:nth-of-type(3)",
+                    "button"
+                ],
+                [
+                    "pierce/simple-icon-button-lite:nth-of-type(3)",
+                    "pierce/button"
+                ]
+            ],
+            "offsetY": 31.637496948242188,
+            "offsetX": 77.10000610351562
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Media[role=\"button\"]"
+                ],
+                [
+                    "haxcms-site-insights",
+                    "simple-icon-button-lite:nth-of-type(5)",
+                    "button"
+                ],
+                [
+                    "pierce/simple-icon-button-lite:nth-of-type(5)",
+                    "pierce/button"
+                ]
+            ],
+            "offsetY": 30.637496948242188,
+            "offsetX": 69.64996337890625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "simple-modal",
+                    "button > span"
+                ],
+                [
+                    "pierce/simple-modal",
+                    "pierce/button > span"
+                ]
+            ],
+            "offsetY": 15.637496948242188,
+            "offsetX": 49.399993896484375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-settings-dashboard",
+                    "div.primary-grid > div:nth-of-type(5) span"
+                ],
+                [
+                    "pierce/div.primary-grid > div:nth-of-type(5) span"
+                ]
+            ],
+            "offsetY": 7.835235595703125,
+            "offsetX": 39.0374755859375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Keyboard shortcuts +"
+                ],
+                [
+                    "haxcms-about-dialog-ui",
+                    "details:nth-of-type(2) > summary"
+                ],
+                [
+                    "pierce/details:nth-of-type(2) > summary"
+                ]
+            ],
+            "offsetY": 26.837493896484375,
+            "offsetX": 560.8000030517578
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "simple-modal",
+                    "button > span"
+                ],
+                [
+                    "pierce/simple-modal",
+                    "pierce/button > span"
+                ]
+            ],
+            "offsetY": 22.637496948242188,
+            "offsetX": 91.39999389648438
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/[role=\"dialog\"]",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "simple-modal",
+                    "#simple-modal-content"
+                ],
+                [
+                    "pierce/#simple-modal-content"
+                ]
+            ],
+            "offsetY": 562.6374969482422,
+            "offsetX": 566.3999938964844
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-settings-dashboard",
+                    "div.advanced-grid > div:nth-of-type(1) simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/div.advanced-grid > div:nth-of-type(1) simple-icon-lite",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 0.23748779296875,
+            "offsetX": 9.487503051757812
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "simple-modal",
+                    "button > span"
+                ],
+                [
+                    "pierce/simple-modal",
+                    "pierce/button > span"
+                ]
+            ],
+            "offsetY": 7.6374969482421875,
+            "offsetX": 67.39999389648438
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-settings-dashboard",
+                    "div.advanced-grid > div:nth-of-type(2) span"
+                ],
+                [
+                    "pierce/div.advanced-grid > div:nth-of-type(2) span"
+                ]
+            ],
+            "offsetY": 21.23748779296875,
+            "offsetX": 27.125
+        },
+        {
+            "type": "change",
+            "value": "content",
+            "selectors": [
+                [
+                    "haxcms-views-admin-dialog",
+                    "#\\31 7031703-1703-1703-1703-170317031703",
+                    "#\\31 7031703-1703-1703-1703-170317031703"
+                ],
+                [
+                    "pierce/haxcms-views-admin-dialog",
+                    "pierce/#\\31 7031703-1703-1703-1703-170317031703",
+                    "pierce/#\\31 7031703-1703-1703-1703-170317031703"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "simple-modal",
+                    "button > span"
+                ],
+                [
+                    "pierce/simple-modal",
+                    "pierce/button > span"
+                ]
+            ],
+            "offsetY": 17.637496948242188,
+            "offsetX": 69.39999389648438
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Features"
+                ],
+                [
+                    "haxcms-site-settings-dashboard",
+                    "div.advanced-grid > div:nth-of-type(3) > button"
+                ],
+                [
+                    "pierce/div.advanced-grid > div:nth-of-type(3) > button"
+                ]
+            ],
+            "offsetY": 106.71771240234375,
+            "offsetX": 47.75
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Outline designer[role=\"checkbox\"]"
+                ],
+                [
+                    "haxcms-site-platform-ui",
+                    "#platform-feature-cms-outlineDesigner"
+                ],
+                [
+                    "pierce/#platform-feature-cms-outlineDesigner"
+                ]
+            ],
+            "offsetY": 20.4375,
+            "offsetX": 11.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Outline designer[role=\"checkbox\"]"
+                ],
+                [
+                    "haxcms-site-platform-ui",
+                    "#platform-feature-cms-outlineDesigner"
+                ],
+                [
+                    "pierce/#platform-feature-cms-outlineDesigner"
+                ]
+            ],
+            "offsetY": 24.4375,
+            "offsetX": 15.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Add pages[role=\"checkbox\"]"
+                ],
+                [
+                    "haxcms-site-platform-ui",
+                    "#platform-feature-cms-addPage"
+                ],
+                [
+                    "pierce/#platform-feature-cms-addPage"
+                ]
+            ],
+            "offsetY": 6.837493896484375,
+            "offsetX": 14.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Delete pages[role=\"checkbox\"]"
+                ],
+                [
+                    "haxcms-site-platform-ui",
+                    "#platform-feature-cms-deletePage"
+                ],
+                [
+                    "pierce/#platform-feature-cms-deletePage"
+                ]
+            ],
+            "offsetY": 30.13751220703125,
+            "offsetX": 5.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Delete pages[role=\"checkbox\"]"
+                ],
+                [
+                    "haxcms-site-platform-ui",
+                    "#platform-feature-cms-deletePage"
+                ],
+                [
+                    "pierce/#platform-feature-cms-deletePage"
+                ]
+            ],
+            "offsetY": 26.13751220703125,
+            "offsetX": 11.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Add pages[role=\"checkbox\"]"
+                ],
+                [
+                    "haxcms-site-platform-ui",
+                    "#platform-feature-cms-addPage"
+                ],
+                [
+                    "pierce/#platform-feature-cms-addPage"
+                ]
+            ],
+            "offsetY": 11.837493896484375,
+            "offsetX": 15.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Modal breadcrumb[role=\"heading\"]"
+                ],
+                [
+                    "simple-modal",
+                    "#simple-modal-title"
+                ],
+                [
+                    "pierce/#simple-modal-title"
+                ]
+            ],
+            "offsetY": 45.63749694824219,
+            "offsetX": 132.39999389648438
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "simple-modal",
+                    "button > span"
+                ],
+                [
+                    "pierce/simple-modal",
+                    "pierce/button > span"
+                ]
+            ],
+            "offsetY": 27.637496948242188,
+            "offsetX": 98.39999389648438
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Editor"
+                ],
+                [
+                    "haxcms-site-settings-dashboard",
+                    "div.advanced-grid > div:nth-of-type(4) > button"
+                ],
+                [
+                    "pierce/div.advanced-grid > div:nth-of-type(4) > button"
+                ]
+            ],
+            "offsetY": 61.71771240234375,
+            "offsetX": 93.92498779296875
+        },
+        {
+            "type": "change",
+            "value": "expert",
+            "selectors": [
+                [
+                    "haxcms-editor-settings-dialog-ui",
+                    "#audience",
+                    "#audience"
+                ],
+                [
+                    "pierce/haxcms-editor-settings-dialog-ui",
+                    "pierce/#audience",
+                    "pierce/#audience"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Buttons +"
+                ],
+                [
+                    "haxcms-editor-settings-dialog-ui",
+                    "details:nth-of-type(2) > summary"
+                ],
+                [
+                    "pierce/details:nth-of-type(2) > summary"
+                ]
+            ],
+            "offsetY": 71.23748779296875,
+            "offsetX": 356.8000030517578
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "simple-modal",
+                    "button > span"
+                ],
+                [
+                    "pierce/simple-modal",
+                    "pierce/button > span"
+                ]
+            ],
+            "offsetY": 20.637496948242188,
+            "offsetX": 96.39999389648438
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-settings-dashboard",
+                    "div.advanced-grid > div:nth-of-type(5) span"
+                ],
+                [
+                    "pierce/div.advanced-grid > div:nth-of-type(5) span"
+                ]
+            ],
+            "offsetY": 11.22564697265625,
+            "offsetX": 27.98748779296875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Content +"
+                ],
+                [
+                    "haxcms-allowed-blocks-ui",
+                    "details:nth-of-type(2) > summary"
+                ],
+                [
+                    "pierce/details:nth-of-type(2) > summary"
+                ]
+            ],
+            "offsetY": 48.6875,
+            "offsetX": 512.8000030517578
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Career Role An individual role within an organization[role=\"checkbox\"]"
+                ],
+                [
+                    "haxcms-allowed-blocks-ui",
+                    "#allowed-block-career-role-item"
+                ],
+                [
+                    "pierce/#allowed-block-career-role-item"
+                ]
+            ],
+            "offsetY": 14.1875,
+            "offsetX": 19.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Career Item An individual organization and its affiliated roles[role=\"checkbox\"]"
+                ],
+                [
+                    "haxcms-allowed-blocks-ui",
+                    "#allowed-block-career-org-item"
+                ],
+                [
+                    "pierce/#allowed-block-career-org-item"
+                ]
+            ],
+            "offsetY": 22.887481689453125,
+            "offsetX": 16.5
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "simple-modal",
+                    "button > span"
+                ],
+                [
+                    "pierce/simple-modal",
+                    "pierce/button > span"
+                ]
+            ],
+            "offsetY": 7.6374969482421875,
+            "offsetX": 75.39999389648438
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/SEO"
+                ],
+                [
+                    "haxcms-site-settings-dashboard",
+                    "div:nth-of-type(6) > button"
+                ],
+                [
+                    "pierce/haxcms-site-settings-dashboard",
+                    "pierce/div:nth-of-type(6) > button"
+                ]
+            ],
+            "offsetY": 66.03750610351562,
+            "offsetX": 91.26251220703125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "simple-modal",
+                    "button > span"
+                ],
+                [
+                    "pierce/simple-modal",
+                    "pierce/button > span"
+                ]
+            ],
+            "offsetY": 25.637496948242188,
+            "offsetX": 105.39999389648438
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-settings-dashboard",
+                    "div:nth-of-type(7) span"
+                ],
+                [
+                    "pierce/div:nth-of-type(7) span"
+                ]
+            ],
+            "offsetY": 27.4375,
+            "offsetX": 71.8375244140625
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "simple-modal",
+                    "button > span"
+                ],
+                [
+                    "pierce/simple-modal",
+                    "pierce/button > span"
+                ]
+            ],
+            "offsetY": 17.637496948242188,
+            "offsetX": 83.39999389648438
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-settings-dashboard",
+                    "div:nth-of-type(8) span"
+                ],
+                [
+                    "pierce/div:nth-of-type(8) span"
+                ]
+            ],
+            "offsetY": 16.23748779296875,
+            "offsetX": 28.149993896484375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "simple-modal",
+                    "button > span"
+                ],
+                [
+                    "pierce/simple-modal",
+                    "pierce/button > span"
+                ]
+            ],
+            "offsetY": 17.637496948242188,
+            "offsetX": 98.39999389648438
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "simple-modal",
+                    "#close",
+                    "simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#close",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 29.637496948242188,
+            "offsetX": 25.5999755859375
+        }
+    ]
+}

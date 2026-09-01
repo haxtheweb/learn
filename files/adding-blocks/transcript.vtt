@@ -1,0 +1,153 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.600 --> 00:00:03.840
+While HAX is great for text editing, the
+
+00:00:03.840 --> 00:00:05.920
+real power of the system is shown
+
+00:00:05.920 --> 00:00:08.120
+through its blocks engine.
+
+00:00:08.120 --> 00:00:10.400
+To access the blocks menu,
+
+00:00:10.400 --> 00:00:13.640
+click edit.
+
+00:00:13.640 --> 00:00:15.440
+Then select blocks if it's not already
+
+00:00:15.440 --> 00:00:16.800
+selected,
+
+00:00:16.800 --> 00:00:19.280
+and you'll see the entire blocks panel.
+
+00:00:19.280 --> 00:00:21.560
+So, from here we can either upload media
+
+00:00:21.560 --> 00:00:25.680
+directly to have it inserted as a block.
+
+00:00:25.680 --> 00:00:28.400
+We can view some popular blocks hovering
+
+00:00:28.400 --> 00:00:30.400
+over them in order to see a preview of
+
+00:00:30.400 --> 00:00:33.480
+what it'll be.
+
+00:00:33.480 --> 00:00:35.680
+As we add blocks, they'll accumulate in
+
+00:00:35.680 --> 00:00:38.920
+our recents tab, and we can also
+
+00:00:38.920 --> 00:00:41.240
+expand and see all of the different
+
+00:00:41.240 --> 00:00:43.800
+blocks that exist. It's
+
+00:00:43.800 --> 00:00:46.000
+almost overwhelming how many blocks we
+
+00:00:46.000 --> 00:00:48.280
+support in the system, and it's an
+
+00:00:48.280 --> 00:00:51.200
+ever-expanding universe.
+
+00:00:51.200 --> 00:00:53.960
+A common block to add would definitely
+
+00:00:53.960 --> 00:00:55.560
+be
+
+00:00:55.560 --> 00:00:58.200
+video or anything beyond the initial
+
+00:00:58.200 --> 00:01:01.840
+text blocks.
+
+00:01:01.840 --> 00:01:03.840
+By hitting filter content type, I can
+
+00:01:03.840 --> 00:01:06.040
+type video,
+
+00:01:06.040 --> 00:01:07.360
+and see all of the things that could
+
+00:01:07.360 --> 00:01:09.520
+potentially play video in this case, a
+
+00:01:09.520 --> 00:01:11.440
+media playlist.
+
+00:01:11.440 --> 00:01:14.600
+So, from there I can drag that item into
+
+00:01:14.600 --> 00:01:17.040
+the page, or I can just
+
+00:01:17.040 --> 00:01:18.840
+press the button to insert it wherever
+
+00:01:18.840 --> 00:01:21.560
+is active.
+
+00:01:21.560 --> 00:01:24.720
+Every block that gets inserted in HAX
+
+00:01:24.720 --> 00:01:27.480
+relates back to a sustainable
+
+00:01:27.480 --> 00:01:29.680
+HTML tag.
+
+00:01:29.680 --> 00:01:31.640
+In this case, a media playlist, which
+
+00:01:31.640 --> 00:01:35.160
+has a video player in it.
+
+00:01:35.160 --> 00:01:37.280
+The beauty of the HAX system, though, is
+
+00:01:37.280 --> 00:01:38.920
+that you shouldn't have to look at the
+
+00:01:38.920 --> 00:01:42.520
+HTML, though it's always there to help.
+
+00:01:42.520 --> 00:01:44.480
+If I want to reposition this block, I
+
+00:01:44.480 --> 00:01:46.760
+can grab the drag handle,
+
+00:01:46.760 --> 00:01:48.280
+select the area that I want to drop it
+
+00:01:48.280 --> 00:01:50.720
+into the page,
+
+00:01:50.720 --> 00:01:53.320
+or hover over and just tell it to move
+
+00:01:53.320 --> 00:01:58.160
+up or down one, depending on where I am.
+
+00:01:58.160 --> 00:02:00.680
+When I'm ready, I can hit save.
+
+00:02:00.680 --> 00:02:02.280
+And now that block is there to be
+
+00:02:02.280 --> 00:02:04.280
+presented to our users.

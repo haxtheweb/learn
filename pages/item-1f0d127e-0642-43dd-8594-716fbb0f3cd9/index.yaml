@@ -1,0 +1,29 @@
+id: item-1f0d127e-0642-43dd-8594-716fbb0f3cd9
+indent: 1
+location: pages/item-1f0d127e-0642-43dd-8594-716fbb0f3cd9/index.yaml
+slug: tutorial-library/dashboard-site-basics
+order: 0
+parent: item-1467f036-344e-4c49-8232-6b1f6a730c76
+title: Dashboard & Site Basics
+description: ''
+metadata:
+  tags: beginner,site-builder,content-author,dashboard,settings
+  fields:
+    skill: beginner
+    persona:
+      - site-builder
+      - content-author
+    capability:
+      - dashboard
+      - settings
+  published: true
+  hideInMenu: false
+  created: 1788285967
+  updated: 1788285967
+content: |
+  <p>This section includes the following pages:</p>
+  <ul>
+    <li><a href="/tutorial-library/dashboard-site-basics/haxcms-dashboard">HAXcms Dashboard</a></li>
+    <li><a href="/tutorial-library/dashboard-site-basics/site-admin-settings-dashboard">Site Admin Settings Dashboard</a></li>
+    <li><a href="/tutorial-library/dashboard-site-basics/system-settings-dashboard">System Settings Dashboard</a></li>
+  </ul>

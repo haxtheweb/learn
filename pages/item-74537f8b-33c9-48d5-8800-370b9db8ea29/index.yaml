@@ -1,0 +1,318 @@
+id: item-74537f8b-33c9-48d5-8800-370b9db8ea29
+indent: 2
+location: pages/item-74537f8b-33c9-48d5-8800-370b9db8ea29/index.yaml
+slug: tutorial-library/developer-onboarding/developer-onboarding
+order: 0
+parent: item-f5956eb6-ba21-4204-9995-ba3392b26768
+title: Developer Onboarding
+description: ''
+metadata:
+  tags: developer,developer,onboarding
+  fields:
+    skill: developer
+    persona:
+      - developer
+    capability:
+      - onboarding
+  published: true
+  hideInMenu: false
+  created: 1788285968
+  updated: 1788285968
+content: >
+
+
+  <p><strong>Single source of truth:</strong> <a
+  href="https://github.com/haxtheweb/issues/blob/master/CONTRIBUTING.md">issues/CONTRIBUTING.md
+  on GitHub</a>. This page is the readable version of that guide.</p>
+
+  <h2 id="what-is-hax">What is HAX</h2>
+
+  <p>HAX (Headless Authoring eXperience) is an authoring experience that enables
+  rapid creation of fast, static, file-backed websites. It seeks to be the
+  smallest possible back-end CMS to make the HAX editor work and be able to
+  build websites with it. Leveraging JSON Outline Schema, HAX authors multiple
+  pages and writes them onto the file system, so a slim server layer is only
+  needed for basic authentication, saving files, and placing them in version
+  control.</p>
+
+  <p>Get all the details at <a
+  href="https://haxtheweb.org/">haxtheweb.org</a>.</p>
+
+  <h2 id="ecosystem-at-a-glance">The ecosystem at a glance</h2>
+
+  <p>HAX is an ecosystem of many repos. The core three below are what you clone
+  to get started; the rest are listed so you know what's out there.</p>
+
+  <ul>
+
+  <li><strong>haxcms-nodejs</strong> — the Node.js backend for HAXcms (content
+  management + APIs). Usually the fastest way to see HAX running.</li>
+
+  <li><strong>webcomponents</strong> — the heart of HAX: a monorepo of 250+
+  LitElement web components, themes, and the DDD design system. This is where
+  most component work happens.</li>
+
+  <li><strong>create</strong> (<code>@haxtheweb/create</code>) — the
+  <code>hax</code> CLI for scaffolding web components and HAXsites and managing
+  the dev workflow.</li>
+
+  <li><strong>haxcms-php</strong> <em>(optional)</em> — the PHP backend for
+  HAXcms; same capabilities, different stack (PHP 8.3+ / Apache). For those who
+  prefer the PHP stack.</li>
+
+  <li><strong>docs</strong> — the official documentation site (a HAXcms site
+  itself), at <a href="https://haxtheweb.org/">haxtheweb.org</a>.</li>
+
+  <li><strong>issues</strong> — the unified issue queue for the entire
+  ecosystem, plus the canonical onboarding guide.</li>
+
+  <li><strong>hax11ty</strong>, <strong>json-outline-schema</strong>,
+  <strong>hax-schema</strong> — supporting repos (11ty integration, content
+  schema, HAX property schema).</li>
+
+  </ul>
+
+  <h2 id="prerequisites">Prerequisites</h2>
+
+  <ul>
+
+  <li><strong>OS</strong>: macOS or Linux need nothing special.
+  <strong>Windows</strong> developers should use <strong>WSL 2 with
+  Ubuntu</strong> (open WSL in the Microsoft Store and select Install/Update, or
+  run <code>wsl --update</code> in PowerShell).</li>
+
+  <li><strong>Git</strong> and a <strong>GitHub account</strong> (you'll fork
+  repos and open pull requests).</li>
+
+  <li><strong>Node.js 22 or higher</strong>. We recommend <strong>fnm</strong>
+  as a cross-platform Node version manager (<code>fnm install --lts
+  --use</code>). nvm works too.</li>
+
+  <li><strong>npm</strong> (ships with Node) and <strong>yarn</strong>
+  (<code>npm install -g yarn</code>) — the webcomponents monorepo uses yarn; the
+  other repos use npm.</li>
+
+  <li><strong>Windows extra</strong>: enable <strong>Developer Mode</strong>
+  (Windows Settings → For developers → Developer Mode) so symlinks work without
+  running as Administrator. The webcomponents monorepo uses symlinks to emulate
+  a live HAXsite locally.</li>
+
+  </ul>
+
+  <h2 id="haxcms-nodejs">haxcms-nodejs</h2>
+
+  <p>The Node.js backend for HAXcms. Usually the quickest way to get HAX running
+  locally.</p>
+
+  <p><strong>Fork and clone</strong> (replace <code>YOUR_USERNAME</code>):</p>
+
+  <code-sample copy-clipboard-button=""><template>mkdir -p
+  ~/Documents/git/haxtheweb
+
+  cd ~/Documents/git/haxtheweb
+
+  git clone https://github.com/YOUR_USERNAME/haxcms-nodejs.git
+
+  cd haxcms-nodejs
+
+  git remote add upstream
+  https://github.com/haxtheweb/haxcms-nodejs.git</template></code-sample>
+
+  <p><strong>Install and start:</strong></p>
+
+  <code-sample copy-clipboard-button=""><template>npm install
+
+  npm start</template></code-sample>
+
+  <p>Visit http://localhost:3000 (it usually opens automatically). You should
+  see the HAXcms interface load. That confirms the backend is running.</p>
+
+  <h2 id="webcomponents">webcomponents</h2>
+
+  <p>The monorepo of 250+ LitElement web components, themes, and the DDD design
+  system. This is where most component contributions happen.</p>
+
+  <p><strong>Fork and clone:</strong></p>
+
+  <code-sample copy-clipboard-button=""><template>cd ~/Documents/git/haxtheweb
+
+  git clone https://github.com/YOUR_USERNAME/webcomponents.git
+
+  cd webcomponents
+
+  git remote add upstream
+  https://github.com/haxtheweb/webcomponents.git</template></code-sample>
+
+  <p><strong>Install (uses yarn, from repo root):</strong></p>
+
+  <code-sample copy-clipboard-button=""><template>yarn
+  install</template></code-sample>
+
+  <p><strong>Start the dev server:</strong></p>
+
+  <code-sample copy-clipboard-button=""><template>yarn
+  start</template></code-sample>
+
+  <p>Open http://localhost:8000/elements/haxcms-elements/demo/ — you should see
+  the HAX development interface. To work on a single component, open another
+  terminal and run <code>cd elements/&lt;ELEMENTNAME&gt; &amp;&amp; yarn run
+  dev</code>, which watches and rebuilds that element while the dev server is
+  still running.</p>
+
+  <p>For monorepo-specific detail (build commands, Lerna, DDD audits, testing,
+  troubleshooting, theme development), see the <a
+  href="https://github.com/haxtheweb/webcomponents/blob/master/CONTRIBUTING.md">webcomponents/CONTRIBUTING.md</a>.</p>
+
+  <h2 id="create">create</h2>
+
+  <p>The <code>hax</code> CLI for scaffolding web components and HAXsites.</p>
+
+  <p><strong>Fork and clone:</strong></p>
+
+  <code-sample copy-clipboard-button=""><template>cd ~/Documents/git/haxtheweb
+
+  git clone https://github.com/YOUR_USERNAME/create.git
+
+  cd create
+
+  git remote add upstream
+  https://github.com/haxtheweb/create.git</template></code-sample>
+
+  <p><strong>Install:</strong></p>
+
+  <code-sample copy-clipboard-button=""><template>npm
+  install</template></code-sample>
+
+  <p><strong>Get the <code>hax</code> command globally</strong> so it's
+  available everywhere:</p>
+
+  <code-sample copy-clipboard-button=""><template>npm install @haxtheweb/create
+  --global</template></code-sample>
+
+  <p><strong>Verify:</strong> run <code>hax start</code> — you should see the
+  interactive CLI (ASCII art via Clack) that scaffolds components and HAXsites.
+  To work on the CLI source itself: <code>npm run build &amp;&amp; node
+  ./dist/create.js</code>.</p>
+
+  <a11y-collapse heading-button="">
+    <h3 slot="heading">haxcms-php (optional alternative backend)</h3>
+    <div slot="content">
+      <p>The PHP backend for HAXcms — same capabilities as the Node.js version, different stack. Skip this unless you want to run the PHP backend.</p>
+      <p><strong>Fork and clone:</strong></p>
+      <code-sample copy-clipboard-button=""><template>cd ~/Documents/git/haxtheweb
+  git clone https://github.com/YOUR_USERNAME/haxcms-php.git
+
+  cd haxcms-php
+
+  git remote add upstream
+  https://github.com/haxtheweb/haxcms-php.git</template></code-sample>
+      <p><strong>Prerequisites (one of two paths):</strong></p>
+      <p><em>Native PHP:</em></p>
+      <ul>
+        <li>PHP 8.3 or higher with the <code>curl</code>, <code>zip</code>, <code>gd</code>, and <code>xml</code> modules installed</li>
+        <li>Apache 2.4</li>
+      </ul>
+      <p><em>Container-based (recommended for most):</em></p>
+      <ul>
+        <li>A container runtime — <a href="https://docs.docker.com/get-started/get-docker/">Docker</a>, <a href="https://ddev.readthedocs.io/">DDEV</a>, <a href="https://docksal.io/">docksal</a>, <a href="https://docs.devwithlando.io/">lando</a>, or <a href="https://www.vagrantup.com/">vagrant</a></li>
+      </ul>
+      <p><strong>Quick install (script):</strong></p>
+      <code-sample copy-clipboard-button=""><template>curl -fsSL https://raw.githubusercontent.com/haxtheweb/haxcms-php/master/scripts/haxcmsme.sh -o haxcmsme.sh &amp;&amp; sh haxcmsme.sh</template></code-sample>
+      <p><strong>Container path (DDEV example):</strong></p>
+      <code-sample copy-clipboard-button=""><template>ddev start</template></code-sample>
+      <p>Open the URL DDEV prints. Log in with <code>admin</code> / <code>admin</code> to confirm the CMS is working. For other runtimes use <code>fin init</code> (docksal), <code>lando start &amp;&amp; lando magic</code> (lando), or <code>vagrant up</code> (vagrant).</p>
+      <p>For full PHP/container install instructions, see the <a href="https://github.com/haxtheweb/haxcms-php/blob/master/README.md">haxcms-php/README.md</a>.</p>
+    </div>
+  </a11y-collapse>
+
+  <h2 id="where-to-find-issues">Where to find issues</h2>
+
+  <p>All HAX ecosystem bugs and features live in one unified queue:</p>
+
+  <ul>
+
+  <li><strong>Issue queue</strong>: <a
+  href="https://github.com/haxtheweb/issues/issues">github.com/haxtheweb/issues/issues</a></li>
+
+  <li>New contributors: look for the <strong><code>new here</code></strong> and
+  <strong><code>good first issue</code></strong> labels.</li>
+
+  <li>Documentation issues are often beginner-friendly.</li>
+
+  </ul>
+
+  <p>Before starting work on an issue, comment on it saying you'd like to work
+  on it and wait for a maintainer acknowledgment to avoid duplicate work.</p>
+
+  <h2 id="join-the-community">Join the community</h2>
+
+  <ul>
+
+  <li><strong>Discord</strong> (real-time help + discussion): <a
+  href="https://discord.gg/EKYJAjqGhf">discord.gg/EKYJAjqGhf</a></li>
+
+  <li><strong>YouTube</strong> (tutorials): <a
+  href="https://www.youtube.com/@haxtheweb">youtube.com/@haxtheweb</a></li>
+
+  <li>Try HAX in the browser: <a href="https://hax.cloud">hax.cloud</a></li>
+
+  </ul>
+
+  <h2 id="next-steps">Next steps</h2>
+
+  <ul>
+
+  <li><strong>Repo-specific contributing detail</strong> (monorepo workflow,
+  code standards, testing, troubleshooting, PR conventions for the webcomponents
+  monorepo): <a
+  href="https://github.com/haxtheweb/webcomponents/blob/master/CONTRIBUTING.md">webcomponents/CONTRIBUTING.md</a></li>
+
+  <li><strong>Full documentation</strong>: <a
+  href="https://haxtheweb.org/">haxtheweb.org</a></li>
+
+  <li><strong>Scaffold your first component</strong>: <code>hax webcomponent
+  my-element --y</code></li>
+
+  <li><strong>Scaffold your first HAXsite</strong>: <code>hax site mysite
+  --y</code></li>
+
+  <li><strong>Run <code>hax party</code></strong> to see ways to get more
+  involved.</li>
+
+  </ul>
+
+  <h2 id="contributing-conventions">Contributing conventions</h2>
+
+  <p>We work primarily with pull requests from forks.</p>
+
+  <ul>
+
+  <li>Fork the repo you want to contribute to; open a PR pointing at the
+  associated issue.</li>
+
+  <li><strong>Reference the issue</strong> your PR resolves in the PR body (e.g.
+  <code>fixes #123</code>). Do <strong>not</strong> put <code>@mentions</code>
+  or <code>fixes</code> keywords in commit messages — put them in the PR
+  body.</li>
+
+  <li>Write clear commit messages; squash small PRs (typos, style) into a single
+  commit.</li>
+
+  <li><strong>Code style</strong>: pure JavaScript (no TypeScript), single
+  quotes, avoid semicolons, use <code>globalThis</code> over
+  <code>window</code>, ES module imports. Code is auto-formatted with Prettier
+  on commit.</li>
+
+  <li><strong>Web components</strong>: use <code>hax webcomponent &lt;name&gt;
+  --y</code> to create new elements (never hand-create elements — the CLI
+  ensures uniform packaging). Adhere to the DDD design system; run <code>hax
+  audit</code> from a component root before submitting.</li>
+
+  <li><strong>Testing</strong>: run <code>yarn test</code> (webcomponents) or
+  <code>npm test</code> per repo before opening a PR.</li>
+
+  </ul>
+
+  <p><strong>Source of truth:</strong> <a
+  href="https://github.com/haxtheweb/issues/blob/master/CONTRIBUTING.md">issues/CONTRIBUTING.md
+  on GitHub</a>.</p>

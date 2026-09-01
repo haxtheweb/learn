@@ -1,0 +1,29 @@
+{
+  "id": "item-dab9887d-4ca6-4e89-b8ae-b1ae0e7566c9",
+  "indent": 3,
+  "location": "pages/item-dab9887d-4ca6-4e89-b8ae-b1ae0e7566c9/index.json",
+  "slug": "block-reference/instructional/question-types/mark-the-words",
+  "order": 1,
+  "parent": "item-cdb028a2-5397-4117-a736-c602121ff70b",
+  "title": "Mark the Words",
+  "description": "",
+  "metadata": {
+    "tags": "beginner,content-author,developer,reference,blocks",
+    "fields": {
+      "skill": "beginner",
+      "persona": [
+        "content-author",
+        "developer"
+      ],
+      "capability": [
+        "reference",
+        "blocks"
+      ]
+    },
+    "published": true,
+    "hideInMenu": false,
+    "created": 1788285968,
+    "updated": 1788285968
+  },
+  "content": "\n<p>Mark the Words allows you to write a sentence and have the user select individual words as solutions to the question. Marked words as well as those not marked are able to give feedback to the user per answer if desired.</p>\n<h2 id=\"header-63b80e61-718d-9e7f-bcb8-cf853bec3756\">Example</h2>\n<mark-the-words question=\"Select all of the contractions\" statement=\"I have not been to the farm-house, however; it'll be fun to attend!\" max-attempts=\"0\" typeof=\"oer:Assessment\" resource=\"#c1d4cff6-5be0-e87d-06c3-2305b5d484fc\" prefix=\"oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org\" quiz-name=\"default\"><input type=\"checkbox\" value=\"it'll\" data-selected=\"you are correct\"><input type=\"checkbox\" value=\"attend!\" data-selected=\"Hey, ! is NOT for\"></mark-the-words>\n<h2 id=\"header-5eec6b85-3456-8202-23bc-36eabb1ef6bb\">Developer</h2>\n<ul><li><a href=\"https://npmjs.com/package/@haxtheweb/mark-the-words\">npm install @haxtheweb/mark-the-words --save</a></li><li><a href=\"https://github.com/haxtheweb/webcomponents/tree/master/elements/mark-the-words\">Source on Github</a></li><li><a href=\"https://codepen.io/btopro/pen/XWLjPaY\">Codepen example from CDN</a></li></ul>\n<p></p>\n<code-sample copy-clipboard-button=\"\" type=\"html\"><template>&lt;mark-the-words question=\"Select all of the contractions\" statement=\"I have not been to the farm-house, however; it'll be fun to attend!\"&gt;\n  &lt;input type=\"checkbox\" value=\"it'll\" correct=\"correct\" data-selected=\"you are correct\" role=\"textbox\"&gt;\n  &lt;input type=\"checkbox\" value=\"attend!\" data-selected=\"Hey, ! is NOT for \"&gt;\n&lt;/mark-the-words&gt;</template></code-sample>\n"
+}

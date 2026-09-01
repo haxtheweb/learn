@@ -1,0 +1,46 @@
+id: item-e5618910-6223-409f-9bcf-91f37f8aad8d
+indent: 1
+location: pages/item-e5618910-6223-409f-9bcf-91f37f8aad8d/index.yaml
+slug: start-here/chuck
+order: 1
+parent: item-c79ab22a-2fbc-4054-9175-48c65fef2dd6
+title: Chuck — Site Builder
+description: ''
+metadata:
+  tags: beginner,site-builder,dashboard,settings,pages-structure
+  fields:
+    skill: beginner
+    persona:
+      - site-builder
+    capability:
+      - dashboard
+      - settings
+      - pages-structure
+  published: true
+  hideInMenu: false
+  created: 1788285967
+  updated: 1788285967
+content: >
+  <accent-card accent-color="deep-purple" accent-heading="" horizontal=""
+  image-src="files/start-here/CopyQ.wRrLph.png" image-alt="Chuck avatar"
+  ready="">
+    <h2 slot="heading">Site builder, can write HTML / CSS / JavaScript</h2>
+    <div slot="content">
+      <p>Chuck is a site builder. He understands git and the fundamentals of front-end development, but it's not something he wants to touch every day. Chuck likes the customization he can do to HAX without having to understand every nut and bolt. He also likes that if he needs to pop the hood open on the engine, he can — seeing all the parts of HAX and putting that extra bit of polish on something.</p>
+    </div>
+  </accent-card>
+
+  <h2>Where to start</h2>
+
+  <p>These areas of Learn HAX map most directly to what Chuck wants to do:</p>
+
+  <ul>
+    <li><a href="/tutorial-library/dashboard-site-basics">Dashboard &amp; Site Basics</a> — the HAXcms dashboard and the system / site admin settings dashboards.</li>
+    <li><a href="/tutorial-library/creating-structuring-content">Creating &amp; Structuring Content</a> — manage the outline and navigation of a site.</li>
+    <li><a href="/tutorial-library/site-health-reports">Site Health &amp; Reports</a> — run reports and link checks to keep a site healthy.</li>
+    <li><a href="/import-content">Import Content</a> — migrate content from DOCX, spreadsheets, Notion, and other HAX sites.</li>
+  </ul>
+
+  <p>Want to extend HAX itself? See <a
+  href="/tutorial-library/developer-onboarding">Developer Onboarding</a> and the
+  <a href="/block-reference">Block Reference</a> for what each element does.</p>

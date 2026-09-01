@@ -1,0 +1,57 @@
+id: item-c79ab22a-2fbc-4054-9175-48c65fef2dd6
+indent: 0
+location: pages/item-c79ab22a-2fbc-4054-9175-48c65fef2dd6/index.yaml
+slug: start-here
+order: 0
+parent: null
+title: Start Here
+description: ''
+metadata:
+  tags: beginner,content-author,site-builder,creator,developer,onboarding
+  fields:
+    skill: beginner
+    persona:
+      - content-author
+      - site-builder
+      - creator
+      - developer
+    capability:
+      - onboarding
+  published: true
+  hideInMenu: false
+  created: 1788285967
+  updated: 1788285967
+content: >
+  <p>New to HAX? You're in the right place. Learn HAX organizes everything you
+  need to get productive — from your first orientation video to deep reference
+  on every block in the editor. Start by watching the orientation below, then
+  pick the path that matches what you're trying to do.</p>
+
+  <video-player source="https://www.youtube.com/watch?v=bmsHBhGC8_Q"
+  media-title="First time HAX user" accent-color="grey" data-width="100"
+  data-margin="center"></video-player>
+
+  <h2>Before you watch</h2>
+
+  <ul>
+    <li><a href="files/start-here/First-Time-HAX-User-Tutorial-Content.docx">Download the HAX working document</a> so you can follow along with the tutorial in the video.</li>
+    <li><a href="files/start-here/New-User-Script.docx">Read the tutorial in written form</a> if you prefer text over video.</li>
+  </ul>
+
+  <h2>Pick your path</h2>
+
+  <p>HAX serves a few different kinds of users. Choose the persona that sounds
+  most like you and we'll point you at the right tutorials and reference
+  material.</p>
+
+  <ul>
+    <li><a href="/start-here/cat">Cat — Content Author</a>: you write and organize content and want a block editor to handle the HTML.</li>
+    <li><a href="/start-here/chuck">Chuck — Site Builder</a>: you build and configure sites and don't mind popping the hood when needed.</li>
+    <li><a href="/start-here/sven">Sven — Creator</a>: you make things (art, music, writing) and need a simple, portable web presence.</li>
+    <li><a href="/start-here/luna">Luna — Developer</a>: you write code and want to extend, theme, and remix HAX on web standards.</li>
+  </ul>
+
+  <p>Prefer to just browse? Jump straight to the <a
+  href="/tutorial-library">Tutorial Library</a>, the <a
+  href="/block-reference">Block Reference</a>, or see <a
+  href="/using-hax-for">what HAX is good for</a>.</p>

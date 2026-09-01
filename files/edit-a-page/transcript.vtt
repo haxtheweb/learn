@@ -1,0 +1,105 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.560 --> 00:00:05.600
+Let's edit our first page in Hacks.
+
+00:00:05.600 --> 00:00:08.000
+To edit this content,
+
+00:00:08.000 --> 00:00:11.240
+we click the pencil at the top.
+
+00:00:11.240 --> 00:00:13.320
+A panel opens up. In this case, it's
+
+00:00:13.320 --> 00:00:15.720
+showing us our blocks that we have.
+
+00:00:15.720 --> 00:00:16.960
+You can also see that there's the
+
+00:00:16.960 --> 00:00:20.640
+structure of the current page,
+
+00:00:20.640 --> 00:00:24.920
+the source that's powering this page,
+
+00:00:24.920 --> 00:00:26.840
+and this grayed out area, which will be
+
+00:00:26.840 --> 00:00:28.720
+for settings.
+
+00:00:28.720 --> 00:00:30.200
+So,
+
+00:00:30.200 --> 00:00:32.800
+when we select something in the body of
+
+00:00:32.800 --> 00:00:34.320
+content in Hacks, in this case a
+
+00:00:34.320 --> 00:00:37.520
+heading, we see the settings tab open up
+
+00:00:37.520 --> 00:00:39.160
+with heading,
+
+00:00:39.160 --> 00:00:41.560
+and then we can modify settings related
+
+00:00:41.560 --> 00:00:45.400
+to the heading.
+
+00:00:45.400 --> 00:00:47.000
+We could lock the heading, and there's
+
+00:00:47.000 --> 00:00:50.160
+even support for more advanced developer
+
+00:00:50.160 --> 00:00:52.520
+types of settings.
+
+00:00:52.520 --> 00:00:54.120
+Most people, though, are going to stick
+
+00:00:54.120 --> 00:00:57.600
+to what's under configure.
+
+00:00:57.600 --> 00:01:01.040
+Type, I just enter
+
+00:01:01.040 --> 00:01:02.240
+typing,
+
+00:01:02.240 --> 00:01:03.920
+or
+
+00:01:03.920 --> 00:01:05.760
+delete. I can do any number of
+
+00:01:05.760 --> 00:01:11.440
+operations on the text bar here.
+
+00:01:11.440 --> 00:01:12.880
+When I start typing, the bar will go
+
+00:01:12.880 --> 00:01:14.000
+away,
+
+00:01:14.000 --> 00:01:17.040
+and when I pause, it will come back.
+
+00:01:17.040 --> 00:01:18.960
+If I want to change it from a paragraph
+
+00:01:18.960 --> 00:01:21.240
+to a different type of block element, I
+
+00:01:21.240 --> 00:01:23.960
+can do that via this tab.
+
+00:01:23.960 --> 00:01:25.960
+Then, we save.

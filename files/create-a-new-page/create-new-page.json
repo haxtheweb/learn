@@ -1,0 +1,565 @@
+{
+    "title": "create-new-page",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1520,
+            "height": 873,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "http://localhost:3000/_sites/hax100/adding-images",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "http://localhost:3000/_sites/hax100/adding-images",
+                    "title": "hax100"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/[role=\"main\"]",
+                    "aria/[role=\"article\"]"
+                ],
+                [
+                    "clean-one",
+                    "article"
+                ],
+                [
+                    "pierce/article"
+                ]
+            ],
+            "offsetY": 593,
+            "offsetX": 673.1999816894531
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Add page • Ctrl⇧1[role=\"button\"]"
+                ],
+                [
+                    "haxcms-site-editor-ui",
+                    "#addpagebutton",
+                    "#button"
+                ],
+                [
+                    "pierce/haxcms-site-editor-ui",
+                    "pierce/#addpagebutton",
+                    "pierce/#button"
+                ]
+            ],
+            "offsetY": 37,
+            "offsetX": 11.4000244140625
+        },
+        {
+            "type": "change",
+            "value": "G",
+            "selectors": [
+                [
+                    "super-daemon",
+                    "super-daemon-ui",
+                    "super-daemon-search",
+                    "#inputfilter",
+                    "#inputfilter\\."
+                ],
+                [
+                    "pierce/super-daemon",
+                    "pierce/#inputfilter\\."
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "keyUp",
+            "key": "g",
+            "target": "main"
+        },
+        {
+            "type": "change",
+            "value": "Given text",
+            "selectors": [
+                [
+                    "super-daemon",
+                    "super-daemon-ui",
+                    "super-daemon-search",
+                    "#inputfilter",
+                    "#inputfilter\\."
+                ],
+                [
+                    "pierce/super-daemon",
+                    "pierce/#inputfilter\\."
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "ArrowUp"
+        },
+        {
+            "type": "keyUp",
+            "key": "ArrowUp",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "ArrowUp"
+        },
+        {
+            "type": "keyUp",
+            "key": "ArrowUp",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "ArrowDown"
+        },
+        {
+            "type": "keyUp",
+            "key": "ArrowDown",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "ArrowUp"
+        },
+        {
+            "type": "keyUp",
+            "key": "ArrowUp",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "ArrowDown"
+        },
+        {
+            "type": "keyUp",
+            "key": "ArrowDown",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "ArrowUp"
+        },
+        {
+            "type": "keyUp",
+            "key": "ArrowUp",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "ArrowDown"
+        },
+        {
+            "type": "keyUp",
+            "key": "ArrowDown",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "ArrowUp"
+        },
+        {
+            "type": "keyUp",
+            "key": "ArrowUp",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Enter"
+        },
+        {
+            "type": "keyUp",
+            "key": "Enter",
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Given text[role=\"heading\"]",
+                    "aria/[role=\"generic\"]"
+                ],
+                [
+                    "clean-one",
+                    "site-active-title div"
+                ],
+                [
+                    "pierce/site-active-title div"
+                ]
+            ],
+            "offsetY": 25,
+            "offsetX": 130.19998168945312
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Title"
+                ],
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.title",
+                    "#settings\\.configure\\.title\\."
+                ],
+                [
+                    "pierce/#settings\\.configure\\.title\\."
+                ]
+            ],
+            "offsetY": 13.800003051757812,
+            "offsetX": 83.39999961853027
+        },
+        {
+            "type": "change",
+            "value": "Given text after the fact",
+            "selectors": [
+                [
+                    "aria/Title"
+                ],
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.title",
+                    "#settings\\.configure\\.title\\."
+                ],
+                [
+                    "pierce/#settings\\.configure\\.title\\."
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/[role=\"article\"]",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "clean-one",
+                    "#hax",
+                    "p"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/p"
+                ]
+            ],
+            "offsetY": 19.399993896484375,
+            "offsetX": 140.19998168945312
+        },
+        {
+            "type": "change",
+            "value": "do some writing",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "hax-body"
+                ],
+                [
+                    "pierce/hax-body"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Enter"
+        },
+        {
+            "type": "keyUp",
+            "key": "Enter",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "/"
+        },
+        {
+            "type": "keyUp",
+            "key": "/",
+            "target": "main"
+        },
+        {
+            "type": "change",
+            "value": "image",
+            "selectors": [
+                [
+                    "super-daemon",
+                    "super-daemon-ui",
+                    "super-daemon-search",
+                    "#inputfilter",
+                    "#inputfilter\\."
+                ],
+                [
+                    "pierce/super-daemon",
+                    "pierce/#inputfilter\\."
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "ArrowDown"
+        },
+        {
+            "type": "keyUp",
+            "key": "ArrowDown",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Enter"
+        },
+        {
+            "type": "keyUp",
+            "key": "Enter",
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Given text after the fact[role=\"generic\"]"
+                ],
+                [
+                    "clean-one",
+                    "#hax",
+                    "page-break"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/page-break"
+                ]
+            ],
+            "offsetY": 13.599990844726562,
+            "offsetX": 282.1999816894531
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "hax-tray",
+                    "#settings\\.configure > span:nth-of-type(1)"
+                ],
+                [
+                    "pierce/#settings\\.configure > span:nth-of-type(1)"
+                ]
+            ],
+            "offsetY": 23.399993896484375,
+            "offsetX": 220.39999961853027
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "hax-tray",
+                    "#settings\\.advanced > span:nth-of-type(1)"
+                ],
+                [
+                    "pierce/#settings\\.advanced > span:nth-of-type(1)"
+                ]
+            ],
+            "offsetY": 16,
+            "offsetX": 204.39999961853027,
+            "duration": 466
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#editbutton",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#editbutton",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 11,
+            "offsetX": 7
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "page-break",
+                    "#pageactionsbtn",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/page-break",
+                    "pierce/#pageactionsbtn",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 11,
+            "offsetX": 10.7999267578125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#slot"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/#slot"
+                ]
+            ],
+            "offsetY": 6.5999908447265625,
+            "offsetX": 725.1999816894531
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Outline Actions[role=\"button\"]"
+                ],
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-5c35161e-e57b-4a29-a987-016d81c349a4",
+                    "haxcms-page-operations",
+                    "#outlineactionsbtn",
+                    "button"
+                ],
+                [
+                    "pierce/#outlineactionsbtn",
+                    "pierce/button"
+                ]
+            ],
+            "offsetY": 14.54998779296875,
+            "offsetX": 5.73748779296875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-5c35161e-e57b-4a29-a987-016d81c349a4",
+                    "haxcms-page-operations",
+                    "#addpagebutton",
+                    "#label"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/#addpagebutton",
+                    "pierce/#label"
+                ]
+            ],
+            "offsetY": 6.949981689453125,
+            "offsetX": 44.137481689453125
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Enter"
+        },
+        {
+            "type": "keyUp",
+            "key": "Enter",
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#editbutton",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#editbutton",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 21,
+            "offsetX": 3
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-5c35161e-e57b-4a29-a987-016d81c349a4",
+                    "#item-5c35161e-e57b-4a29-a987-016d81c349a4",
+                    "div"
+                ],
+                [
+                    "pierce/map-menu",
+                    "pierce/#item-5c35161e-e57b-4a29-a987-016d81c349a4",
+                    "pierce/#item-5c35161e-e57b-4a29-a987-016d81c349a4",
+                    "pierce/div"
+                ]
+            ],
+            "offsetY": 14.79998779296875,
+            "offsetX": 48
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-40df49f1-1317-42a8-8103-15c8b63c7674",
+                    "span"
+                ],
+                [
+                    "pierce/#item-40df49f1-1317-42a8-8103-15c8b63c7674",
+                    "pierce/span"
+                ]
+            ],
+            "offsetY": 7.79998779296875,
+            "offsetX": 38.39999771118164
+        }
+    ]
+}

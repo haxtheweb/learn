@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+<id>item-1fad16d2-a62a-4895-b90b-052b834c8938</id>
+<indent>1</indent>
+<location>pages/item-1fad16d2-a62a-4895-b90b-052b834c8938/index.xml</location>
+<slug>block-reference/instructional</slug>
+<order>0</order>
+<parent>item-ec9770f4-33ca-4a02-98fa-32053c5fcac5</parent>
+<title>Instructional</title>
+<description></description>
+<metadata>
+<tags>beginner,content-author,developer,reference,blocks</tags>
+<fields>
+<skill>beginner</skill>
+<persona>
+<item>content-author</item>
+<item>developer</item>
+</persona>
+<capability>
+<item>reference</item>
+<item>blocks</item>
+</capability>
+</fields>
+<published>true</published>
+<hideInMenu>false</hideInMenu>
+<created>1788285968</created>
+<updated>1788285968</updated>
+</metadata>
+<content><![CDATA[<p>This section includes the following pages:</p>
+<ul>
+  <li><a href="/block-reference/instructional/math">Math</a></li>
+  <li><a href="/block-reference/instructional/question-types">Question Types</a></li>
+  <li><a href="/block-reference/instructional/self-check">Self Check</a></li>
+  <li><a href="/block-reference/instructional/stop-note">Stop Note</a></li>
+  <li><a href="/block-reference/instructional/table">Table</a></li>
+  <li><a href="/block-reference/instructional/timeline">Timeline</a></li>
+</ul>
+]]></content>
+</item>
