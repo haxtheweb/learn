@@ -1,0 +1,57 @@
+id: item-bb895134-c091-41fb-abb0-0a37b1c17fe7
+indent: 3
+location: pages/item-bb895134-c091-41fb-abb0-0a37b1c17fe7/index.yaml
+slug: block-reference/instructional/question-types/tagging-question
+order: 6
+parent: item-cdb028a2-5397-4117-a736-c602121ff70b
+title: Tagging Question
+description: ''
+metadata:
+  tags: beginner,content-author,developer,reference,blocks
+  fields:
+    skill: beginner
+    persona:
+      - content-author
+      - developer
+    capability:
+      - reference
+      - blocks
+  published: true
+  hideInMenu: false
+  created: 1788285969
+  updated: 1788285969
+content: >
+
+  <p>Tagging questions allow for a drag and drop or click to select method of
+  answering.
+    They allow you to add options that are incorrect and the user must <b>only</b>&nbsp;select
+    the correct answers without selecting any incorrect ones.</p>
+  <h2 data-original-level="H2"
+  id="header-ce848a11-1452-3fa1-f2ac-8808b8136b73">Example</h2>
+
+  <tagging-question question="What does the fox say?" data-accent="2"
+  max-attempts="0" typeof="oer:Assessment"
+  resource="#8eb8dbc7-cc0b-66ff-80fe-7751af2fa207"
+  prefix="oer:http://oerschema.org/ schema:http://schema.org/
+  dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/
+  cc:http://creativecommons.org/ns# bib:http://bib.schema.org"
+  quiz-name="default"></tagging-question>
+
+  <h2 data-original-level="H2"
+  id="header-10d6fc09-18c6-2d3d-2fca-f6ffb36ef149">Developers</h2>
+
+  <ul>
+    <li><a href="https://npmjs.com/package/@haxtheweb/tagging-question">npm install @haxtheweb/tagging-question --save</a></li>
+    <li><a href="https://github.com/haxtheweb/webcomponents/tree/master/elements/tagging-question">Source on Github</a></li>
+    <li><a href="https://codepen.io/btopro/pen/qBzayey">Codepen
+     example  from CDN</a></li></ul>
+  <p></p>
+
+  <code-sample copy-clipboard-button="" type="html" data-margin="xl">
+    
+  <template>&lt;tagging-question question="What does the fox say?"
+  data-primary="15"&gt;
+    &lt;input type="checkbox" value="DingDingDing" correct="correct"&gt;
+    &lt;input type="checkbox" value="PaPaPower" correct="correct"&gt;
+    &lt;input type="checkbox" value="Moo"&gt;
+  &lt;/tagging-question&gt;</template></code-sample>

@@ -1,0 +1,368 @@
+{
+    "title": "docx-site-import",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1520,
+            "height": 839,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "http://localhost:3000/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "http://localhost:3000/",
+                    "title": "HAX: Home"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "div > div:nth-of-type(1)"
+                ],
+                [
+                    "pierce/app-hax-use-case-filter",
+                    "pierce/div > div:nth-of-type(1)"
+                ]
+            ],
+            "offsetY": 85.39999389648438,
+            "offsetX": 1321
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "div > section div:nth-of-type(6) > app-hax-use-case",
+                    "simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/app-hax-use-case-filter",
+                    "pierce/div > section div:nth-of-type(6) > app-hax-use-case",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 18.039993286132812,
+            "offsetX": 34.239990234375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "div:nth-of-type(5) div:nth-of-type(1) > app-hax-use-case",
+                    "simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/div:nth-of-type(5) div:nth-of-type(1) > app-hax-use-case",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 50.83998107910156,
+            "offsetX": 20.639999389648438
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Site Name"
+                ],
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "#siteCreationModal",
+                    "#siteName"
+                ],
+                [
+                    "pierce/#siteName"
+                ]
+            ],
+            "offsetY": 30.199981689453125,
+            "offsetX": 244
+        },
+        {
+            "type": "doubleClick",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Site Name"
+                ],
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "#siteCreationModal",
+                    "#siteName"
+                ],
+                [
+                    "pierce/#siteName"
+                ]
+            ],
+            "offsetY": 33.199981689453125,
+            "offsetX": 258
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Site Name"
+                ],
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "#siteCreationModal",
+                    "#siteName"
+                ],
+                [
+                    "pierce/#siteName"
+                ]
+            ],
+            "offsetY": 33.199981689453125,
+            "offsetX": 258
+        },
+        {
+            "type": "change",
+            "value": "haxsiteimport",
+            "selectors": [
+                [
+                    "aria/Site Name"
+                ],
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "#siteCreationModal",
+                    "#siteName"
+                ],
+                [
+                    "pierce/#siteName"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Enter"
+        },
+        {
+            "type": "keyUp",
+            "key": "Enter",
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Stay Here"
+                ],
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "#siteCreationModal",
+                    "button.button-secondary"
+                ],
+                [
+                    "pierce/button.button-secondary"
+                ]
+            ],
+            "offsetY": 28.79998779296875,
+            "offsetX": 55.67498779296875,
+            "duration": 434
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "app-hax",
+                    "app-hax-use-case-filter",
+                    "app-hax-search-results",
+                    "li:nth-of-type(1) > app-hax-site-bar",
+                    "img"
+                ],
+                [
+                    "pierce/li:nth-of-type(1) > app-hax-site-bar",
+                    "pierce/img"
+                ]
+            ],
+            "offsetY": 74.92800903320312,
+            "offsetX": 65.30000305175781,
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "http://localhost:3000/_sites/haxsiteimport/",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "main"
+                ],
+                [
+                    "pierce/main"
+                ]
+            ],
+            "offsetY": 218,
+            "offsetX": 175
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Reading and Video[role=\"button\"]"
+                ],
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-bc07a9a2-af3c-4905-afa1-845cf2f1e2b7",
+                    "#item-bc07a9a2-af3c-4905-afa1-845cf2f1e2b7",
+                    "button"
+                ],
+                [
+                    "pierce/map-menu",
+                    "pierce/#item-bc07a9a2-af3c-4905-afa1-845cf2f1e2b7",
+                    "pierce/#item-bc07a9a2-af3c-4905-afa1-845cf2f1e2b7",
+                    "pierce/button"
+                ]
+            ],
+            "offsetY": 16.800003051757812,
+            "offsetX": 164
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Video[role=\"button\"]"
+                ],
+                [
+                    "clean-one",
+                    "#sitemenu",
+                    "map-menu",
+                    "#item-ae7a2d0f-16de-477b-a4eb-86638802fdde",
+                    "button"
+                ],
+                [
+                    "pierce/#item-ae7a2d0f-16de-477b-a4eb-86638802fdde",
+                    "pierce/button"
+                ]
+            ],
+            "offsetY": 27.79998779296875,
+            "offsetX": 129.39999961853027
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "place-holder:nth-of-type(1)",
+                    "simple-icon"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/place-holder:nth-of-type(1)",
+                    "pierce/simple-icon"
+                ]
+            ],
+            "offsetY": 175.39999389648438,
+            "offsetX": 272.70001220703125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "p:nth-of-type(2)"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/p:nth-of-type(2)"
+                ]
+            ],
+            "offsetY": 21.399993896484375,
+            "offsetX": 414.1999816894531
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Enter"
+        },
+        {
+            "type": "keyUp",
+            "key": "Enter",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Shift"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Shift"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Insert"
+        },
+        {
+            "type": "keyUp",
+            "key": "Insert",
+            "target": "main"
+        },
+        {
+            "type": "keyUp",
+            "key": "Shift",
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#editbutton",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#editbutton",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 2,
+            "offsetX": 19
+        }
+    ]
+}

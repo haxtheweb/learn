@@ -18,7 +18,7 @@ metadata:
   published: true
   hideInMenu: false
   created: 1788285967
-  updated: 1788285967
+  updated: 1788288624
 content: >
   <accent-card accent-color="cyan" accent-heading="" horizontal=""
   image-src="files/start-here/CopyQ.AApGdq.png" image-alt="Luna avatar"
@@ -34,11 +34,11 @@ content: >
   <p>These areas of Learn HAX map most directly to what Luna wants to do:</p>
 
   <ul>
-    <li><a href="/tutorial-library/developer-onboarding">Developer Onboarding</a> — fork and clone the repos, install, and verify each project runs.</li>
-    <li><a href="/block-reference">Block Reference</a> — the full inventory of HAX-capable elements and how they're used in the editor.</li>
-    <li><a href="/release-notes">Release Notes</a> — track what changes across HAXcms releases.</li>
+    <li><a href="tutorial-library/developer-onboarding">Developer Onboarding</a> — fork and clone the repos, install, and verify each project runs.</li>
+    <li><a href="block-reference">Block Reference</a> — the full inventory of HAX-capable elements and how they're used in the editor.</li>
+    <li><a href="release-notes">Release Notes</a> — track what changes across HAXcms releases.</li>
   </ul>
 
   <p>Looking to build new elements or themes? The <a
-  href="/block-reference">Block Reference</a> documents each component's usage;
+  href="block-reference">Block Reference</a> documents each component's usage;
   combine it with the HAX CLI to scaffold and publish your own.</p>

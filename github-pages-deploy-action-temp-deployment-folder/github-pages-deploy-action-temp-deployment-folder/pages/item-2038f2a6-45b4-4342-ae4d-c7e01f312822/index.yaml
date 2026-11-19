@@ -1,0 +1,25 @@
+id: item-2038f2a6-45b4-4342-ae4d-c7e01f312822
+indent: 1
+location: pages/item-2038f2a6-45b4-4342-ae4d-c7e01f312822/index.yaml
+slug: tutorial-library/site-health-reports
+order: 4
+parent: item-1467f036-344e-4c49-8232-6b1f6a730c76
+title: Site Health & Reports
+description: ''
+metadata:
+  tags: beginner,site-builder,reports
+  fields:
+    skill: beginner
+    persona:
+      - site-builder
+    capability:
+      - reports
+  published: true
+  hideInMenu: false
+  created: 1788285968
+  updated: 1788285968
+content: |
+  <p>This section includes the following pages:</p>
+  <ul>
+    <li><a href="/tutorial-library/site-health-reports/reports">Reports</a></li>
+  </ul>

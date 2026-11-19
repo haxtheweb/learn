@@ -1,0 +1,29 @@
+{
+  "id": "item-a1f98d11-c0b8-417f-b4f8-acbb5eba8b5d",
+  "indent": 2,
+  "location": "pages/item-a1f98d11-c0b8-417f-b4f8-acbb5eba8b5d/index.json",
+  "slug": "block-reference/layout/collection-list",
+  "order": 0,
+  "parent": "item-ba174e9f-0ba4-4484-bd8a-df6c63dcd181",
+  "title": "Collection List",
+  "description": "",
+  "metadata": {
+    "tags": "beginner,content-author,site-builder,reference,blocks",
+    "fields": {
+      "skill": "beginner",
+      "persona": [
+        "content-author",
+        "site-builder"
+      ],
+      "capability": [
+        "reference",
+        "blocks"
+      ]
+    },
+    "published": true,
+    "hideInMenu": false,
+    "created": 1788285969,
+    "updated": 1788285969
+  },
+  "content": "\n<p>A collection list is for organizing and automatically presenting \"Collection items\". This special type is a simple and clean visual way of presenting items or links a cards.</p>\n<h3 data-original-level=\"H3\" id=\"header-3f9dccba-b6c2-8c80-6df7-0cbd3941a47b\">Example usage</h3>\n<collection-list responsive-width=\"1304\" responsive-size=\"md\" breakpoint-sm=\"900\" breakpoint-md=\"1200\" breakpoint-lg=\"1500\" breakpoint-xl=\"1800\"><collection-item line1=\"HAX @ PSU\" line2=\"Write HTML without realizing it\" line3=\"by @btopro\" url=\"https://hax.psu.edu/\" icon=\"hax:hax2022\" image=\"files/block-reference/collection-list/hax-footer.jpg\" saturate=\"\" tags=\"founder,thinker,dreamer\" accent-color=\"red\"></collection-item>\n<collection-item url=\"https://hax.psu.edu/\" icon=\"hax:wizard-hat\" line1=\"HAX @ PSU\" line2=\"Write HTML without realizing it\" image=\"files/block-reference/collection-list/HAX.psu World changer-circle1.png\" line3=\"Penn State\" tags=\"innovative,stunning,fast,clean\" accent-color=\"light-blue\"></collection-item>\n<collection-item url=\"https://hax.psu.edu/\" icon=\"hax:engage2\" line1=\"Ontology\" line3=\"by Bill Rose\" image=\"files/block-reference/collection-list/1_The Core.png\" line2=\"How we think and what we make\" tags=\"deep,thoughtful,complex,mind\" accent-color=\"indigo\"></collection-item>\n</collection-list>\n"
+}

@@ -19,7 +19,7 @@ metadata:
   published: true
   hideInMenu: false
   created: 1788285969
-  updated: 1788285969
+  updated: 1788288624
 content: >
   <p><strong>Goal:</strong> Stand up a simple, maintainable website for a club,
   team, or community group — with a homepage, an outline of activities/pages, a
@@ -34,10 +34,10 @@ content: >
   <h2>Blocks &amp; tutorials you'll use</h2>
 
   <ul>
-    <li><a href="/tutorial-library/dashboard-site-basics/haxcms-dashboard">HAXcms Dashboard</a> — create the site from the dashboard.</li>
-    <li><a href="/tutorial-library/creating-structuring-content">Creating &amp; Structuring Content</a> — add pages for About, Meetings, Photos, Contact.</li>
-    <li><a href="/tutorial-library/working-with-media">Working with Media</a> — add a photo gallery and meeting videos.</li>
-    <li><a href="/block-reference/multimedia/image-gallery">Image Gallery</a> and <a href="/block-reference/layout/collection-list">Collection List</a> — present members and events.</li>
+    <li><a href="tutorial-library/dashboard-site-basics/haxcms-dashboard">HAXcms Dashboard</a> — create the site from the dashboard.</li>
+    <li><a href="tutorial-library/creating-structuring-content">Creating &amp; Structuring Content</a> — add pages for About, Meetings, Photos, Contact.</li>
+    <li><a href="tutorial-library/working-with-media">Working with Media</a> — add a photo gallery and meeting videos.</li>
+    <li><a href="block-reference/multimedia/image-gallery">Image Gallery</a> and <a href="block-reference/layout/collection-list">Collection List</a> — present members and events.</li>
   </ul>
 
   <p>Because HAX sites are portable files, the club owns its website and can

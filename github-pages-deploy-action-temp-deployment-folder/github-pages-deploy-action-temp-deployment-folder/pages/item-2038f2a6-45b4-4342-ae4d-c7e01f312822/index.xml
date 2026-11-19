@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+<id>item-2038f2a6-45b4-4342-ae4d-c7e01f312822</id>
+<indent>1</indent>
+<location>pages/item-2038f2a6-45b4-4342-ae4d-c7e01f312822/index.xml</location>
+<slug>tutorial-library/site-health-reports</slug>
+<order>4</order>
+<parent>item-1467f036-344e-4c49-8232-6b1f6a730c76</parent>
+<title>Site Health &amp; Reports</title>
+<description></description>
+<metadata>
+<tags>beginner,site-builder,reports</tags>
+<fields>
+<skill>beginner</skill>
+<persona>
+<item>site-builder</item>
+</persona>
+<capability>
+<item>reports</item>
+</capability>
+</fields>
+<published>true</published>
+<hideInMenu>false</hideInMenu>
+<created>1788285968</created>
+<updated>1788285968</updated>
+</metadata>
+<content><![CDATA[<p>This section includes the following pages:</p>
+<ul>
+  <li><a href="/tutorial-library/site-health-reports/reports">Reports</a></li>
+</ul>
+]]></content>
+</item>

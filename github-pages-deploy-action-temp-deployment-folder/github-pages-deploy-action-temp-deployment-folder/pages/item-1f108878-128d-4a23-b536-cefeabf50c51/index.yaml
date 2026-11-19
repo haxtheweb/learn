@@ -1,0 +1,55 @@
+id: item-1f108878-128d-4a23-b536-cefeabf50c51
+indent: 2
+location: pages/item-1f108878-128d-4a23-b536-cefeabf50c51/index.yaml
+slug: block-reference/multimedia/image-gallery
+order: 5
+parent: item-3d74bcd7-710b-4a3c-b9eb-96ae68e9fadf
+title: Image Gallery
+description: ''
+metadata:
+  tags: beginner,content-author,creator,reference,media,images,blocks
+  fields:
+    skill: beginner
+    persona:
+      - content-author
+      - creator
+    capability:
+      - reference
+      - media
+      - images
+      - blocks
+  published: true
+  hideInMenu: false
+  created: 1788285969
+  updated: 1788285969
+content: >
+
+  <p>Image gallery is a flexible container for displaying images in grid,
+  masonry, or gallery layouts with lightbox support.</p>
+
+  <h2 id="header-image-gallery-example">Gallery option</h2>
+
+  <image-gallery mode="gallery" accent-color="grey" active-index="0"><img
+  src="https://picsum.photos/400/300" alt="Sample image 1"><img
+  src="https://picsum.photos/400/500" alt="Sample image 2"><img
+  src="https://picsum.photos/400/400" alt="Sample image 3"></image-gallery>
+
+  <h2 id="header-image-gallery-example">Grid option</h2>
+
+  <image-gallery accent-color="grey" mode="grid" active-index="0"
+  _hax-state="">  <img src="https://picsum.photos/400/300" alt="Sample image 1">
+    <img src="https://picsum.photos/400/500" alt="Sample image 2">
+    <img src="https://picsum.photos/400/400" alt="Sample image 3">
+  </image-gallery>
+
+  <h2 id="header-image-gallery-example">Masonry option</h2>
+
+  <image-gallery accent-color="grey" mode="masonry" active-index="0"
+  _hax-state="">    <img src="https://picsum.photos/400/300" alt="Sample image
+  1">
+
+      <img src="https://picsum.photos/400/500" alt="Sample image 2">
+
+      <img src="https://picsum.photos/400/400" alt="Sample image 3">
+
+  </image-gallery>

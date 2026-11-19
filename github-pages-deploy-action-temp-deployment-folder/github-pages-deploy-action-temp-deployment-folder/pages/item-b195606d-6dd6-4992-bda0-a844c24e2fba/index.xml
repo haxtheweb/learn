@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+<id>item-b195606d-6dd6-4992-bda0-a844c24e2fba</id>
+<indent>1</indent>
+<location>pages/item-b195606d-6dd6-4992-bda0-a844c24e2fba/index.xml</location>
+<slug>using-hax-for/club-websites</slug>
+<order>0</order>
+<parent>item-09a2f55a-0fbe-4e8a-a9d1-966cd133584a</parent>
+<title>Club Websites</title>
+<description></description>
+<metadata>
+<tags>beginner,site-builder,creator,concepts,pages-structure</tags>
+<fields>
+<skill>beginner</skill>
+<persona>
+<item>site-builder</item>
+<item>creator</item>
+</persona>
+<capability>
+<item>concepts</item>
+<item>pages-structure</item>
+</capability>
+</fields>
+<published>true</published>
+<hideInMenu>false</hideInMenu>
+<created>1788285969</created>
+<updated>1788285969</updated>
+</metadata>
+<content><![CDATA[<p><strong>Goal:</strong> Stand up a simple, maintainable website for a club, team, or community group — with a homepage, an outline of activities/pages, a way to show photos and meeting info, and no ongoing hosting lock-in.</p>
+<stop-note title="This is a concept stub" accent-color="grey" icon="stopnoteicons:warning-icon" status="warning" message="A dedicated concept walkthrough video for club websites is coming soon.">
+  <p slot="message">A dedicated concept walkthrough video for club websites is coming soon. The tutorials and blocks below are enough to build a complete club site today.</p>
+</stop-note>
+<h2>Blocks &amp; tutorials you'll use</h2>
+<ul>
+  <li><a href="/tutorial-library/dashboard-site-basics/haxcms-dashboard">HAXcms Dashboard</a> — create the site from the dashboard.</li>
+  <li><a href="/tutorial-library/creating-structuring-content">Creating &amp; Structuring Content</a> — add pages for About, Meetings, Photos, Contact.</li>
+  <li><a href="/tutorial-library/working-with-media">Working with Media</a> — add a photo gallery and meeting videos.</li>
+  <li><a href="/block-reference/multimedia/image-gallery">Image Gallery</a> and <a href="/block-reference/layout/collection-list">Collection List</a> — present members and events.</li>
+</ul>
+<p>Because HAX sites are portable files, the club owns its website and can move hosts at any time.</p>
+]]></content>
+</item>

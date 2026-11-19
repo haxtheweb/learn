@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+<id>item-78d3584b-1eb5-489f-9355-7c3cb78a61bd</id>
+<indent>2</indent>
+<location>pages/item-78d3584b-1eb5-489f-9355-7c3cb78a61bd/index.xml</location>
+<slug>block-reference/multimedia/media-playlist</slug>
+<order>4</order>
+<parent>item-3d74bcd7-710b-4a3c-b9eb-96ae68e9fadf</parent>
+<title>Media Playlist</title>
+<description></description>
+<metadata>
+<tags>beginner,content-author,creator,reference,media,blocks</tags>
+<fields>
+<skill>beginner</skill>
+<persona>
+<item>content-author</item>
+<item>creator</item>
+</persona>
+<capability>
+<item>reference</item>
+<item>media</item>
+<item>blocks</item>
+</capability>
+</fields>
+<published>true</published>
+<hideInMenu>false</hideInMenu>
+<created>1788285969</created>
+<updated>1788285969</updated>
+</metadata>
+<content><![CDATA[
+<p>Media playlist is a rich multimedia container for organizing video and audio content into a navigable player layout with a sidebar playlist.</p>
+<h2 data-original-level="H2" id="header-media-playlist-example">Example</h2>
+<media-playlist><video-player source="https://www.youtube.com/watch?v=mqT2Q7fke1c" media-title="Example video"></video-player></media-playlist>
+]]></content>
+</item>

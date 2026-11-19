@@ -1,0 +1,29 @@
+{
+  "id": "item-09a2f55a-0fbe-4e8a-a9d1-966cd133584a",
+  "indent": 0,
+  "location": "pages/item-09a2f55a-0fbe-4e8a-a9d1-966cd133584a/index.json",
+  "slug": "using-hax-for",
+  "order": 4,
+  "parent": null,
+  "title": "Using HAX For…",
+  "description": "",
+  "metadata": {
+    "tags": "beginner,content-author,site-builder,creator,concepts",
+    "fields": {
+      "skill": "beginner",
+      "persona": [
+        "content-author",
+        "site-builder",
+        "creator"
+      ],
+      "capability": [
+        "concepts"
+      ]
+    },
+    "published": true,
+    "hideInMenu": false,
+    "created": 1788285969,
+    "updated": 1788285969
+  },
+  "content": "<p>This section includes the following pages:</p>\n<ul>\n  <li><a href=\"/using-hax-for/club-websites\">Club Websites</a></li>\n  <li><a href=\"/using-hax-for/portfolios\">Portfolios</a></li>\n  <li><a href=\"/using-hax-for/courses-and-resumes\">Courses &amp; Resumes</a></li>\n</ul>\n"
+}

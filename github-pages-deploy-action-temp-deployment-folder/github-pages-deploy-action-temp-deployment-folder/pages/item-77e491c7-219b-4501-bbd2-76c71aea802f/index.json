@@ -1,0 +1,30 @@
+{
+  "id": "item-77e491c7-219b-4501-bbd2-76c71aea802f",
+  "indent": 1,
+  "location": "pages/item-77e491c7-219b-4501-bbd2-76c71aea802f/index.json",
+  "slug": "tutorial-library/editing-authoring",
+  "order": 2,
+  "parent": "item-1467f036-344e-4c49-8232-6b1f6a730c76",
+  "title": "Editing & Authoring",
+  "description": "",
+  "metadata": {
+    "tags": "beginner,content-author,creator,editing,blocks,authoring",
+    "fields": {
+      "skill": "beginner",
+      "persona": [
+        "content-author",
+        "creator"
+      ],
+      "capability": [
+        "editing",
+        "blocks",
+        "authoring"
+      ]
+    },
+    "published": true,
+    "hideInMenu": false,
+    "created": 1788285967,
+    "updated": 1788285967
+  },
+  "content": "<p>This section includes the following pages:</p>\n<ul>\n  <li><a href=\"/tutorial-library/editing-authoring/edit-a-page\">Edit a Page</a></li>\n  <li><a href=\"/tutorial-library/editing-authoring/adding-blocks\">Adding Blocks</a></li>\n  <li><a href=\"/tutorial-library/editing-authoring/slash-commands\">Slash Commands</a></li>\n</ul>\n"
+}

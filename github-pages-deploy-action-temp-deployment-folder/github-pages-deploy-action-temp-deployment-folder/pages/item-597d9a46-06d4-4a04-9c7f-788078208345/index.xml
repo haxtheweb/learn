@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+<id>item-597d9a46-06d4-4a04-9c7f-788078208345</id>
+<indent>1</indent>
+<location>pages/item-597d9a46-06d4-4a04-9c7f-788078208345/index.xml</location>
+<slug>tutorial-library/working-with-media</slug>
+<order>3</order>
+<parent>item-1467f036-344e-4c49-8232-6b1f6a730c76</parent>
+<title>Working with Media</title>
+<description></description>
+<metadata>
+<tags>beginner,content-author,creator,media</tags>
+<fields>
+<skill>beginner</skill>
+<persona>
+<item>content-author</item>
+<item>creator</item>
+</persona>
+<capability>
+<item>media</item>
+</capability>
+</fields>
+<published>true</published>
+<hideInMenu>false</hideInMenu>
+<created>1788285968</created>
+<updated>1788285968</updated>
+</metadata>
+<content><![CDATA[<p>This section includes the following pages:</p>
+<ul>
+  <li><a href="/tutorial-library/working-with-media/adding-video-blocks">Adding Video Blocks</a></li>
+  <li><a href="/tutorial-library/working-with-media/working-with-images">Working with Images</a></li>
+</ul>
+]]></content>
+</item>

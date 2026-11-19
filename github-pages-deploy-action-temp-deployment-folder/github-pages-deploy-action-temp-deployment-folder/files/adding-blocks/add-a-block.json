@@ -1,0 +1,656 @@
+{
+    "title": "add-a-block",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1520,
+            "height": 873,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "http://localhost:3000/_sites/hax100/#h2-471275594",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "http://localhost:3000/_sites/hax100/#h2-471275594",
+                    "title": "hax100"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#slot"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/#slot"
+                ]
+            ],
+            "offsetY": 189.1999969482422,
+            "offsetX": 287.1999816894531
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#editbutton",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#editbutton",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 11,
+            "offsetX": 9,
+            "duration": 373
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Text",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "hax-tray",
+                    "#gizmobrowser",
+                    "a11y-collapse:nth-of-type(3)",
+                    "p"
+                ],
+                [
+                    "pierce/a11y-collapse:nth-of-type(3)",
+                    "pierce/p"
+                ],
+                [
+                    "text/Text"
+                ]
+            ],
+            "offsetY": 21,
+            "offsetX": 70.39999961853027
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Content",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "hax-tray",
+                    "#gizmobrowser",
+                    "a11y-collapse:nth-of-type(4)",
+                    "p"
+                ],
+                [
+                    "pierce/a11y-collapse:nth-of-type(4)",
+                    "pierce/p"
+                ]
+            ],
+            "offsetY": 21.39996337890625,
+            "offsetX": 127.39999961853027
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Instructional",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "hax-tray",
+                    "#gizmobrowser",
+                    "a11y-collapse:nth-of-type(5)",
+                    "p"
+                ],
+                [
+                    "pierce/a11y-collapse:nth-of-type(5)",
+                    "pierce/p"
+                ],
+                [
+                    "text/Instructional"
+                ]
+            ],
+            "offsetY": 7.79998779296875,
+            "offsetX": 118.39999961853027
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Layout",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "hax-tray",
+                    "#gizmobrowser",
+                    "a11y-collapse:nth-of-type(6)",
+                    "p"
+                ],
+                [
+                    "pierce/a11y-collapse:nth-of-type(6)",
+                    "pierce/p"
+                ],
+                [
+                    "text/Layout"
+                ]
+            ],
+            "offsetY": 3.20001220703125,
+            "offsetX": 101.39999961853027
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Media",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "hax-tray",
+                    "#gizmobrowser",
+                    "a11y-collapse:nth-of-type(7)",
+                    "p"
+                ],
+                [
+                    "pierce/a11y-collapse:nth-of-type(7)",
+                    "pierce/p"
+                ],
+                [
+                    "text/Media"
+                ]
+            ],
+            "offsetY": 5.5999755859375,
+            "offsetX": 110.39999961853027
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Other",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "hax-tray",
+                    "#gizmobrowser",
+                    "a11y-collapse:nth-of-type(8)",
+                    "p"
+                ],
+                [
+                    "pierce/a11y-collapse:nth-of-type(8)",
+                    "pierce/p"
+                ],
+                [
+                    "text/Other"
+                ]
+            ],
+            "offsetY": 6,
+            "offsetX": 134.39999961853027
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Other",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "hax-tray",
+                    "#gizmobrowser",
+                    "a11y-collapse:nth-of-type(8)",
+                    "p"
+                ],
+                [
+                    "pierce/a11y-collapse:nth-of-type(8)",
+                    "pierce/p"
+                ],
+                [
+                    "text/Other"
+                ]
+            ],
+            "offsetY": 15,
+            "offsetX": 140.39999961853027
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Media",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "hax-tray",
+                    "#gizmobrowser",
+                    "a11y-collapse:nth-of-type(7)",
+                    "p"
+                ],
+                [
+                    "pierce/a11y-collapse:nth-of-type(7)",
+                    "pierce/p"
+                ],
+                [
+                    "text/Media"
+                ]
+            ],
+            "offsetY": 18.600006103515625,
+            "offsetX": 136.39999961853027
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Layout",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "hax-tray",
+                    "#gizmobrowser",
+                    "a11y-collapse:nth-of-type(6)",
+                    "p"
+                ],
+                [
+                    "pierce/a11y-collapse:nth-of-type(6)",
+                    "pierce/p"
+                ],
+                [
+                    "text/Layout"
+                ]
+            ],
+            "offsetY": 11.20001220703125,
+            "offsetX": 133.39999961853027
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "hax-tray",
+                    "#gizmobrowser",
+                    "a11y-collapse:nth-of-type(5)",
+                    "#content"
+                ],
+                [
+                    "pierce/a11y-collapse:nth-of-type(5)",
+                    "pierce/#content"
+                ]
+            ],
+            "offsetY": 1.79998779296875,
+            "offsetX": 150.39999961853027
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Instructional",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "hax-tray",
+                    "#gizmobrowser",
+                    "a11y-collapse:nth-of-type(5)",
+                    "p"
+                ],
+                [
+                    "pierce/a11y-collapse:nth-of-type(5)",
+                    "pierce/p"
+                ],
+                [
+                    "text/Instructional"
+                ]
+            ],
+            "offsetY": 12,
+            "offsetX": 144.39999961853027
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Text",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "hax-tray",
+                    "#gizmobrowser",
+                    "a11y-collapse:nth-of-type(3)",
+                    "p"
+                ],
+                [
+                    "pierce/a11y-collapse:nth-of-type(3)",
+                    "pierce/p"
+                ],
+                [
+                    "text/Text"
+                ]
+            ],
+            "offsetY": 4.8000030517578125,
+            "offsetX": 114.39999961853027
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Content",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "hax-tray",
+                    "#gizmobrowser",
+                    "a11y-collapse:nth-of-type(4)",
+                    "p"
+                ],
+                [
+                    "pierce/a11y-collapse:nth-of-type(4)",
+                    "pierce/p"
+                ]
+            ],
+            "offsetY": 10,
+            "offsetX": 100.39999961853027
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Filter Content Types"
+                ],
+                [
+                    "hax-tray",
+                    "#gizmobrowser",
+                    "#inputfilter",
+                    "#inputfilter\\."
+                ],
+                [
+                    "pierce/hax-tray",
+                    "pierce/#inputfilter\\."
+                ]
+            ],
+            "offsetY": 4.29998779296875,
+            "offsetX": 80
+        },
+        {
+            "type": "change",
+            "value": "video",
+            "selectors": [
+                [
+                    "aria/Filter Content Types"
+                ],
+                [
+                    "hax-tray",
+                    "#gizmobrowser",
+                    "#inputfilter",
+                    "#inputfilter\\."
+                ],
+                [
+                    "pierce/hax-tray",
+                    "pierce/#inputfilter\\."
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "body"
+                ],
+                [
+                    "xpath//html/body"
+                ],
+                [
+                    "pierce/body"
+                ]
+            ],
+            "offsetY": 599.2000045776367,
+            "offsetX": 720,
+            "duration": 2066
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "hax-tray",
+                    "#gizmobrowser",
+                    "a11y-collapse:nth-of-type(7) simple-popover-selection:nth-of-type(2) > hax-tray-button",
+                    "#label"
+                ],
+                [
+                    "pierce/a11y-collapse:nth-of-type(7) simple-popover-selection:nth-of-type(2) > hax-tray-button",
+                    "pierce/#label"
+                ]
+            ],
+            "offsetY": 12.79998779296875,
+            "offsetX": 32.67499542236328
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#exportbtn",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#exportbtn",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 13,
+            "offsetX": 15
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(16) span.mtk8"
+                ],
+                [
+                    "xpath///*[@id=\"container\"]/div/div[1]/div[2]/div[1]/div[4]/div[16]/span/span[2]"
+                ],
+                [
+                    "pierce/div:nth-of-type(16) span.mtk8"
+                ]
+            ],
+            "offsetY": 8.199981689453125,
+            "offsetX": 7.162498474121094,
+            "frame": [
+                0
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "div:nth-of-type(16) span.mtk8"
+                ],
+                [
+                    "xpath///*[@id=\"container\"]/div/div[1]/div[2]/div[1]/div[4]/div[16]/span/span[2]"
+                ],
+                [
+                    "pierce/div:nth-of-type(16) span.mtk8"
+                ]
+            ],
+            "offsetY": 9.199981689453125,
+            "offsetX": 1.1624984741210938,
+            "frame": [
+                0
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#content-edit",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#content-edit",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 6,
+            "offsetX": 20
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "media-playlist",
+                    "div.layout"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/div.layout"
+                ]
+            ],
+            "offsetY": 349.3999938964844,
+            "offsetX": 599.1999816894531
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "hax-body",
+                    "#bodycontainer"
+                ],
+                [
+                    "pierce/#bodycontainer"
+                ]
+            ],
+            "offsetY": 338,
+            "offsetX": 13.199981689453125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "hax-body",
+                    "#platecontextmenu",
+                    "#drag > simple-toolbar-menu-item:nth-of-type(2) > hax-context-item",
+                    "#label"
+                ],
+                [
+                    "pierce/#drag > simple-toolbar-menu-item:nth-of-type(2) > hax-context-item",
+                    "pierce/#label"
+                ]
+            ],
+            "offsetY": 7.399993896484375,
+            "offsetX": 18.79998779296875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "hax-body",
+                    "#platecontextmenu",
+                    "#drag > simple-toolbar-menu-item:nth-of-type(1) > hax-context-item",
+                    "#label"
+                ],
+                [
+                    "pierce/#drag > simple-toolbar-menu-item:nth-of-type(1) > hax-context-item",
+                    "pierce/#label"
+                ]
+            ],
+            "offsetY": 9.012481689453125,
+            "offsetX": 1.79998779296875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "hax-body",
+                    "#platecontextmenu",
+                    "#drag > simple-toolbar-menu-item:nth-of-type(1) > hax-context-item",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#drag > simple-toolbar-menu-item:nth-of-type(1) > hax-context-item",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 16.8125,
+            "offsetX": 21.79998779296875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "hax-body",
+                    "#bodycontainer"
+                ],
+                [
+                    "pierce/#bodycontainer"
+                ]
+            ],
+            "offsetY": 610.1999969482422,
+            "offsetX": 470.1999816894531
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#editbutton",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#editbutton",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 10,
+            "offsetX": 12
+        }
+    ]
+}

@@ -25,7 +25,7 @@
     "published": true,
     "hideInMenu": false,
     "created": 1788285969,
-    "updated": 1788285969
+    "updated": 1788288624
   },
-  "content": "<p>This section includes the following pages:</p>\n<ul>\n  <li><a href=\"/block-reference/multimedia/3d-model\">3D Model</a></li>\n  <li><a href=\"/block-reference/multimedia/gif-player\">GIF Player</a></li>\n  <li><a href=\"/block-reference/multimedia/inline-audio\">Inline Audio</a></li>\n  <li><a href=\"/block-reference/multimedia/video-player\">Video Player</a></li>\n  <li><a href=\"/block-reference/multimedia/media-playlist\">Media Playlist</a></li>\n  <li><a href=\"/block-reference/multimedia/image-gallery\">Image Gallery</a></li>\n</ul>\n"
+  "content": "<p>This section includes the following pages:</p>\n<ul>\n  <li><a href=\"block-reference/multimedia/3d-model\">3D Model</a></li>\n  <li><a href=\"block-reference/multimedia/gif-player\">GIF Player</a></li>\n  <li><a href=\"block-reference/multimedia/inline-audio\">Inline Audio</a></li>\n  <li><a href=\"block-reference/multimedia/video-player\">Video Player</a></li>\n  <li><a href=\"block-reference/multimedia/media-playlist\">Media Playlist</a></li>\n  <li><a href=\"block-reference/multimedia/image-gallery\">Image Gallery</a></li>\n</ul>\n"
 }

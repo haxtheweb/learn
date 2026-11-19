@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+<id>item-0c352f14-47d1-4c2d-a756-d960fde15617</id>
+<indent>0</indent>
+<location>pages/item-0c352f14-47d1-4c2d-a756-d960fde15617/index.xml</location>
+<slug>contribute</slug>
+<order>8</order>
+<parent></parent>
+<title>Contribute</title>
+<description></description>
+<metadata>
+<created>1795118404</created>
+<updated>1795118404</updated>
+<images>
+</images>
+<videos>
+</videos>
+</metadata>
+<content><![CDATA[<p>Learn HAX is built from the HAX network, so the way to improve a tutorial is to improve the network, and the site follows.</p>
+<h2>Where the lessons come from</h2>
+<editable-table scroll="">
+<table>
+<thead><tr><th>Source</th><th>What it supplies</th></tr></thead>
+<tbody>
+<tr><td>Recorded tutorials</td><td>A video, its captions, a written walkthrough with screenshots, and the recorded steps, one folder per tutorial</td></tr>
+<tr><td>PRAW ecosystem web</td><td>Maps of the system (importers, elements, flows, skills and more): what exists and how it connects</td></tr>
+<tr><td>haxtheweb.org docs</td><td>The existing documentation, already mapped to web nodes</td></tr>
+<tr><td>PRAW hax-imports</td><td>Sample files to follow along with: Word, PowerPoint, Excel, PDF, HTML, calendar and contact files</td></tr>
+</tbody>
+</table>
+</editable-table>
+<h2>How the site is updated</h2>
+<ddd-steps-list>
+<ddd-steps-list-item title="The network changes"><p>A capability, an element or a doc changes in a HAX repo and its node in the PRAW web is updated.</p></ddd-steps-list-item>
+<ddd-steps-list-item title="A tutorial is recorded"><p>A two to three minute video and its transcript become a page with screenshots.</p></ddd-steps-list-item>
+<ddd-steps-list-item title="Learn HAX rebuilds"><p>The page is added to the outline and published. Every time period shows the new lesson with no extra work.</p></ddd-steps-list-item>
+<ddd-steps-list-item title="Gaps are suggested"><p>Web nodes with no tutorial, and tutorials that have gone stale, are listed as candidates.</p></ddd-steps-list-item>
+</ddd-steps-list>
+<h2>Two ways to take part</h2>
+<grid-plate layout="1-1">
+<div slot="col-1"><h3>As a user</h3><p>Follow a tutorial, then tell us where you got stuck. Requests go to the unified issue queue at <a href="https://github.com/haxtheweb/issues">haxtheweb/issues</a>.</p></div>
+<div slot="col-2"><h3>As a contributor</h3><p>Record a two to three minute tutorial, improve a web node, or build a concept game on the micro game base. Start with <a href="start-here/luna">Luna, the developer path</a>.</p></div>
+</grid-plate>]]></content>
+</item>

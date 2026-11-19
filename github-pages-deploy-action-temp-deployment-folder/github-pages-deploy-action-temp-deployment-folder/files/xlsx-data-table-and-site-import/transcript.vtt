@@ -1,0 +1,105 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.760 --> 00:00:04.799
+Let's import an XLSX
+
+00:00:04.799 --> 00:00:07.520
+file and turn it into a data table in
+
+00:00:07.520 --> 00:00:09.440
+hacks.
+
+00:00:09.440 --> 00:00:11.920
+To perform this action, let's put the
+
+00:00:11.920 --> 00:00:13.519
+page in edit mode by clicking the
+
+00:00:13.519 --> 00:00:15.519
+pencil.
+
+00:00:15.519 --> 00:00:20.160
+Then let's get our XLSX file
+
+00:00:20.160 --> 00:00:22.960
+and drop it onto Merlin or the search
+
+00:00:22.960 --> 00:00:25.279
+bar up top. From there, we'll get a
+
+00:00:25.279 --> 00:00:27.199
+series of options because it's detected
+
+00:00:27.199 --> 00:00:30.720
+that it's an XLSX file. In this case,
+
+00:00:30.720 --> 00:00:36.640
+insert as table, insert as CSV text,
+
+00:00:36.640 --> 00:00:38.879
+link to the file, or just upload it and
+
+00:00:38.879 --> 00:00:40.719
+not do anything.
+
+00:00:40.719 --> 00:00:44.719
+Let's do insert as table.
+
+00:00:44.719 --> 00:00:47.039
+Instantly, it's taking the contents of
+
+00:00:47.039 --> 00:00:49.520
+that file and importing them into the
+
+00:00:49.520 --> 00:00:53.199
+page for us as a highly accessible
+
+00:00:53.199 --> 00:00:55.760
+table. If I was to rightclick and
+
+00:00:55.760 --> 00:00:58.239
+inspect, we can see under view source,
+
+00:00:58.239 --> 00:01:00.559
+it's created a table, imported the
+
+00:01:00.559 --> 00:01:03.840
+headings, and put the content in place.
+
+00:01:03.840 --> 00:01:06.080
+In this case, this content is in a
+
+00:01:06.080 --> 00:01:08.000
+format where we could actually import
+
+00:01:08.000 --> 00:01:10.799
+and create a brand new site using this
+
+00:01:10.799 --> 00:01:13.439
+file.
+
+00:01:13.439 --> 00:01:16.240
+So this is me saving that into one page.
+
+00:01:16.240 --> 00:01:20.479
+Or if I wanted to build a new site, if I
+
+00:01:20.479 --> 00:01:24.320
+go down to import, we have Excel as one
+
+00:01:24.320 --> 00:01:27.920
+of our imports. So if I have this file
+
+00:01:27.920 --> 00:01:32.640
+format with the import from Excel,
+
+00:01:32.640 --> 00:01:35.680
+now we've actually taken that XLSX file
+
+00:01:35.680 --> 00:01:38.799
+from before, built out a site hierarchy
+
+00:01:38.799 --> 00:01:40.799
+from it.

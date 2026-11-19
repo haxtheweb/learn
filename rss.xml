@@ -2,211 +2,211 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Learn HAX</title>
-    <link>https://localhost:3000/learn/</link>
+    <link>https://localhost/learn/</link>
     <description>Tutorials, reference, and onboarding for the HAX ecosystem.</description>
-    <copyright>Copyright (C) 2026 https://localhost:3000/learn</copyright>
+    <copyright>Copyright (C) 2026 https://localhost/learn</copyright>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Sep 2026 18:50:24 GMT</lastBuildDate>
     <generator>HAXcms NodeJS</generator>
-    <atom:link href="https://localhost:3000/learn/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://localhost/learn/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Start Here</title>
-      <link>https://localhost:3000/learn/start-here</link>
+      <link>https://localhost/learn/start-here</link>
       <description>New to HAX? You&apos;re in the right place. Learn HAX organizes everything you need to get productive — from your first orientation video to deep reference on every block in the editor. Start by watching the orientation below, then pick the path that matches what you&apos;re trying to do. Before you watch Download the HAX working document so you can follow along with the tutorial in the video. Read the tutorial in written form if you prefer text over video. Pick your path HAX serves a few different kin...</description>
       <category>beginner,content-author,site-builder,creator,developer,onboarding</category>
-      <guid>https://localhost:3000/learn/start-here</guid>
+      <guid>https://localhost/learn/start-here</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:07 GMT</pubDate>
     </item>
     <item>
       <title>Cat — Content Author</title>
-      <link>https://localhost:3000/learn/start-here/cat</link>
+      <link>https://localhost/learn/start-here/cat</link>
       <description>Web content author, knows some HTML Cat has used the web and understands HTML but doesn&apos;t write it well enough to feel confident. She likes to know she can, and it helps inform her understanding of what HAX is doing, but she&apos;d rather let a block editor do the hard work. Cat likes the way HAX lets her organize content, especially being able to &quot;try on&quot; a structure within a page or across multiple pages in order to iterate toward better content. Where to start These areas of Learn HAX map most ...</description>
       <category>beginner,content-author,authoring,blocks</category>
-      <guid>https://localhost:3000/learn/start-here/cat</guid>
+      <guid>https://localhost/learn/start-here/cat</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:07 GMT</pubDate>
     </item>
     <item>
       <title>Chuck — Site Builder</title>
-      <link>https://localhost:3000/learn/start-here/chuck</link>
+      <link>https://localhost/learn/start-here/chuck</link>
       <description>Site builder, can write HTML / CSS / JavaScript Chuck is a site builder. He understands git and the fundamentals of front-end development, but it&apos;s not something he wants to touch every day. Chuck likes the customization he can do to HAX without having to understand every nut and bolt. He also likes that if he needs to pop the hood open on the engine, he can — seeing all the parts of HAX and putting that extra bit of polish on something. Where to start These areas of Learn HAX map most direct...</description>
       <category>beginner,site-builder,dashboard,settings,pages-structure</category>
-      <guid>https://localhost:3000/learn/start-here/chuck</guid>
+      <guid>https://localhost/learn/start-here/chuck</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:07 GMT</pubDate>
     </item>
     <item>
       <title>Sven — Creator</title>
-      <link>https://localhost:3000/learn/start-here/sven</link>
+      <link>https://localhost/learn/start-here/sven</link>
       <description>Artist, student without web fundamentals Sven is a student studying to be an artist. He has to focus on his craft and doesn&apos;t have time to manage web properties. For people to see his work, he needs a basic website. He&apos;s been burned in the past by companies that hosted his material going out of business. HAX drag-and-drop tools and portable format allow him to easily create new spaces for his art without vendor reliance. Where to start You don&apos;t need any web background to use HAX. These areas...</description>
       <category>beginner,creator,authoring,media</category>
-      <guid>https://localhost:3000/learn/start-here/sven</guid>
+      <guid>https://localhost/learn/start-here/sven</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:07 GMT</pubDate>
     </item>
     <item>
       <title>Luna — Developer</title>
-      <link>https://localhost:3000/learn/start-here/luna</link>
+      <link>https://localhost/learn/start-here/luna</link>
       <description>Front-end developer Luna has written JavaScript for over a decade. She&apos;s seen trends come and go in the many JS ecosystems and is burned out from constantly having to relearn &quot;Thing + Ecosystem&quot;. HAX is appealing because it sits on web standards, is easy to piece through sites to trace relationships between HTML tags, and uses CSS variables. She also likes that she can make her own elements and themes using the CLI tools as well as publish using HAX11ty for higher SEO. Where to start These ar...</description>
       <category>developer,developer,onboarding,reference</category>
-      <guid>https://localhost:3000/learn/start-here/luna</guid>
+      <guid>https://localhost/learn/start-here/luna</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:07 GMT</pubDate>
     </item>
     <item>
       <title>Dashboard &amp; Site Basics</title>
-      <link>https://localhost:3000/learn/tutorial-library/dashboard-site-basics</link>
+      <link>https://localhost/learn/tutorial-library/dashboard-site-basics</link>
       <description>This section includes the following pages: HAXcms Dashboard Site Admin Settings Dashboard System Settings Dashboard</description>
       <category>beginner,site-builder,content-author,dashboard,settings</category>
-      <guid>https://localhost:3000/learn/tutorial-library/dashboard-site-basics</guid>
+      <guid>https://localhost/learn/tutorial-library/dashboard-site-basics</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:07 GMT</pubDate>
     </item>
     <item>
       <title>HAXcms Dashboard</title>
-      <link>https://localhost:3000/learn/tutorial-library/dashboard-site-basics/haxcms-dashboard</link>
+      <link>https://localhost/learn/tutorial-library/dashboard-site-basics/haxcms-dashboard</link>
       <description>How to Create an Online Course in HAXcms Prerequisites Ensure you have access to the HAXCMS dashboard. Be ready with a course name for your new online course. Having these prerequisites will make your course creation process smooth and efficient. Access the Online Course Creation Tool From the HAXCMS dashboard, locate and click the Online Course option. This will open the course creation interface where you can start building your new course. Name and Create Your Course Enter your desired cou...</description>
       <category>beginner,site-builder,content-author,dashboard</category>
-      <guid>https://localhost:3000/learn/tutorial-library/dashboard-site-basics/haxcms-dashboard</guid>
+      <guid>https://localhost/learn/tutorial-library/dashboard-site-basics/haxcms-dashboard</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:07 GMT</pubDate>
     </item>
     <item>
       <title>Site Admin Settings Dashboard</title>
-      <link>https://localhost:3000/learn/tutorial-library/dashboard-site-basics/site-admin-settings-dashboard</link>
+      <link>https://localhost/learn/tutorial-library/dashboard-site-basics/site-admin-settings-dashboard</link>
       <description>Exploring and Customizing HAX Site Settings Prerequisites Before diving into your HAX site settings, ensure you have administrator access to the content management system. This will allow you to view and modify all available options for site customization. Access the Site Settings Panel To begin customizing your HAX site, navigate to the site settings area. Look for the icon resembling a house with a pencil. Clicking this will open the site settings dashboard, providing access to all configur...</description>
       <category>beginner,site-builder,settings,dashboard</category>
-      <guid>https://localhost:3000/learn/tutorial-library/dashboard-site-basics/site-admin-settings-dashboard</guid>
+      <guid>https://localhost/learn/tutorial-library/dashboard-site-basics/site-admin-settings-dashboard</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:07 GMT</pubDate>
     </item>
     <item>
       <title>System Settings Dashboard</title>
-      <link>https://localhost:3000/learn/tutorial-library/dashboard-site-basics/system-settings-dashboard</link>
+      <link>https://localhost/learn/tutorial-library/dashboard-site-basics/system-settings-dashboard</link>
       <description>How to Configure System Settings in HAXcms Prerequisites Before you begin, make sure you have administrator access to your HAXcms dashboard. Familiarity with basic navigation in HAXcms is helpful but not required. Access to HAXcms site dashboard Administrator privileges Access the System Settings From the site dashboard, click on your user profile icon in the top right corner. This opens a menu where you can toggle options like dark mode and sound effects . To configure deeper settings, selec...</description>
       <category>beginner,site-builder,settings,dashboard</category>
-      <guid>https://localhost:3000/learn/tutorial-library/dashboard-site-basics/system-settings-dashboard</guid>
+      <guid>https://localhost/learn/tutorial-library/dashboard-site-basics/system-settings-dashboard</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:07 GMT</pubDate>
     </item>
     <item>
       <title>Create a New Page</title>
-      <link>https://localhost:3000/learn/tutorial-library/creating-structuring-content/create-a-new-page</link>
+      <link>https://localhost/learn/tutorial-library/creating-structuring-content/create-a-new-page</link>
       <description>How to Create and Manage Pages in HAX Prerequisites Before you begin, make sure you have access to HAX and are logged into your account. Familiarity with basic navigation in HAX will help streamline the process. Active HAX account Basic understanding of the HAX interface Locate and Use the Add Page Button Find the blue Add Page button in the top corner of your HAX workspace. Click this button to start the process of creating a new page. The Add Page button is easily visible and provides quick...</description>
       <category>beginner,content-author,pages-structure,authoring</category>
-      <guid>https://localhost:3000/learn/tutorial-library/creating-structuring-content/create-a-new-page</guid>
+      <guid>https://localhost/learn/tutorial-library/creating-structuring-content/create-a-new-page</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:07 GMT</pubDate>
     </item>
     <item>
       <title>Edit a Page</title>
-      <link>https://localhost:3000/learn/tutorial-library/editing-authoring/edit-a-page</link>
+      <link>https://localhost/learn/tutorial-library/editing-authoring/edit-a-page</link>
       <description>How to Edit a Page in HACS: Step-by-Step Tutorial Prerequisites Permissions : You need editing rights for the page you wish to modify. Familiarity with basic navigation in HAX will help you follow these steps smoothly. Open the Editor Panel To begin editing, click the pencil icon at the top of the page. This action opens the editor panel, displaying the content blocks and page structure. You&apos;ll see the current source powering the page and a grayed-out section for settings. Select and Edit Con...</description>
       <category>beginner,content-author,creator,editing,authoring</category>
-      <guid>https://localhost:3000/learn/tutorial-library/editing-authoring/edit-a-page</guid>
+      <guid>https://localhost/learn/tutorial-library/editing-authoring/edit-a-page</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:07 GMT</pubDate>
     </item>
     <item>
       <title>Tutorial Library</title>
-      <link>https://localhost:3000/learn/tutorial-library</link>
+      <link>https://localhost/learn/tutorial-library</link>
       <description>This section includes the following pages: Dashboard &amp;amp; Site Basics Creating &amp;amp; Structuring Content Editing &amp;amp; Authoring Working with Media Site Health &amp;amp; Reports Developer Onboarding</description>
       <category>beginner,content-author,site-builder,creator</category>
-      <guid>https://localhost:3000/learn/tutorial-library</guid>
+      <guid>https://localhost/learn/tutorial-library</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:07 GMT</pubDate>
     </item>
     <item>
       <title>Creating &amp; Structuring Content</title>
-      <link>https://localhost:3000/learn/tutorial-library/creating-structuring-content</link>
+      <link>https://localhost/learn/tutorial-library/creating-structuring-content</link>
       <description>This section includes the following pages: Create a New Page Reorder &amp;amp; Organize Pages Managing Course Structure</description>
       <category>beginner,content-author,site-builder,pages-structure</category>
-      <guid>https://localhost:3000/learn/tutorial-library/creating-structuring-content</guid>
+      <guid>https://localhost/learn/tutorial-library/creating-structuring-content</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:07 GMT</pubDate>
     </item>
     <item>
       <title>Reorder &amp; Organize Pages</title>
-      <link>https://localhost:3000/learn/tutorial-library/creating-structuring-content/reorder-organize-pages</link>
+      <link>https://localhost/learn/tutorial-library/creating-structuring-content/reorder-organize-pages</link>
       <description>How to Reorganize Your Site Structure in HAX Prerequisites Access to your site in HAX Basic familiarity with the HAX interface Before starting, make sure you have editing permissions and are logged into your HAX site workspace. Use Outline Actions for Quick Edits To quickly modify your site&apos;s structure, use the Outline Actions pencil icon located beside the active page. This menu lets you: Add a page under the current one Move pages up or down relative to siblings Indent or outdent pages to c...</description>
       <category>beginner,content-author,site-builder,pages-structure</category>
-      <guid>https://localhost:3000/learn/tutorial-library/creating-structuring-content/reorder-organize-pages</guid>
+      <guid>https://localhost/learn/tutorial-library/creating-structuring-content/reorder-organize-pages</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:07 GMT</pubDate>
     </item>
     <item>
       <title>Managing Course Structure</title>
-      <link>https://localhost:3000/learn/tutorial-library/creating-structuring-content/managing-course-structure</link>
+      <link>https://localhost/learn/tutorial-library/creating-structuring-content/managing-course-structure</link>
       <description>The outline designer is an interface for bulk management of the site outline. It allows you to add, delete, duplicate, and move content around in bulk and then see changes applied on save.</description>
       <category>beginner,site-builder,content-author,pages-structure</category>
-      <guid>https://localhost:3000/learn/tutorial-library/creating-structuring-content/managing-course-structure</guid>
+      <guid>https://localhost/learn/tutorial-library/creating-structuring-content/managing-course-structure</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:07 GMT</pubDate>
     </item>
     <item>
       <title>Editing &amp; Authoring</title>
-      <link>https://localhost:3000/learn/tutorial-library/editing-authoring</link>
+      <link>https://localhost/learn/tutorial-library/editing-authoring</link>
       <description>This section includes the following pages: Edit a Page Adding Blocks Slash Commands</description>
       <category>beginner,content-author,creator,editing,blocks,authoring</category>
-      <guid>https://localhost:3000/learn/tutorial-library/editing-authoring</guid>
+      <guid>https://localhost/learn/tutorial-library/editing-authoring</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:07 GMT</pubDate>
     </item>
     <item>
       <title>Adding Blocks</title>
-      <link>https://localhost:3000/learn/tutorial-library/editing-authoring/adding-blocks</link>
+      <link>https://localhost/learn/tutorial-library/editing-authoring/adding-blocks</link>
       <description>How to Use the Blocks Engine in HAX for Dynamic Content Creation Prerequisites Before you begin, ensure you have access to the HAX editor and are familiar with its basic text editing features. Having some experience with web content management will help you make the most of the blocks engine. Access to HAX editing environment Basic understanding of content blocks Open the Blocks Menu Click Edit in the HAX interface. If the blocks panel isn&apos;t already visible, select Blocks to access the full b...</description>
       <category>beginner,content-author,creator,blocks,authoring</category>
-      <guid>https://localhost:3000/learn/tutorial-library/editing-authoring/adding-blocks</guid>
+      <guid>https://localhost/learn/tutorial-library/editing-authoring/adding-blocks</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:07 GMT</pubDate>
     </item>
     <item>
       <title>Slash Commands</title>
-      <link>https://localhost:3000/learn/tutorial-library/editing-authoring/slash-commands</link>
+      <link>https://localhost/learn/tutorial-library/editing-authoring/slash-commands</link>
       <description>Mastering Slash Commands for Efficient Content Editing Prerequisites Access to the content editor interface. Basic familiarity with keyboard navigation. Make sure you are logged in and have a document open for editing before starting. Initiate Edit Mode Begin by clicking the Edit button on your document. Then, click on any line where you want to insert content and press Enter . You should notice a faded message, such as type slash for quick actions , appearing on the new line. Activate Slash ...</description>
       <category>beginner,content-author,creator,slash-commands,authoring,blocks</category>
-      <guid>https://localhost:3000/learn/tutorial-library/editing-authoring/slash-commands</guid>
+      <guid>https://localhost/learn/tutorial-library/editing-authoring/slash-commands</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:07 GMT</pubDate>
     </item>
     <item>
       <title>Adding Video Blocks</title>
-      <link>https://localhost:3000/learn/tutorial-library/working-with-media/adding-video-blocks</link>
+      <link>https://localhost/learn/tutorial-library/working-with-media/adding-video-blocks</link>
       <description>How to Add Video to Your Page: Multiple Methods Explained Prerequisites Before you start, ensure you have editing access to the page. Prepare the video link (such as a YouTube URL) or have your local video file ready for upload. Add Video Using the Media Block Click Edit on your page to enter editing mode. Open the blocks panel and search for Video under the Media category. Select the Video block to add it to your page. Update the source URL if you want to embed a different YouTube video. Cli...</description>
       <category>beginner,content-author,creator,media,video,blocks</category>
-      <guid>https://localhost:3000/learn/tutorial-library/working-with-media/adding-video-blocks</guid>
+      <guid>https://localhost/learn/tutorial-library/working-with-media/adding-video-blocks</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:08 GMT</pubDate>
     </item>
     <item>
       <title>Reports</title>
-      <link>https://localhost:3000/learn/tutorial-library/site-health-reports/reports</link>
+      <link>https://localhost/learn/tutorial-library/site-health-reports/reports</link>
       <description>Reports (beta) provide a variety of ways to optimize the process of maintaining and discovering meaning in sites built with HAX. Automated Link Checking</description>
       <category>beginner,site-builder,reports</category>
-      <guid>https://localhost:3000/learn/tutorial-library/site-health-reports/reports</guid>
+      <guid>https://localhost/learn/tutorial-library/site-health-reports/reports</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:08 GMT</pubDate>
     </item>
     <item>
       <title>Developer Onboarding</title>
-      <link>https://localhost:3000/learn/tutorial-library/developer-onboarding/developer-onboarding</link>
+      <link>https://localhost/learn/tutorial-library/developer-onboarding/developer-onboarding</link>
       <description>Single source of truth: issues/CONTRIBUTING.md on GitHub . This page is the readable version of that guide. What is HAX HAX (Headless Authoring eXperience) is an authoring experience that enables rapid creation of fast, static, file-backed websites. It seeks to be the smallest possible back-end CMS to make the HAX editor work and be able to build websites with it. Leveraging JSON Outline Schema, HAX authors multiple pages and writes them onto the file system, so a slim server layer is only ne...</description>
       <category>developer,developer,onboarding</category>
-      <guid>https://localhost:3000/learn/tutorial-library/developer-onboarding/developer-onboarding</guid>
+      <guid>https://localhost/learn/tutorial-library/developer-onboarding/developer-onboarding</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:08 GMT</pubDate>
     </item>
     <item>
       <title>Create Site from DOCX</title>
-      <link>https://localhost:3000/learn/import-content/create-site-from-docx</link>
+      <link>https://localhost/learn/import-content/create-site-from-docx</link>
       <description>How to Import a Website from a Word Document Using HAX Prerequisites Word Document: Have your .docx file ready for import. This should be structured for web content. Example file: Download the import-example.docx used in this tutorial and try the import yourself. Start the Import Process Begin by clicking the Import option on the HAX dashboard. This opens up various import sources. Select &apos;From Existing Source&apos; and Choose Word Doc Scroll down to find From existing source . Click on Word doc t...</description>
       <category>beginner,content-author,site-builder,import-export,pages-structure</category>
-      <guid>https://localhost:3000/learn/import-content/create-site-from-docx</guid>
+      <guid>https://localhost/learn/import-content/create-site-from-docx</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:08 GMT</pubDate>
     </item>
     <item>
       <title>Instructional</title>
-      <link>https://localhost:3000/learn/block-reference/instructional</link>
+      <link>https://localhost/learn/block-reference/instructional</link>
       <description>This section includes the following pages: Math Question Types Self Check Stop Note Table Timeline</description>
       <category>beginner,content-author,developer,reference,blocks</category>
-      <guid>https://localhost:3000/learn/block-reference/instructional</guid>
+      <guid>https://localhost/learn/block-reference/instructional</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:08 GMT</pubDate>
     </item>
     <item>
       <title>Math</title>
-      <link>https://localhost:3000/learn/block-reference/instructional/math</link>
+      <link>https://localhost/learn/block-reference/instructional/math</link>
       <description>To communicate about concepts in Mathematics a new form of expression language was required to translate chalkboard notation to the web. That syntax is known as MathML or LaTeXML. HAX supports this through a tag located on the editor bar as an inline block type. Example The&amp;nbsp;Pythagorean theorem is distilled down to&amp;nbsp; a^2+b^2=c^2 a simple formula that changed the world of construction. Video</description>
       <category>beginner,content-author,developer,reference,blocks</category>
-      <guid>https://localhost:3000/learn/block-reference/instructional/math</guid>
+      <guid>https://localhost/learn/block-reference/instructional/math</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:08 GMT</pubDate>
     </item>
     <item>
       <title>Question Types</title>
-      <link>https://localhost:3000/learn/block-reference/instructional/question-types</link>
+      <link>https://localhost/learn/block-reference/instructional/question-types</link>
       <description>This section includes the following pages: Fill in the Blanks Mark the Words Matching / Drag and Drop Multiple Choice Short Answer Question Sorting Question Tagging Question True / False Question</description>
       <category>beginner,content-author,developer,reference,blocks</category>
-      <guid>https://localhost:3000/learn/block-reference/instructional/question-types</guid>
+      <guid>https://localhost/learn/block-reference/instructional/question-types</guid>
       <pubDate>Tue, 01 Sep 2026 18:06:08 GMT</pubDate>
     </item>
   </channel>

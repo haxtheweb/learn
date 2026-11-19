@@ -6,3 +6,10 @@
 // https://github.com/haxtheweb/webcomponents/blob/master/elements/example-haxcms-theme/example-haxcms-theme.js
 // don't import that directory, we'd recommend copy and pasting it in here or
 // creating your own theme based on it
+import "./custom-learn-hax-theme.js";
+import "./learn-shelf.js";
+import "./learn-latest.js";
+import "./learn-arcade-cabinet.js";
+import { getLearnEra, setLearnEra } from "./learn-era.js";
+// the time period is page state; start from the one the visitor last chose
+setLearnEra(getLearnEra());

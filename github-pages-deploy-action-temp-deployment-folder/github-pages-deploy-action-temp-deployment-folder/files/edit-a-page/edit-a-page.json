@@ -1,0 +1,612 @@
+{
+    "title": "edit-a-page",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1520,
+            "height": 839,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "http://localhost:3000/_sites/hax100/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "http://localhost:3000/_sites/hax100/",
+                    "title": "hax100"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#editbutton",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#editbutton",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 15,
+            "offsetX": 16
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#content-map",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#content-map",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 8,
+            "offsetX": 8
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#exportbtn",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#exportbtn",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 11,
+            "offsetX": 2
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Blocks • Ctrl⇧3[role=\"button\"]"
+                ],
+                [
+                    "haxcms-site-editor-ui",
+                    "#content-add",
+                    "#button"
+                ],
+                [
+                    "pierce/#content-add",
+                    "pierce/#button"
+                ]
+            ],
+            "offsetY": 30,
+            "offsetX": 38
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "#h2-471275594"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/#h2-471275594"
+                ]
+            ],
+            "offsetY": 26,
+            "offsetX": 338.1999816894531
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "hax-tray",
+                    "#settings\\.configure",
+                    "#expand",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#settings\\.configure",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 8.399993896484375,
+            "offsetX": 15.599990844726562
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.ddd-styles\\.ddd-styleguide > span:nth-of-type(1)"
+                ],
+                [
+                    "pierce/#settings\\.configure\\.ddd-styles\\.ddd-styleguide > span:nth-of-type(1)"
+                ]
+            ],
+            "offsetY": 15,
+            "offsetX": 157.79999923706055
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.ddd-styles\\.ddd-styleguide\\.data-style-guide",
+                    "#options > div:nth-of-type(1) simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#settings\\.configure\\.ddd-styles\\.ddd-styleguide\\.data-style-guide",
+                    "pierce/#options > div:nth-of-type(1) simple-icon-lite",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 13.399993896484375,
+            "offsetX": 10.199996948242188
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.ddd-styles\\.ddd-styleguide\\.data-style-guide",
+                    "#options > div:nth-of-type(1) simple-icon-lite",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#settings\\.configure\\.ddd-styles\\.ddd-styleguide\\.data-style-guide",
+                    "pierce/#options > div:nth-of-type(1) simple-icon-lite",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 9.399993896484375,
+            "offsetX": 11.199996948242188
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "hax-tray",
+                    "#settings\\.configure\\.ddd-styles\\.ddd-styleguide",
+                    "#heading"
+                ],
+                [
+                    "pierce/#settings\\.configure\\.ddd-styles\\.ddd-styleguide",
+                    "pierce/#heading"
+                ]
+            ],
+            "offsetY": 34,
+            "offsetX": 208.79999923706055
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "hax-tray",
+                    "#settings\\.advanced > span:nth-of-type(1)"
+                ],
+                [
+                    "pierce/#settings\\.advanced > span:nth-of-type(1)"
+                ]
+            ],
+            "offsetY": 7,
+            "offsetX": 190.39999961853027
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "hax-tray",
+                    "#settings\\.developer > span:nth-of-type(1)"
+                ],
+                [
+                    "pierce/#settings\\.developer > span:nth-of-type(1)"
+                ]
+            ],
+            "offsetY": 5.79998779296875,
+            "offsetX": 195.39999961853027
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "hax-tray",
+                    "#settings\\.developer",
+                    "#heading"
+                ],
+                [
+                    "pierce/#settings\\.developer",
+                    "pierce/#heading"
+                ]
+            ],
+            "offsetY": 35.79998779296875,
+            "offsetX": 229.39999961853027
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "hax-tray",
+                    "#settings\\.advanced > span:nth-of-type(1)"
+                ],
+                [
+                    "pierce/#settings\\.advanced > span:nth-of-type(1)"
+                ]
+            ],
+            "offsetY": 13,
+            "offsetX": 170.39999961853027
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/[role=\"article\"]",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "clean-one",
+                    "#hax",
+                    "p"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/p"
+                ]
+            ],
+            "offsetY": 39.399993896484375,
+            "offsetX": 195.19998168945312
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/[role=\"article\"]",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "clean-one",
+                    "#hax",
+                    "p"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/p"
+                ]
+            ],
+            "offsetY": 61.399993896484375,
+            "offsetX": 262.1999816894531
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Enter"
+        },
+        {
+            "type": "keyUp",
+            "key": "Enter",
+            "target": "main"
+        },
+        {
+            "type": "change",
+            "value": "Course SyllabusOutline the course description, learning objectives, required materials, grading breakdown, and major deadlines. Keep this page focused on the big picture of what learners will accomplish.and start typing",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "hax-body"
+                ],
+                [
+                    "pierce/hax-body"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "doubleClick",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "#h2-471275594"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/#h2-471275594"
+                ]
+            ],
+            "offsetY": 12,
+            "offsetX": 187.19998168945312
+        },
+        {
+            "type": "change",
+            "value": "CourseOutline the course description, learning objectives, required materials, grading breakdown, and major deadlines. Keep this page focused on the big picture of what learners will accomplish.and start typing",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "hax-body"
+                ],
+                [
+                    "pierce/hax-body"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "p:nth-of-type(1)"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/p:nth-of-type(1)"
+                ]
+            ],
+            "offsetY": 33.399993896484375,
+            "offsetX": 170.19998168945312
+        },
+        {
+            "type": "doubleClick",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "p:nth-of-type(1)"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/p:nth-of-type(1)"
+                ]
+            ],
+            "offsetY": 49.399993896484375,
+            "offsetX": 146.19998168945312
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "hax-body",
+                    "div.basic-formatting-group > rich-text-editor-button:nth-of-type(1)",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/div.basic-formatting-group > rich-text-editor-button:nth-of-type(1)",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 7.399993896484375,
+            "offsetX": 12.625
+        },
+        {
+            "type": "change",
+            "value": "CourseOutline the course description, learning objectives, required materials, grading breakdown, and major deadlines. Keep this page focused on the big picture of what learners will accomplish.and start typing",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "hax-body"
+                ],
+                [
+                    "pierce/hax-body"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "hax-body",
+                    "div.basic-formatting-group > rich-text-editor-button:nth-of-type(2)",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/div.basic-formatting-group > rich-text-editor-button:nth-of-type(2)",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 11.399993896484375,
+            "offsetX": 8.02496337890625
+        },
+        {
+            "type": "change",
+            "value": "CourseOutline the course description, learning objectives, required materials, grading breakdown, and major deadlines. Keep this page focused on the big picture of what learners will accomplish.and start typing",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "hax-body"
+                ],
+                [
+                    "pierce/hax-body"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/[role=\"article\"]",
+                    "aria/[role=\"textbox\"]"
+                ],
+                [
+                    "clean-one",
+                    "#hax",
+                    "p:nth-of-type(1)"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/p:nth-of-type(1)"
+                ]
+            ],
+            "offsetY": 22.399993896484375,
+            "offsetX": 220.19998168945312
+        },
+        {
+            "type": "doubleClick",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/[role=\"article\"]",
+                    "aria/[role=\"textbox\"]"
+                ],
+                [
+                    "clean-one",
+                    "#hax",
+                    "p:nth-of-type(1)"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/p:nth-of-type(1)"
+                ]
+            ],
+            "offsetY": 14.399993896484375,
+            "offsetX": 233.19998168945312
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/[role=\"article\"]",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "clean-one",
+                    "#hax",
+                    "p:nth-of-type(2)"
+                ],
+                [
+                    "pierce/p:nth-of-type(2)"
+                ]
+            ],
+            "offsetY": 7.39996337890625,
+            "offsetX": 252.19998168945312
+        },
+        {
+            "type": "change",
+            "value": "CourseOutline the course description, learning objectives, required materials, grading breakdown, and major deadlines. Keep this page focused on the big picture of what learners will accomplish.and start typingsdf",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "hax-body"
+                ],
+                [
+                    "pierce/hax-body"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "hax-body",
+                    "hax-text-editor-heading-picker",
+                    "#button",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/hax-text-editor-heading-picker",
+                    "pierce/#icon",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 13.399993896484375,
+            "offsetX": 5.86248779296875
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Heading 3",
+                    "aria/[role=\"generic\"]"
+                ],
+                [
+                    "clean-one",
+                    "#hax",
+                    "hax-body",
+                    "hax-text-editor-heading-picker",
+                    "#button",
+                    "#option-4-0",
+                    "#label"
+                ],
+                [
+                    "pierce/#option-4-0",
+                    "pierce/#label"
+                ]
+            ],
+            "offsetY": 10.0999755859375,
+            "offsetX": 53.399993896484375
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#editbutton",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#editbutton",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 12,
+            "offsetX": 4,
+            "duration": 580
+        }
+    ]
+}

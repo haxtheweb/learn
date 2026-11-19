@@ -23,23 +23,29 @@
       }
     },
     "theme": {
-      "element": "clean-two",
-      "path": "@haxtheweb/clean-two/clean-two.js",
-      "name": "Clean Two",
-      "thumbnail": "@haxtheweb/haxcms-elements/lib/theme-screenshots/theme-clean-two-thumb.jpg",
-      "description": "Start with a blank site using the Clean Two",
-      "category": [
-        "Course"
-      ],
-      "hidden": false,
-      "priority": 0,
-      "terrible": false,
-      "supportedPalettes": null,
+      "element": "custom-learn-hax-theme",
+      "path": "./custom/build/custom.es6.js",
+      "name": "CustomLearnHaxTheme",
+      "designSystem": "future-traveler",
       "variables": {
-        "image": "",
-        "imageAlt": "",
-        "imageLink": "",
-        "icon": ""
+        "network": "hax",
+        "networkCurrent": "learn",
+        "payoff": "Every era had its tools. This one's yours.",
+        "legal": "HAX is Apache-2.0, the whole stack. Founded at and backed by Penn State.",
+        "logos": [
+          {
+            "src": "files/learn-theme/traveler-logo.svg",
+            "alt": "The Future Traveler logo"
+          },
+          {
+            "src": "files/learn-theme/sticker-beaver-blue.svg",
+            "alt": "Future Traveler sticker, beaver blue"
+          },
+          {
+            "src": "files/learn-theme/sticker-creek-teal.svg",
+            "alt": "Future Traveler sticker, creek teal"
+          }
+        ]
       },
       "regions": {
         "header": [],
@@ -1822,6 +1828,38 @@
         "hideInMenu": false,
         "created": 1788285970,
         "updated": 1788285970
+      }
+    },
+    {
+      "id": "item-19a2bd60-9f66-4c63-a281-65e27b5a4d4a",
+      "indent": 0,
+      "location": "pages/item-19a2bd60-9f66-4c63-a281-65e27b5a4d4a/index.html",
+      "slug": "arcade",
+      "order": 7,
+      "parent": null,
+      "title": "Arcade",
+      "description": "",
+      "metadata": {
+        "created": 1795118403,
+        "updated": 1795118403,
+        "images": [],
+        "videos": []
+      }
+    },
+    {
+      "id": "item-0c352f14-47d1-4c2d-a756-d960fde15617",
+      "indent": 0,
+      "location": "pages/item-0c352f14-47d1-4c2d-a756-d960fde15617/index.html",
+      "slug": "contribute",
+      "order": 8,
+      "parent": null,
+      "title": "Contribute",
+      "description": "",
+      "metadata": {
+        "created": 1795118404,
+        "updated": 1795118404,
+        "images": [],
+        "videos": []
       }
     }
   ]
