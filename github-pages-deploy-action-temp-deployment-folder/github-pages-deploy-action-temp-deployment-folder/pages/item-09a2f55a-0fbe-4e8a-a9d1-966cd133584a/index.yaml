@@ -19,11 +19,11 @@ metadata:
   published: true
   hideInMenu: false
   created: 1788285969
-  updated: 1788285969
+  updated: 1788288624
 content: |
   <p>This section includes the following pages:</p>
   <ul>
-    <li><a href="/using-hax-for/club-websites">Club Websites</a></li>
-    <li><a href="/using-hax-for/portfolios">Portfolios</a></li>
-    <li><a href="/using-hax-for/courses-and-resumes">Courses &amp; Resumes</a></li>
+    <li><a href="using-hax-for/club-websites">Club Websites</a></li>
+    <li><a href="using-hax-for/portfolios">Portfolios</a></li>
+    <li><a href="using-hax-for/courses-and-resumes">Courses &amp; Resumes</a></li>
   </ul>

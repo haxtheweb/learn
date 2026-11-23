@@ -18,10 +18,10 @@ metadata:
   published: true
   hideInMenu: false
   created: 1788285968
-  updated: 1788285968
+  updated: 1788288602
 content: |
   <p>This section includes the following pages:</p>
   <ul>
-    <li><a href="/tutorial-library/working-with-media/adding-video-blocks">Adding Video Blocks</a></li>
-    <li><a href="/tutorial-library/working-with-media/working-with-images">Working with Images</a></li>
+    <li><a href="tutorial-library/working-with-media/adding-video-blocks">Adding Video Blocks</a></li>
+    <li><a href="tutorial-library/working-with-media/working-with-images">Working with Images</a></li>
   </ul>

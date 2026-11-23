@@ -24,13 +24,13 @@
 <published>true</published>
 <hideInMenu>false</hideInMenu>
 <created>1788285967</created>
-<updated>1788285967</updated>
+<updated>1788288602</updated>
 </metadata>
 <content><![CDATA[<p>This section includes the following pages:</p>
 <ul>
-  <li><a href="/tutorial-library/dashboard-site-basics/haxcms-dashboard">HAXcms Dashboard</a></li>
-  <li><a href="/tutorial-library/dashboard-site-basics/site-admin-settings-dashboard">Site Admin Settings Dashboard</a></li>
-  <li><a href="/tutorial-library/dashboard-site-basics/system-settings-dashboard">System Settings Dashboard</a></li>
+  <li><a href="tutorial-library/dashboard-site-basics/haxcms-dashboard">HAXcms Dashboard</a></li>
+  <li><a href="tutorial-library/dashboard-site-basics/site-admin-settings-dashboard">Site Admin Settings Dashboard</a></li>
+  <li><a href="tutorial-library/dashboard-site-basics/system-settings-dashboard">System Settings Dashboard</a></li>
 </ul>
 ]]></content>
 </item>

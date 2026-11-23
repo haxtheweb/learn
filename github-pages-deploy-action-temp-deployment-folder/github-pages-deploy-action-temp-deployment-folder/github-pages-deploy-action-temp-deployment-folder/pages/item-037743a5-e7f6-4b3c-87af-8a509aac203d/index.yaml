@@ -1,0 +1,110 @@
+id: item-037743a5-e7f6-4b3c-87af-8a509aac203d
+indent: 2
+location: pages/item-037743a5-e7f6-4b3c-87af-8a509aac203d/index.yaml
+slug: tutorial-library/dashboard-site-basics/site-admin-settings-dashboard
+order: 1
+parent: item-1f0d127e-0642-43dd-8594-716fbb0f3cd9
+title: Site Admin Settings Dashboard
+description: ''
+metadata:
+  tags: beginner,site-builder,settings,dashboard
+  fields:
+    skill: beginner
+    persona:
+      - site-builder
+    capability:
+      - settings
+      - dashboard
+  published: true
+  hideInMenu: false
+  created: 1788285967
+  updated: 1788285967
+content: >
+  <video-player id="c69887a8-a7a5-4749-ae98-34f2c40d9a2d"
+  source="https://www.youtube.com/watch?v=2IkcqjuociU" media-title="Learn HAX:
+  Site Admin Settings Dashboard Overview" data-width="100" data-margin="center"
+  track="files/site-admin-settings-dashboard/transcript.vtt"></video-player>
+
+  <h2>Exploring and Customizing HAX Site
+  Settings</h2><h2>Prerequisites</h2><p>Before diving into your HAX site
+  settings, ensure you have <strong>administrator access</strong> to the content
+  management system. This will allow you to view and modify all available
+  options for site customization.</p><media-image
+  source="files/site-admin-settings-dashboard/images/screenshot-1.jpg"
+  caption="Prerequisites" offset="narrow" card="" box=""
+  alt="Prerequisites"></media-image><h2>Access the Site Settings Panel</h2><p>To
+  begin customizing your HAX site, navigate to the <strong>site
+  settings</strong> area. Look for the icon resembling a house with a pencil.
+  Clicking this will open the site settings dashboard, providing access to all
+  configuration categories.</p><media-image
+  source="files/site-admin-settings-dashboard/images/screenshot-2.jpg"
+  caption="Access the Site Settings Panel" offset="narrow" card="" box=""
+  alt="Access the Site Settings Panel"></media-image><h2>Customize Appearance
+  and Structure</h2><ul><li><strong>Theme &amp; Appearance:</strong> Change the
+  site's visual theme and overall look to match your brand or
+  preferences.</li><li><strong>Structure:</strong> Use the site outline to
+  organize your content and review the structure of your
+  pages.</li><li><strong>Content Review:</strong> Easily access tools to review,
+  query, and locate pages, including information on last updates and revision
+  history.</li></ul><media-image
+  source="files/site-admin-settings-dashboard/images/screenshot-3.jpg"
+  caption="Customize Appearance and Structure" offset="narrow" card="" box=""
+  alt="Customize Appearance and Structure"></media-image><h2>Leverage Reports
+  and Insights</h2><p>Utilize the <strong>Reports</strong> section to gain
+  valuable insights into your content. This area is actively being developed,
+  but it already offers tools for content search, accessibility audits, and
+  discovering how media is used throughout your site.</p><media-image
+  source="files/site-admin-settings-dashboard/images/screenshot-4.jpg"
+  caption="Leverage Reports and Insights" offset="narrow" card="" box=""
+  alt="Leverage Reports and Insights"></media-image><h2>Explore the About
+  Section and Shortcuts</h2><ul><li><strong>About HAX:</strong> Learn more about
+  the HAX project and how to get involved.</li><li><strong>Keyboard
+  Shortcuts:</strong> Discover shortcuts to optimize your workflow within the
+  system, including links to tutorials and API
+  documentation.</li></ul><media-image
+  source="files/site-admin-settings-dashboard/images/screenshot-5.jpg"
+  caption="Explore the About Section and Shortcuts" offset="narrow" card=""
+  box="" alt="Explore the About Section and Shortcuts"></media-image><h2>Manage
+  Files and Data Views</h2><p>Access the <strong>Files</strong> section to view
+  and manage all uploaded files on your site. Use <strong>Views</strong> to
+  slice and visualize your data in different ways, making it easy to embed
+  insights or utilize data dynamically throughout your site.</p><media-image
+  source="files/site-admin-settings-dashboard/images/screenshot-6.jpg"
+  caption="Manage Files and Data Views" offset="narrow" card="" box=""
+  alt="Manage Files and Data Views"></media-image><h2>Configure Features and
+  Editor Modes</h2><ul><li><strong>Features:</strong> Toggle core features of
+  the HAX system on or off. For example, disable the outline designer, page
+  addition, or deletion as needed for your team.</li><li><strong>Editor
+  Modes:</strong> Switch between a simplified novice editor and an advanced
+  expert mode, depending on user skill level and editing
+  needs.</li></ul><media-image
+  source="files/site-admin-settings-dashboard/images/screenshot-7.jpg"
+  caption="Configure Features and Editor Modes" offset="narrow" card="" box=""
+  alt="Configure Features and Editor Modes"></media-image><h2>Organize Blocks
+  and Elements</h2><p>In the <strong>Blocks</strong> section, remove any content
+  blocks or elements you do not wish to use. For instance, if you do not use the
+  career role element, you can remove it to keep your workspace
+  streamlined.</p><media-image
+  source="files/site-admin-settings-dashboard/images/screenshot-8.jpg"
+  caption="Organize Blocks and Elements" offset="narrow" card="" box=""
+  alt="Organize Blocks and Elements"></media-image><h2>Adjust SEO and
+  Import/Export Settings</h2><ul><li><strong>SEO Settings:</strong> Ensure your
+  site is compliant with Google, Microsoft, and other search engines, as well as
+  AI agents.</li><li><strong>Import/Export:</strong> Import or export your
+  current site or individual pages in various formats, including EPUB, Docx,
+  HTML, zip, markdown, and PDF.</li></ul><h2>Verification</h2><p>After making
+  your changes, review your site's title, homepage, and other details to confirm
+  that all customizations have been applied successfully. Regularly revisit the
+  site settings to take advantage of new features and improvements as HAX
+  continues to evolve.</p>
+
+  <h2>Tutorial Details</h2>
+
+  <ul>
+      <li><a href="https://www.youtube.com/watch?v=2IkcqjuociU">Video Tutorial Link (YouTube)</a> - <a href="files/site-admin-settings-dashboard/transcript.vtt">transcript</a></li>
+      <li>Images in this page: <a href="files/site-admin-settings-dashboard/images/screenshot-1.jpg">screenshot-1.jpg</a>, <a href="files/site-admin-settings-dashboard/images/screenshot-2.jpg">screenshot-2.jpg</a>, <a href="files/site-admin-settings-dashboard/images/screenshot-3.jpg">screenshot-3.jpg</a>, <a href="files/site-admin-settings-dashboard/images/screenshot-4.jpg">screenshot-4.jpg</a>, <a href="files/site-admin-settings-dashboard/images/screenshot-5.jpg">screenshot-5.jpg</a>, <a href="files/site-admin-settings-dashboard/images/screenshot-6.jpg">screenshot-6.jpg</a>, <a href="files/site-admin-settings-dashboard/images/screenshot-7.jpg">screenshot-7.jpg</a>, <a href="files/site-admin-settings-dashboard/images/screenshot-8.jpg">screenshot-8.jpg</a></li>
+      <li><a href="files/site-admin-settings-dashboard/2026-07-27-Learn-HAX_-Site-Admin-Settings-Dashboard-Overview.docx">Original Content Source (DOCX)</a></li>
+      <li><a href="files/site-admin-settings-dashboard/site-settings.json">Automation recording (JSON)</a></li>
+      <li>Last updated: July 27, 2026</li>
+      <li>HAXcms version: 26.0.0</li>
+  </ul>

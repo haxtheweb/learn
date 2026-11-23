@@ -1,0 +1,1828 @@
+{
+  "id": "749f3f7b-8ac6-4583-8830-365c95acbb92",
+  "title": "Learn HAX",
+  "author": "",
+  "description": "Tutorials, reference, and onboarding for the HAX ecosystem.",
+  "license": "by-sa",
+  "metadata": {
+    "author": {},
+    "site": {
+      "name": "learn",
+      "logo": "assets/banner.jpg",
+      "settings": {
+        "lang": "en-US",
+        "publishPagesOn": true,
+        "canonical": true,
+        "pathauto": true
+      },
+      "created": 1787862062,
+      "updated": 1788288624,
+      "git": {
+        "vendor": "github",
+        "branch": "gh-pages"
+      }
+    },
+    "theme": {
+      "element": "clean-two",
+      "path": "@haxtheweb/clean-two/clean-two.js",
+      "name": "Clean Two",
+      "thumbnail": "@haxtheweb/haxcms-elements/lib/theme-screenshots/theme-clean-two-thumb.jpg",
+      "description": "Start with a blank site using the Clean Two",
+      "category": [
+        "Course"
+      ],
+      "hidden": false,
+      "priority": 0,
+      "terrible": false,
+      "supportedPalettes": null,
+      "variables": {
+        "image": "",
+        "imageAlt": "",
+        "imageLink": "",
+        "icon": ""
+      },
+      "regions": {
+        "header": [],
+        "sidebarFirst": [],
+        "sidebarSecond": [],
+        "contentTop": [],
+        "contentBottom": [],
+        "footerPrimary": [],
+        "footerSecondary": []
+      }
+    },
+    "node": {
+      "fields": {}
+    },
+    "platform": {
+      "audience": "expert",
+      "features": {},
+      "allowedBlocks": []
+    },
+    "build": {
+      "version": "26.8.0",
+      "structure": "course",
+      "type": "own"
+    }
+  },
+  "items": [
+    {
+      "id": "item-c79ab22a-2fbc-4054-9175-48c65fef2dd6",
+      "indent": 0,
+      "location": "pages/item-c79ab22a-2fbc-4054-9175-48c65fef2dd6/index.html",
+      "slug": "start-here",
+      "order": 0,
+      "parent": null,
+      "title": "Start Here",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,site-builder,creator,developer,onboarding",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "site-builder",
+            "creator",
+            "developer"
+          ],
+          "capability": [
+            "onboarding"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285967,
+        "updated": 1788288624
+      }
+    },
+    {
+      "id": "item-8e8d4f78-af04-47ef-835e-560cafa19c31",
+      "indent": 1,
+      "location": "pages/item-8e8d4f78-af04-47ef-835e-560cafa19c31/index.html",
+      "slug": "start-here/cat",
+      "order": 0,
+      "parent": "item-c79ab22a-2fbc-4054-9175-48c65fef2dd6",
+      "title": "Cat — Content Author",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,authoring,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author"
+          ],
+          "capability": [
+            "authoring",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285967,
+        "updated": 1788288624
+      }
+    },
+    {
+      "id": "item-e5618910-6223-409f-9bcf-91f37f8aad8d",
+      "indent": 1,
+      "location": "pages/item-e5618910-6223-409f-9bcf-91f37f8aad8d/index.html",
+      "slug": "start-here/chuck",
+      "order": 1,
+      "parent": "item-c79ab22a-2fbc-4054-9175-48c65fef2dd6",
+      "title": "Chuck — Site Builder",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,site-builder,dashboard,settings,pages-structure",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "site-builder"
+          ],
+          "capability": [
+            "dashboard",
+            "settings",
+            "pages-structure"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285967,
+        "updated": 1788288624
+      }
+    },
+    {
+      "id": "item-0380d076-dc72-4ed9-8926-1c57f94697a6",
+      "indent": 1,
+      "location": "pages/item-0380d076-dc72-4ed9-8926-1c57f94697a6/index.html",
+      "slug": "start-here/sven",
+      "order": 2,
+      "parent": "item-c79ab22a-2fbc-4054-9175-48c65fef2dd6",
+      "title": "Sven — Creator",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,creator,authoring,media",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "creator"
+          ],
+          "capability": [
+            "authoring",
+            "media"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285967,
+        "updated": 1788288624
+      }
+    },
+    {
+      "id": "item-1dd36be7-d633-49e8-8783-ae66e95d26e3",
+      "indent": 1,
+      "location": "pages/item-1dd36be7-d633-49e8-8783-ae66e95d26e3/index.html",
+      "slug": "start-here/luna",
+      "order": 3,
+      "parent": "item-c79ab22a-2fbc-4054-9175-48c65fef2dd6",
+      "title": "Luna — Developer",
+      "description": "",
+      "metadata": {
+        "tags": "developer,developer,onboarding,reference",
+        "fields": {
+          "skill": "developer",
+          "persona": [
+            "developer"
+          ],
+          "capability": [
+            "onboarding",
+            "reference"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285967,
+        "updated": 1788288624
+      }
+    },
+    {
+      "id": "item-1f0d127e-0642-43dd-8594-716fbb0f3cd9",
+      "indent": 1,
+      "location": "pages/item-1f0d127e-0642-43dd-8594-716fbb0f3cd9/index.html",
+      "slug": "tutorial-library/dashboard-site-basics",
+      "order": 0,
+      "parent": "item-1467f036-344e-4c49-8232-6b1f6a730c76",
+      "title": "Dashboard & Site Basics",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,site-builder,content-author,dashboard,settings",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "site-builder",
+            "content-author"
+          ],
+          "capability": [
+            "dashboard",
+            "settings"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285967,
+        "updated": 1788288602
+      }
+    },
+    {
+      "id": "item-bf78e0b9-41fa-42cc-a47a-1b94cfe81709",
+      "indent": 2,
+      "location": "pages/item-bf78e0b9-41fa-42cc-a47a-1b94cfe81709/index.html",
+      "slug": "tutorial-library/dashboard-site-basics/haxcms-dashboard",
+      "order": 0,
+      "parent": "item-1f0d127e-0642-43dd-8594-716fbb0f3cd9",
+      "title": "HAXcms Dashboard",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,site-builder,content-author,dashboard",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "site-builder",
+            "content-author"
+          ],
+          "capability": [
+            "dashboard"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285967,
+        "updated": 1788285967
+      }
+    },
+    {
+      "id": "item-037743a5-e7f6-4b3c-87af-8a509aac203d",
+      "indent": 2,
+      "location": "pages/item-037743a5-e7f6-4b3c-87af-8a509aac203d/index.html",
+      "slug": "tutorial-library/dashboard-site-basics/site-admin-settings-dashboard",
+      "order": 1,
+      "parent": "item-1f0d127e-0642-43dd-8594-716fbb0f3cd9",
+      "title": "Site Admin Settings Dashboard",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,site-builder,settings,dashboard",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "site-builder"
+          ],
+          "capability": [
+            "settings",
+            "dashboard"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285967,
+        "updated": 1788285967
+      }
+    },
+    {
+      "id": "item-6b2dd56a-878c-4208-8674-902f7a8e7e6a",
+      "indent": 2,
+      "location": "pages/item-6b2dd56a-878c-4208-8674-902f7a8e7e6a/index.html",
+      "slug": "tutorial-library/dashboard-site-basics/system-settings-dashboard",
+      "order": 2,
+      "parent": "item-1f0d127e-0642-43dd-8594-716fbb0f3cd9",
+      "title": "System Settings Dashboard",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,site-builder,settings,dashboard",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "site-builder"
+          ],
+          "capability": [
+            "settings",
+            "dashboard"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285967,
+        "updated": 1788285967
+      }
+    },
+    {
+      "id": "item-6943e66d-8a7f-4a3a-bc95-57a5d022303e",
+      "indent": 2,
+      "location": "pages/item-6943e66d-8a7f-4a3a-bc95-57a5d022303e/index.html",
+      "slug": "tutorial-library/creating-structuring-content/create-a-new-page",
+      "order": 0,
+      "parent": "item-33529864-7498-46e7-b27a-8487845c28a5",
+      "title": "Create a New Page",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,pages-structure,authoring",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author"
+          ],
+          "capability": [
+            "pages-structure",
+            "authoring"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285967,
+        "updated": 1788285967
+      }
+    },
+    {
+      "id": "item-a18c52a4-5f61-46cb-ac85-d954e7473977",
+      "indent": 2,
+      "location": "pages/item-a18c52a4-5f61-46cb-ac85-d954e7473977/index.html",
+      "slug": "tutorial-library/editing-authoring/edit-a-page",
+      "order": 0,
+      "parent": "item-77e491c7-219b-4501-bbd2-76c71aea802f",
+      "title": "Edit a Page",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,creator,editing,authoring",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "creator"
+          ],
+          "capability": [
+            "editing",
+            "authoring"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285967,
+        "updated": 1788285967
+      }
+    },
+    {
+      "id": "item-3434a9e5-a635-4eb8-917d-538f1e5dda05",
+      "indent": 2,
+      "location": "pages/item-3434a9e5-a635-4eb8-917d-538f1e5dda05/index.html",
+      "slug": "tutorial-library/working-with-media/adding-video-blocks",
+      "order": 0,
+      "parent": "item-597d9a46-06d4-4a04-9c7f-788078208345",
+      "title": "Adding Video Blocks",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,creator,media,video,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "creator"
+          ],
+          "capability": [
+            "media",
+            "video",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285968,
+        "updated": 1788285968
+      }
+    },
+    {
+      "id": "item-3f28ebc9-7bf2-4b1b-80bc-2441f9c7bca7",
+      "indent": 2,
+      "location": "pages/item-3f28ebc9-7bf2-4b1b-80bc-2441f9c7bca7/index.html",
+      "slug": "tutorial-library/site-health-reports/reports",
+      "order": 0,
+      "parent": "item-2038f2a6-45b4-4342-ae4d-c7e01f312822",
+      "title": "Reports",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,site-builder,reports",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "site-builder"
+          ],
+          "capability": [
+            "reports"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285968,
+        "updated": 1788285968
+      }
+    },
+    {
+      "id": "item-74537f8b-33c9-48d5-8800-370b9db8ea29",
+      "indent": 2,
+      "location": "pages/item-74537f8b-33c9-48d5-8800-370b9db8ea29/index.html",
+      "slug": "tutorial-library/developer-onboarding/developer-onboarding",
+      "order": 0,
+      "parent": "item-f5956eb6-ba21-4204-9995-ba3392b26768",
+      "title": "Developer Onboarding",
+      "description": "",
+      "metadata": {
+        "tags": "developer,developer,onboarding",
+        "fields": {
+          "skill": "developer",
+          "persona": [
+            "developer"
+          ],
+          "capability": [
+            "onboarding"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285968,
+        "updated": 1788285968
+      }
+    },
+    {
+      "id": "item-5fb2118f-5546-4a4b-bdd8-e9bc4d6343d9",
+      "indent": 1,
+      "location": "pages/item-5fb2118f-5546-4a4b-bdd8-e9bc4d6343d9/index.html",
+      "slug": "import-content/create-site-from-docx",
+      "order": 0,
+      "parent": "item-a55e9f51-e83c-4c33-bbc5-9b82bdb39d72",
+      "title": "Create Site from DOCX",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,site-builder,import-export,pages-structure",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "site-builder"
+          ],
+          "capability": [
+            "import-export",
+            "pages-structure"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285968,
+        "updated": 1788285968
+      }
+    },
+    {
+      "id": "item-1fad16d2-a62a-4895-b90b-052b834c8938",
+      "indent": 1,
+      "location": "pages/item-1fad16d2-a62a-4895-b90b-052b834c8938/index.html",
+      "slug": "block-reference/instructional",
+      "order": 0,
+      "parent": "item-ec9770f4-33ca-4a02-98fa-32053c5fcac5",
+      "title": "Instructional",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,developer,reference,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "developer"
+          ],
+          "capability": [
+            "reference",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285968,
+        "updated": 1788288624
+      }
+    },
+    {
+      "id": "item-c787686e-1a25-4f74-ab98-9164d2ec7c3b",
+      "indent": 2,
+      "location": "pages/item-c787686e-1a25-4f74-ab98-9164d2ec7c3b/index.html",
+      "slug": "block-reference/instructional/math",
+      "order": 0,
+      "parent": "item-1fad16d2-a62a-4895-b90b-052b834c8938",
+      "title": "Math",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,developer,reference,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "developer"
+          ],
+          "capability": [
+            "reference",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285968,
+        "updated": 1788285968
+      }
+    },
+    {
+      "id": "item-cdb028a2-5397-4117-a736-c602121ff70b",
+      "indent": 2,
+      "location": "pages/item-cdb028a2-5397-4117-a736-c602121ff70b/index.html",
+      "slug": "block-reference/instructional/question-types",
+      "order": 1,
+      "parent": "item-1fad16d2-a62a-4895-b90b-052b834c8938",
+      "title": "Question Types",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,developer,reference,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "developer"
+          ],
+          "capability": [
+            "reference",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285968,
+        "updated": 1788288624
+      }
+    },
+    {
+      "id": "item-146c5613-144a-4b57-800f-73e4affe28d5",
+      "indent": 3,
+      "location": "pages/item-146c5613-144a-4b57-800f-73e4affe28d5/index.html",
+      "slug": "block-reference/instructional/question-types/fill-in-the-blanks",
+      "order": 0,
+      "parent": "item-cdb028a2-5397-4117-a736-c602121ff70b",
+      "title": "Fill in the Blanks",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,developer,reference,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "developer"
+          ],
+          "capability": [
+            "reference",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285968,
+        "updated": 1788285968
+      }
+    },
+    {
+      "id": "item-dab9887d-4ca6-4e89-b8ae-b1ae0e7566c9",
+      "indent": 3,
+      "location": "pages/item-dab9887d-4ca6-4e89-b8ae-b1ae0e7566c9/index.html",
+      "slug": "block-reference/instructional/question-types/mark-the-words",
+      "order": 1,
+      "parent": "item-cdb028a2-5397-4117-a736-c602121ff70b",
+      "title": "Mark the Words",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,developer,reference,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "developer"
+          ],
+          "capability": [
+            "reference",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285968,
+        "updated": 1788285968
+      }
+    },
+    {
+      "id": "item-90093686-d1c7-4464-8656-0f407e82e193",
+      "indent": 3,
+      "location": "pages/item-90093686-d1c7-4464-8656-0f407e82e193/index.html",
+      "slug": "block-reference/instructional/question-types/matching-drag-and-drop",
+      "order": 2,
+      "parent": "item-cdb028a2-5397-4117-a736-c602121ff70b",
+      "title": "Matching / Drag and Drop",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,developer,reference,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "developer"
+          ],
+          "capability": [
+            "reference",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285968,
+        "updated": 1788285968
+      }
+    },
+    {
+      "id": "item-d003549b-8e72-4887-9e63-ebc8392625fe",
+      "indent": 3,
+      "location": "pages/item-d003549b-8e72-4887-9e63-ebc8392625fe/index.html",
+      "slug": "block-reference/instructional/question-types/multiple-choice",
+      "order": 3,
+      "parent": "item-cdb028a2-5397-4117-a736-c602121ff70b",
+      "title": "Multiple Choice",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,developer,reference,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "developer"
+          ],
+          "capability": [
+            "reference",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285968,
+        "updated": 1788285968
+      }
+    },
+    {
+      "id": "item-838af7af-7e6f-45de-8f75-8728d0fc5643",
+      "indent": 3,
+      "location": "pages/item-838af7af-7e6f-45de-8f75-8728d0fc5643/index.html",
+      "slug": "block-reference/instructional/question-types/short-answer-question",
+      "order": 4,
+      "parent": "item-cdb028a2-5397-4117-a736-c602121ff70b",
+      "title": "Short Answer Question",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,developer,reference,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "developer"
+          ],
+          "capability": [
+            "reference",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285968,
+        "updated": 1788285968
+      }
+    },
+    {
+      "id": "item-6995c339-78b2-44ef-82a7-9f93c8ac2a8f",
+      "indent": 3,
+      "location": "pages/item-6995c339-78b2-44ef-82a7-9f93c8ac2a8f/index.html",
+      "slug": "block-reference/instructional/question-types/sorting-question",
+      "order": 5,
+      "parent": "item-cdb028a2-5397-4117-a736-c602121ff70b",
+      "title": "Sorting Question",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,developer,reference,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "developer"
+          ],
+          "capability": [
+            "reference",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285968,
+        "updated": 1788285968
+      }
+    },
+    {
+      "id": "item-bb895134-c091-41fb-abb0-0a37b1c17fe7",
+      "indent": 3,
+      "location": "pages/item-bb895134-c091-41fb-abb0-0a37b1c17fe7/index.html",
+      "slug": "block-reference/instructional/question-types/tagging-question",
+      "order": 6,
+      "parent": "item-cdb028a2-5397-4117-a736-c602121ff70b",
+      "title": "Tagging Question",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,developer,reference,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "developer"
+          ],
+          "capability": [
+            "reference",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285969,
+        "updated": 1788285969
+      }
+    },
+    {
+      "id": "item-ef38f789-2cd8-4400-8e25-e34f4b48ff24",
+      "indent": 3,
+      "location": "pages/item-ef38f789-2cd8-4400-8e25-e34f4b48ff24/index.html",
+      "slug": "block-reference/instructional/question-types/true-false-question",
+      "order": 7,
+      "parent": "item-cdb028a2-5397-4117-a736-c602121ff70b",
+      "title": "True / False Question",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,developer,reference,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "developer"
+          ],
+          "capability": [
+            "reference",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285969,
+        "updated": 1788285969
+      }
+    },
+    {
+      "id": "item-00f0e62b-01d4-4202-add8-7e8490122049",
+      "indent": 2,
+      "location": "pages/item-00f0e62b-01d4-4202-add8-7e8490122049/index.html",
+      "slug": "block-reference/instructional/self-check",
+      "order": 2,
+      "parent": "item-1fad16d2-a62a-4895-b90b-052b834c8938",
+      "title": "Self Check",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,developer,reference,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "developer"
+          ],
+          "capability": [
+            "reference",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285969,
+        "updated": 1788285969
+      }
+    },
+    {
+      "id": "item-08a260e1-c5be-4f4e-ae8e-b6083916bb90",
+      "indent": 2,
+      "location": "pages/item-08a260e1-c5be-4f4e-ae8e-b6083916bb90/index.html",
+      "slug": "block-reference/instructional/stop-note",
+      "order": 3,
+      "parent": "item-1fad16d2-a62a-4895-b90b-052b834c8938",
+      "title": "Stop Note",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,developer,reference,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "developer"
+          ],
+          "capability": [
+            "reference",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285969,
+        "updated": 1788285969
+      }
+    },
+    {
+      "id": "item-5efd455d-d2b8-4127-a4c4-f7c7dfc4d153",
+      "indent": 2,
+      "location": "pages/item-5efd455d-d2b8-4127-a4c4-f7c7dfc4d153/index.html",
+      "slug": "block-reference/instructional/table",
+      "order": 4,
+      "parent": "item-1fad16d2-a62a-4895-b90b-052b834c8938",
+      "title": "Table",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,developer,reference,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "developer"
+          ],
+          "capability": [
+            "reference",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285969,
+        "updated": 1788285969
+      }
+    },
+    {
+      "id": "item-e16de22c-5a24-4bc4-890f-0a3054ecdae9",
+      "indent": 2,
+      "location": "pages/item-e16de22c-5a24-4bc4-890f-0a3054ecdae9/index.html",
+      "slug": "block-reference/instructional/timeline",
+      "order": 5,
+      "parent": "item-1fad16d2-a62a-4895-b90b-052b834c8938",
+      "title": "Timeline",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,developer,reference,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "developer"
+          ],
+          "capability": [
+            "reference",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285969,
+        "updated": 1788285969
+      }
+    },
+    {
+      "id": "item-136d1c19-6fb7-409c-853d-6f8f05c9e913",
+      "indent": 2,
+      "location": "pages/item-136d1c19-6fb7-409c-853d-6f8f05c9e913/index.html",
+      "slug": "block-reference/multimedia/3d-model",
+      "order": 0,
+      "parent": "item-3d74bcd7-710b-4a3c-b9eb-96ae68e9fadf",
+      "title": "3D Model",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,creator,reference,media,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "creator"
+          ],
+          "capability": [
+            "reference",
+            "media",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285969,
+        "updated": 1788285969
+      }
+    },
+    {
+      "id": "item-a1f98d11-c0b8-417f-b4f8-acbb5eba8b5d",
+      "indent": 2,
+      "location": "pages/item-a1f98d11-c0b8-417f-b4f8-acbb5eba8b5d/index.html",
+      "slug": "block-reference/layout/collection-list",
+      "order": 0,
+      "parent": "item-ba174e9f-0ba4-4484-bd8a-df6c63dcd181",
+      "title": "Collection List",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,site-builder,reference,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "site-builder"
+          ],
+          "capability": [
+            "reference",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285969,
+        "updated": 1788285969
+      }
+    },
+    {
+      "id": "item-b195606d-6dd6-4992-bda0-a844c24e2fba",
+      "indent": 1,
+      "location": "pages/item-b195606d-6dd6-4992-bda0-a844c24e2fba/index.html",
+      "slug": "using-hax-for/club-websites",
+      "order": 0,
+      "parent": "item-09a2f55a-0fbe-4e8a-a9d1-966cd133584a",
+      "title": "Club Websites",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,site-builder,creator,concepts,pages-structure",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "site-builder",
+            "creator"
+          ],
+          "capability": [
+            "concepts",
+            "pages-structure"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285969,
+        "updated": 1788288624
+      }
+    },
+    {
+      "id": "item-1467f036-344e-4c49-8232-6b1f6a730c76",
+      "indent": 0,
+      "location": "pages/item-1467f036-344e-4c49-8232-6b1f6a730c76/index.html",
+      "slug": "tutorial-library",
+      "order": 1,
+      "parent": null,
+      "title": "Tutorial Library",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,site-builder,creator",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "site-builder",
+            "creator"
+          ],
+          "capability": []
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285967,
+        "updated": 1788288602
+      }
+    },
+    {
+      "id": "item-33529864-7498-46e7-b27a-8487845c28a5",
+      "indent": 1,
+      "location": "pages/item-33529864-7498-46e7-b27a-8487845c28a5/index.html",
+      "slug": "tutorial-library/creating-structuring-content",
+      "order": 1,
+      "parent": "item-1467f036-344e-4c49-8232-6b1f6a730c76",
+      "title": "Creating & Structuring Content",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,site-builder,pages-structure",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "site-builder"
+          ],
+          "capability": [
+            "pages-structure"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285967,
+        "updated": 1788288602
+      }
+    },
+    {
+      "id": "item-b078960a-206b-4c66-b467-ab700f69fbf4",
+      "indent": 2,
+      "location": "pages/item-b078960a-206b-4c66-b467-ab700f69fbf4/index.html",
+      "slug": "tutorial-library/creating-structuring-content/reorder-organize-pages",
+      "order": 1,
+      "parent": "item-33529864-7498-46e7-b27a-8487845c28a5",
+      "title": "Reorder & Organize Pages",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,site-builder,pages-structure",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "site-builder"
+          ],
+          "capability": [
+            "pages-structure"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285967,
+        "updated": 1788285967
+      }
+    },
+    {
+      "id": "item-55ad6fa9-0217-4770-b35c-ed0e80519077",
+      "indent": 2,
+      "location": "pages/item-55ad6fa9-0217-4770-b35c-ed0e80519077/index.html",
+      "slug": "tutorial-library/creating-structuring-content/managing-course-structure",
+      "order": 2,
+      "parent": "item-33529864-7498-46e7-b27a-8487845c28a5",
+      "title": "Managing Course Structure",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,site-builder,content-author,pages-structure",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "site-builder",
+            "content-author"
+          ],
+          "capability": [
+            "pages-structure"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285967,
+        "updated": 1788285967
+      }
+    },
+    {
+      "id": "item-77e491c7-219b-4501-bbd2-76c71aea802f",
+      "indent": 1,
+      "location": "pages/item-77e491c7-219b-4501-bbd2-76c71aea802f/index.html",
+      "slug": "tutorial-library/editing-authoring",
+      "order": 2,
+      "parent": "item-1467f036-344e-4c49-8232-6b1f6a730c76",
+      "title": "Editing & Authoring",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,creator,editing,blocks,authoring",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "creator"
+          ],
+          "capability": [
+            "editing",
+            "blocks",
+            "authoring"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285967,
+        "updated": 1788288602
+      }
+    },
+    {
+      "id": "item-d1d8542a-0da4-469c-bb8d-78ef5c7ed258",
+      "indent": 2,
+      "location": "pages/item-d1d8542a-0da4-469c-bb8d-78ef5c7ed258/index.html",
+      "slug": "tutorial-library/editing-authoring/adding-blocks",
+      "order": 1,
+      "parent": "item-77e491c7-219b-4501-bbd2-76c71aea802f",
+      "title": "Adding Blocks",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,creator,blocks,authoring",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "creator"
+          ],
+          "capability": [
+            "blocks",
+            "authoring"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285967,
+        "updated": 1788285967
+      }
+    },
+    {
+      "id": "item-5bb4d1cd-9c23-4751-998c-992d89b33386",
+      "indent": 2,
+      "location": "pages/item-5bb4d1cd-9c23-4751-998c-992d89b33386/index.html",
+      "slug": "tutorial-library/editing-authoring/slash-commands",
+      "order": 2,
+      "parent": "item-77e491c7-219b-4501-bbd2-76c71aea802f",
+      "title": "Slash Commands",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,creator,slash-commands,authoring,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "creator"
+          ],
+          "capability": [
+            "slash-commands",
+            "authoring",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285967,
+        "updated": 1788285967
+      }
+    },
+    {
+      "id": "item-597d9a46-06d4-4a04-9c7f-788078208345",
+      "indent": 1,
+      "location": "pages/item-597d9a46-06d4-4a04-9c7f-788078208345/index.html",
+      "slug": "tutorial-library/working-with-media",
+      "order": 3,
+      "parent": "item-1467f036-344e-4c49-8232-6b1f6a730c76",
+      "title": "Working with Media",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,creator,media",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "creator"
+          ],
+          "capability": [
+            "media"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285968,
+        "updated": 1788288602
+      }
+    },
+    {
+      "id": "item-73ac8a17-d53e-4c52-bb3e-f7c626d48e33",
+      "indent": 2,
+      "location": "pages/item-73ac8a17-d53e-4c52-bb3e-f7c626d48e33/index.html",
+      "slug": "tutorial-library/working-with-media/working-with-images",
+      "order": 1,
+      "parent": "item-597d9a46-06d4-4a04-9c7f-788078208345",
+      "title": "Working with Images",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,creator,media,images,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "creator"
+          ],
+          "capability": [
+            "media",
+            "images",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285968,
+        "updated": 1788285968
+      }
+    },
+    {
+      "id": "item-2038f2a6-45b4-4342-ae4d-c7e01f312822",
+      "indent": 1,
+      "location": "pages/item-2038f2a6-45b4-4342-ae4d-c7e01f312822/index.html",
+      "slug": "tutorial-library/site-health-reports",
+      "order": 4,
+      "parent": "item-1467f036-344e-4c49-8232-6b1f6a730c76",
+      "title": "Site Health & Reports",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,site-builder,reports",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "site-builder"
+          ],
+          "capability": [
+            "reports"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285968,
+        "updated": 1788288602
+      }
+    },
+    {
+      "id": "item-f5956eb6-ba21-4204-9995-ba3392b26768",
+      "indent": 1,
+      "location": "pages/item-f5956eb6-ba21-4204-9995-ba3392b26768/index.html",
+      "slug": "tutorial-library/developer-onboarding",
+      "order": 5,
+      "parent": "item-1467f036-344e-4c49-8232-6b1f6a730c76",
+      "title": "Developer Onboarding",
+      "description": "",
+      "metadata": {
+        "tags": "developer,developer,onboarding",
+        "fields": {
+          "skill": "developer",
+          "persona": [
+            "developer"
+          ],
+          "capability": [
+            "onboarding"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285968,
+        "updated": 1788288602
+      }
+    },
+    {
+      "id": "item-5b3b531b-8bdb-45d1-8f2e-ede9a6ed42f0",
+      "indent": 1,
+      "location": "pages/item-5b3b531b-8bdb-45d1-8f2e-ede9a6ed42f0/index.html",
+      "slug": "import-content/xlsx-data-table-and-site-import",
+      "order": 1,
+      "parent": "item-a55e9f51-e83c-4c33-bbc5-9b82bdb39d72",
+      "title": "XLSX Data Table and Site Import",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,site-builder,import-export,pages-structure",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "site-builder"
+          ],
+          "capability": [
+            "import-export",
+            "pages-structure"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285968,
+        "updated": 1788285968
+      }
+    },
+    {
+      "id": "item-3d74bcd7-710b-4a3c-b9eb-96ae68e9fadf",
+      "indent": 1,
+      "location": "pages/item-3d74bcd7-710b-4a3c-b9eb-96ae68e9fadf/index.html",
+      "slug": "block-reference/multimedia",
+      "order": 1,
+      "parent": "item-ec9770f4-33ca-4a02-98fa-32053c5fcac5",
+      "title": "Multimedia",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,creator,developer,reference,media,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "creator",
+            "developer"
+          ],
+          "capability": [
+            "reference",
+            "media",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285969,
+        "updated": 1788288624
+      }
+    },
+    {
+      "id": "item-36029c31-e700-48d2-b06c-d7bf1c44f381",
+      "indent": 2,
+      "location": "pages/item-36029c31-e700-48d2-b06c-d7bf1c44f381/index.html",
+      "slug": "block-reference/multimedia/gif-player",
+      "order": 1,
+      "parent": "item-3d74bcd7-710b-4a3c-b9eb-96ae68e9fadf",
+      "title": "GIF Player",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,creator,reference,media,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "creator"
+          ],
+          "capability": [
+            "reference",
+            "media",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285969,
+        "updated": 1788285969
+      }
+    },
+    {
+      "id": "item-8fda3207-09d4-47b8-9f05-239cbfb2ae1f",
+      "indent": 2,
+      "location": "pages/item-8fda3207-09d4-47b8-9f05-239cbfb2ae1f/index.html",
+      "slug": "block-reference/multimedia/inline-audio",
+      "order": 2,
+      "parent": "item-3d74bcd7-710b-4a3c-b9eb-96ae68e9fadf",
+      "title": "Inline Audio",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,creator,reference,media,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "creator"
+          ],
+          "capability": [
+            "reference",
+            "media",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285969,
+        "updated": 1788285969
+      }
+    },
+    {
+      "id": "item-8eff8304-de6b-4648-ae0b-26f3f520f5dc",
+      "indent": 2,
+      "location": "pages/item-8eff8304-de6b-4648-ae0b-26f3f520f5dc/index.html",
+      "slug": "block-reference/multimedia/video-player",
+      "order": 3,
+      "parent": "item-3d74bcd7-710b-4a3c-b9eb-96ae68e9fadf",
+      "title": "Video Player",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,creator,reference,media,video,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "creator"
+          ],
+          "capability": [
+            "reference",
+            "media",
+            "video",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285969,
+        "updated": 1788285969
+      }
+    },
+    {
+      "id": "item-78d3584b-1eb5-489f-9355-7c3cb78a61bd",
+      "indent": 2,
+      "location": "pages/item-78d3584b-1eb5-489f-9355-7c3cb78a61bd/index.html",
+      "slug": "block-reference/multimedia/media-playlist",
+      "order": 4,
+      "parent": "item-3d74bcd7-710b-4a3c-b9eb-96ae68e9fadf",
+      "title": "Media Playlist",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,creator,reference,media,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "creator"
+          ],
+          "capability": [
+            "reference",
+            "media",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285969,
+        "updated": 1788285969
+      }
+    },
+    {
+      "id": "item-1f108878-128d-4a23-b536-cefeabf50c51",
+      "indent": 2,
+      "location": "pages/item-1f108878-128d-4a23-b536-cefeabf50c51/index.html",
+      "slug": "block-reference/multimedia/image-gallery",
+      "order": 5,
+      "parent": "item-3d74bcd7-710b-4a3c-b9eb-96ae68e9fadf",
+      "title": "Image Gallery",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,creator,reference,media,images,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "creator"
+          ],
+          "capability": [
+            "reference",
+            "media",
+            "images",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285969,
+        "updated": 1788285969
+      }
+    },
+    {
+      "id": "item-01a77695-139a-4b3c-ac01-71843738454b",
+      "indent": 2,
+      "location": "pages/item-01a77695-139a-4b3c-ac01-71843738454b/index.html",
+      "slug": "block-reference/layout/column-layout",
+      "order": 1,
+      "parent": "item-ba174e9f-0ba4-4484-bd8a-df6c63dcd181",
+      "title": "Column Layout",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,site-builder,reference,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "site-builder"
+          ],
+          "capability": [
+            "reference",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285969,
+        "updated": 1788285969
+      }
+    },
+    {
+      "id": "item-f3b1b432-40a7-45d1-ab36-7d2f717093dc",
+      "indent": 1,
+      "location": "pages/item-f3b1b432-40a7-45d1-ab36-7d2f717093dc/index.html",
+      "slug": "using-hax-for/portfolios",
+      "order": 1,
+      "parent": "item-09a2f55a-0fbe-4e8a-a9d1-966cd133584a",
+      "title": "Portfolios",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,creator,content-author,concepts,media",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "creator",
+            "content-author"
+          ],
+          "capability": [
+            "concepts",
+            "media"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285970,
+        "updated": 1788288624
+      }
+    },
+    {
+      "id": "item-a55e9f51-e83c-4c33-bbc5-9b82bdb39d72",
+      "indent": 0,
+      "location": "pages/item-a55e9f51-e83c-4c33-bbc5-9b82bdb39d72/index.html",
+      "slug": "import-content",
+      "order": 2,
+      "parent": null,
+      "title": "Import Content",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,site-builder,import-export",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "site-builder"
+          ],
+          "capability": [
+            "import-export"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285968,
+        "updated": 1788288624
+      }
+    },
+    {
+      "id": "item-78c6ec8d-2d94-48d7-bb08-27f06a16bdd4",
+      "indent": 1,
+      "location": "pages/item-78c6ec8d-2d94-48d7-bb08-27f06a16bdd4/index.html",
+      "slug": "import-content/migrate-data-to-hax",
+      "order": 2,
+      "parent": "item-a55e9f51-e83c-4c33-bbc5-9b82bdb39d72",
+      "title": "Migrate Data to HAX",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,site-builder,import-export",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "site-builder"
+          ],
+          "capability": [
+            "import-export"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285968,
+        "updated": 1788285968
+      }
+    },
+    {
+      "id": "item-ba174e9f-0ba4-4484-bd8a-df6c63dcd181",
+      "indent": 1,
+      "location": "pages/item-ba174e9f-0ba4-4484-bd8a-df6c63dcd181/index.html",
+      "slug": "block-reference/layout",
+      "order": 2,
+      "parent": "item-ec9770f4-33ca-4a02-98fa-32053c5fcac5",
+      "title": "Layout",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,site-builder,developer,reference,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "site-builder",
+            "developer"
+          ],
+          "capability": [
+            "reference",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285969,
+        "updated": 1788288624
+      }
+    },
+    {
+      "id": "item-b27c5b27-567e-4abd-a462-4a5811856511",
+      "indent": 2,
+      "location": "pages/item-b27c5b27-567e-4abd-a462-4a5811856511/index.html",
+      "slug": "block-reference/layout/learning-component",
+      "order": 2,
+      "parent": "item-ba174e9f-0ba4-4484-bd8a-df6c63dcd181",
+      "title": "Learning Component",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,developer,reference,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "developer"
+          ],
+          "capability": [
+            "reference",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285969,
+        "updated": 1788285969
+      }
+    },
+    {
+      "id": "item-316bda36-abf5-4a44-8ee9-89e8224e384b",
+      "indent": 2,
+      "location": "pages/item-316bda36-abf5-4a44-8ee9-89e8224e384b/index.html",
+      "slug": "block-reference/layout/play-list",
+      "order": 3,
+      "parent": "item-ba174e9f-0ba4-4484-bd8a-df6c63dcd181",
+      "title": "Play List",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,creator,reference,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "creator"
+          ],
+          "capability": [
+            "reference",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285969,
+        "updated": 1788285969
+      }
+    },
+    {
+      "id": "item-cce252f9-eba8-40c1-84df-c96361d2c030",
+      "indent": 1,
+      "location": "pages/item-cce252f9-eba8-40c1-84df-c96361d2c030/index.html",
+      "slug": "using-hax-for/courses-and-resumes",
+      "order": 2,
+      "parent": "item-09a2f55a-0fbe-4e8a-a9d1-966cd133584a",
+      "title": "Courses & Resumes",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,site-builder,concepts,pages-structure",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "site-builder"
+          ],
+          "capability": [
+            "concepts",
+            "pages-structure"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285970,
+        "updated": 1788288624
+      }
+    },
+    {
+      "id": "item-ec9770f4-33ca-4a02-98fa-32053c5fcac5",
+      "indent": 0,
+      "location": "pages/item-ec9770f4-33ca-4a02-98fa-32053c5fcac5/index.html",
+      "slug": "block-reference",
+      "order": 3,
+      "parent": null,
+      "title": "Block Reference",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,creator,developer,reference,blocks",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "creator",
+            "developer"
+          ],
+          "capability": [
+            "reference",
+            "blocks"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285968,
+        "updated": 1788288624
+      }
+    },
+    {
+      "id": "item-09a2f55a-0fbe-4e8a-a9d1-966cd133584a",
+      "indent": 0,
+      "location": "pages/item-09a2f55a-0fbe-4e8a-a9d1-966cd133584a/index.html",
+      "slug": "using-hax-for",
+      "order": 4,
+      "parent": null,
+      "title": "Using HAX For…",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,site-builder,creator,concepts",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "site-builder",
+            "creator"
+          ],
+          "capability": [
+            "concepts"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285969,
+        "updated": 1788288624
+      }
+    },
+    {
+      "id": "item-b45608bf-e25d-4928-abea-ee56805430b0",
+      "indent": 0,
+      "location": "pages/item-b45608bf-e25d-4928-abea-ee56805430b0/index.html",
+      "slug": "troubleshooting-faq",
+      "order": 5,
+      "parent": null,
+      "title": "Troubleshooting & FAQ",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,content-author,site-builder,creator,developer,troubleshooting",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "content-author",
+            "site-builder",
+            "creator",
+            "developer"
+          ],
+          "capability": [
+            "troubleshooting"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285970,
+        "updated": 1788288624
+      }
+    },
+    {
+      "id": "item-d1c8060f-493a-4ef9-9ead-80ba1950816f",
+      "indent": 0,
+      "location": "pages/item-d1c8060f-493a-4ef9-9ead-80ba1950816f/index.html",
+      "slug": "release-notes",
+      "order": 6,
+      "parent": null,
+      "title": "Release Notes",
+      "description": "",
+      "metadata": {
+        "tags": "beginner,site-builder,developer,releases",
+        "fields": {
+          "skill": "beginner",
+          "persona": [
+            "site-builder",
+            "developer"
+          ],
+          "capability": [
+            "releases"
+          ]
+        },
+        "published": true,
+        "hideInMenu": false,
+        "created": 1788285970,
+        "updated": 1788285970
+      }
+    }
+  ]
+}

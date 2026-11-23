@@ -1,0 +1,114 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.600 --> 00:00:04.240
+Let's explore the system level settings
+
+00:00:04.240 --> 00:00:08.080
+in HAXcms. So from our site dashboard,
+
+00:00:08.080 --> 00:00:10.240
+if we click on our little user profile
+
+00:00:10.240 --> 00:00:12.320
+icon, we can see that we could toggle
+
+00:00:12.320 --> 00:00:14.480
+dark mode, sound effects, but let's go
+
+00:00:14.480 --> 00:00:16.400
+to settings.
+
+00:00:16.400 --> 00:00:19.840
+From settings, we can view skeletons,
+
+00:00:19.840 --> 00:00:23.600
+themes, media, third party integrations,
+
+00:00:23.600 --> 00:00:26.480
+and down the road, blocks, global CSS
+
+00:00:26.480 --> 00:00:29.199
+and JavaScript, and a style guide. But
+
+00:00:29.199 --> 00:00:32.000
+to start, let's review status. Status is
+
+00:00:32.000 --> 00:00:33.520
+going to tell us the latest version that
+
+00:00:33.520 --> 00:00:35.600
+we're on
+
+00:00:35.600 --> 00:00:38.000
+versus what exists in the world as the
+
+00:00:38.000 --> 00:00:40.559
+highest new version, what our server is
+
+00:00:40.559 --> 00:00:42.960
+running, and we'll also indicate if
+
+00:00:42.960 --> 00:00:45.200
+there's any misconfigurations on the
+
+00:00:45.200 --> 00:00:49.520
+file system that are needed.
+
+00:00:49.520 --> 00:00:52.800
+Under skeletons, we can limit which
+
+00:00:52.800 --> 00:00:54.320
+skeletons
+
+00:00:54.320 --> 00:00:57.360
+or site creation tools exist. So if I
+
+00:00:57.360 --> 00:01:01.920
+check these ones on and save,
+
+00:01:01.920 --> 00:01:04.720
+we'll have more templates available. So
+
+00:01:04.720 --> 00:01:07.600
+the templating tool in HAXcms is our
+
+00:01:07.600 --> 00:01:11.680
+skeletons. If we want to take a site,
+
+00:01:11.680 --> 00:01:13.760
+download it, and turn it into a skeleton
+
+00:01:13.760 --> 00:01:15.920
+that other users can select or that we
+
+00:01:15.920 --> 00:01:17.920
+can select in the future, then that's
+
+00:01:17.920 --> 00:01:21.040
+where we would perform this action.
+
+00:01:21.040 --> 00:01:22.799
+There's themes where we can do similar
+
+00:01:22.799 --> 00:01:25.680
+where we can disable certain themes.
+
+00:01:25.680 --> 00:01:27.360
+media where we can set some media
+
+00:01:27.360 --> 00:01:30.000
+policies associated with image size,
+
+00:01:30.000 --> 00:01:33.439
+image quality, acceptable formats and
+
+00:01:33.439 --> 00:01:35.280
+thirdparty integrations which is still
+
+00:01:35.280 --> 00:01:37.840
+being built out for AI, YouTube and the
+
+00:01:37.840 --> 00:01:39.840
+future.

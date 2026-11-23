@@ -5,9 +5,9 @@ Where to start
 
 These areas of Learn HAX map most directly to what Cat wants to do:
 
-*   [Editing & Authoring](/tutorial-library/editing-authoring) — get comfortable opening a page, adding blocks, and using slash commands.
-*   [Creating & Structuring Content](/tutorial-library/creating-structuring-content) — build and reorder the outline of a site.
-*   [Working with Media](/tutorial-library/working-with-media) — drop in video and images without touching code.
-*   [Block Reference](/block-reference) — browse every block you can insert into a page.
+*   [Editing & Authoring](tutorial-library/editing-authoring) — get comfortable opening a page, adding blocks, and using slash commands.
+*   [Creating & Structuring Content](tutorial-library/creating-structuring-content) — build and reorder the outline of a site.
+*   [Working with Media](tutorial-library/working-with-media) — drop in video and images without touching code.
+*   [Block Reference](block-reference) — browse every block you can insert into a page.
 
-When you're ready to bring existing material in, see [Import Content](/import-content) for DOCX and spreadsheet import paths.
+When you're ready to bring existing material in, see [Import Content](import-content) for DOCX and spreadsheet import paths.

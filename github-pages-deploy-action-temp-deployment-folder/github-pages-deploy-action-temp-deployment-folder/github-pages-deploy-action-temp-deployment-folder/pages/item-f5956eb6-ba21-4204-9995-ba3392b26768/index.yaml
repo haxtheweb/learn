@@ -1,0 +1,25 @@
+id: item-f5956eb6-ba21-4204-9995-ba3392b26768
+indent: 1
+location: pages/item-f5956eb6-ba21-4204-9995-ba3392b26768/index.yaml
+slug: tutorial-library/developer-onboarding
+order: 5
+parent: item-1467f036-344e-4c49-8232-6b1f6a730c76
+title: Developer Onboarding
+description: ''
+metadata:
+  tags: developer,developer,onboarding
+  fields:
+    skill: developer
+    persona:
+      - developer
+    capability:
+      - onboarding
+  published: true
+  hideInMenu: false
+  created: 1788285968
+  updated: 1788285968
+content: |
+  <p>This section includes the following pages:</p>
+  <ul>
+    <li><a href="/tutorial-library/developer-onboarding/developer-onboarding">Developer Onboarding</a></li>
+  </ul>

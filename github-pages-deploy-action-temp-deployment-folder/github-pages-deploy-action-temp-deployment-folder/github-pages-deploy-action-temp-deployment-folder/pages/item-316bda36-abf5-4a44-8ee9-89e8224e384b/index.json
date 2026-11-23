@@ -1,0 +1,29 @@
+{
+  "id": "item-316bda36-abf5-4a44-8ee9-89e8224e384b",
+  "indent": 2,
+  "location": "pages/item-316bda36-abf5-4a44-8ee9-89e8224e384b/index.json",
+  "slug": "block-reference/layout/play-list",
+  "order": 3,
+  "parent": "item-ba174e9f-0ba4-4484-bd8a-df6c63dcd181",
+  "title": "Play List",
+  "description": "",
+  "metadata": {
+    "tags": "beginner,content-author,creator,reference,blocks",
+    "fields": {
+      "skill": "beginner",
+      "persona": [
+        "content-author",
+        "creator"
+      ],
+      "capability": [
+        "reference",
+        "blocks"
+      ]
+    },
+    "published": true,
+    "hideInMenu": false,
+    "created": 1788285969,
+    "updated": 1788285969
+  },
+  "content": "\n<p>A play list can be used to organize images and other blocks in a simple slider / slide-show format.</p>\n<h2 data-original-level=\"H2\" id=\"header-585177dc-ac44-28c6-df85-fb83a938f92a\">Example</h2>\n<play-list aspect-ratio=\"16:9\" slide=\"0\" orientation=\"horizontal\" pagination=\"\" navigation=\"\" padding-bottom=\"32\" padding-top=\"32\" padding-right=\"32\" padding-left=\"32\"><img src=\"https://cdn2.thecatapi.com/images/9j5.jpg\"><img src=\"https://cdn2.thecatapi.com/images/12.jpg\"></play-list>\n"
+}

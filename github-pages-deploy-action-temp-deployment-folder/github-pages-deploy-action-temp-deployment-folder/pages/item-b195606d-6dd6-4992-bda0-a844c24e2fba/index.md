@@ -5,9 +5,9 @@
 Blocks & tutorials you'll use
 -----------------------------
 
-*   [HAXcms Dashboard](/tutorial-library/dashboard-site-basics/haxcms-dashboard) — create the site from the dashboard.
-*   [Creating & Structuring Content](/tutorial-library/creating-structuring-content) — add pages for About, Meetings, Photos, Contact.
-*   [Working with Media](/tutorial-library/working-with-media) — add a photo gallery and meeting videos.
-*   [Image Gallery](/block-reference/multimedia/image-gallery) and [Collection List](/block-reference/layout/collection-list) — present members and events.
+*   [HAXcms Dashboard](tutorial-library/dashboard-site-basics/haxcms-dashboard) — create the site from the dashboard.
+*   [Creating & Structuring Content](tutorial-library/creating-structuring-content) — add pages for About, Meetings, Photos, Contact.
+*   [Working with Media](tutorial-library/working-with-media) — add a photo gallery and meeting videos.
+*   [Image Gallery](block-reference/multimedia/image-gallery) and [Collection List](block-reference/layout/collection-list) — present members and events.
 
 Because HAX sites are portable files, the club owns its website and can move hosts at any time.

@@ -1,0 +1,402 @@
+{
+    "title": "slash-commands",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1520,
+            "height": 873,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "http://localhost:3000/_sites/hax100/#h2-471275594",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "http://localhost:3000/_sites/hax100/#h2-471275594",
+                    "title": "hax100"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "haxcms-site-editor-ui",
+                    "#editbutton",
+                    "#icon",
+                    "#svg-polyfill"
+                ],
+                [
+                    "pierce/#editbutton",
+                    "pierce/#svg-polyfill"
+                ]
+            ],
+            "offsetY": 15,
+            "offsetX": 12
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/[role=\"article\"]",
+                    "aria/[role=\"paragraph\"]"
+                ],
+                [
+                    "clean-one",
+                    "#hax",
+                    "p"
+                ],
+                [
+                    "pierce/clean-one",
+                    "pierce/p"
+                ]
+            ],
+            "offsetY": 82.5999755859375,
+            "offsetX": 307.1999816894531
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Enter"
+        },
+        {
+            "type": "keyUp",
+            "key": "Enter",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "/"
+        },
+        {
+            "type": "keyUp",
+            "key": "/",
+            "target": "main"
+        },
+        {
+            "type": "change",
+            "value": "video",
+            "selectors": [
+                [
+                    "super-daemon",
+                    "super-daemon-ui",
+                    "super-daemon-search",
+                    "#inputfilter",
+                    "#inputfilter\\."
+                ],
+                [
+                    "pierce/super-daemon",
+                    "pierce/#inputfilter\\."
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Enter"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "\\"
+        },
+        {
+            "type": "keyUp",
+            "key": "\\",
+            "target": "main"
+        },
+        {
+            "type": "keyUp",
+            "key": "Enter",
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "p:nth-of-type(2)"
+                ],
+                [
+                    "pierce/p:nth-of-type(2)"
+                ]
+            ],
+            "offsetY": 26.4124755859375,
+            "offsetX": 353.1999816894531
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "/"
+        },
+        {
+            "type": "keyUp",
+            "key": "/",
+            "target": "main"
+        },
+        {
+            "type": "change",
+            "value": "head",
+            "selectors": [
+                [
+                    "super-daemon",
+                    "super-daemon-ui",
+                    "super-daemon-search",
+                    "#inputfilter",
+                    "#inputfilter\\."
+                ],
+                [
+                    "pierce/super-daemon",
+                    "pierce/#inputfilter\\."
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "ArrowDown"
+        },
+        {
+            "type": "keyUp",
+            "key": "ArrowDown",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "ArrowDown"
+        },
+        {
+            "type": "keyUp",
+            "key": "ArrowDown",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "ArrowDown"
+        },
+        {
+            "type": "keyUp",
+            "key": "ArrowDown",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Enter"
+        },
+        {
+            "type": "keyUp",
+            "key": "Enter",
+            "target": "main"
+        },
+        {
+            "type": "change",
+            "value": "\n\n\nCourseOutline the course description, learning objectives, required materials, grading breakdown, and major deadlines\n\n. Keep this page focused on the big picture of what learners will accomplish.THeadingand start typingsdf",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "hax-body"
+                ],
+                [
+                    "pierce/hax-body"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "keyUp",
+            "key": "t",
+            "target": "main"
+        },
+        {
+            "type": "change",
+            "value": "\n\n\nCourseOutline the course description, learning objectives, required materials, grading breakdown, and major deadlines\n\n. Keep this page focused on the big picture of what learners will accomplish.Then we have oneand start typingsdf",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "hax-body"
+                ],
+                [
+                    "pierce/hax-body"
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Enter"
+        },
+        {
+            "type": "keyUp",
+            "key": "Enter",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "/"
+        },
+        {
+            "type": "keyUp",
+            "key": "/",
+            "target": "main"
+        },
+        {
+            "type": "change",
+            "value": "ul",
+            "selectors": [
+                [
+                    "super-daemon",
+                    "super-daemon-ui",
+                    "super-daemon-search",
+                    "#inputfilter",
+                    "#inputfilter\\."
+                ],
+                [
+                    "pierce/super-daemon",
+                    "pierce/#inputfilter\\."
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "a"
+        },
+        {
+            "type": "keyUp",
+            "key": "Control",
+            "target": "main"
+        },
+        {
+            "type": "keyUp",
+            "key": "a",
+            "target": "main"
+        },
+        {
+            "type": "change",
+            "value": "list",
+            "selectors": [
+                [
+                    "super-daemon",
+                    "super-daemon-ui",
+                    "super-daemon-search",
+                    "#inputfilter",
+                    "#inputfilter\\."
+                ],
+                [
+                    "pierce/super-daemon",
+                    "pierce/#inputfilter\\."
+                ]
+            ],
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Enter"
+        },
+        {
+            "type": "keyUp",
+            "key": "Enter",
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "p:nth-of-type(2)"
+                ],
+                [
+                    "pierce/p:nth-of-type(2)"
+                ]
+            ],
+            "offsetY": 20.01251220703125,
+            "offsetX": 74.19998168945312
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "/"
+        },
+        {
+            "type": "keyUp",
+            "key": "/",
+            "target": "main"
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "li:nth-of-type(2)"
+                ],
+                [
+                    "pierce/li:nth-of-type(2)"
+                ]
+            ],
+            "offsetY": 25.01251220703125,
+            "offsetX": 630.2000122070312
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Filter commands"
+                ],
+                [
+                    "haxcms-site-editor-ui",
+                    "#search",
+                    "#inputfilter",
+                    "#inputfilter\\."
+                ],
+                [
+                    "pierce/haxcms-site-editor-ui",
+                    "pierce/#inputfilter\\."
+                ]
+            ],
+            "offsetY": 3,
+            "offsetX": 89
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "clean-one",
+                    "#hax",
+                    "hax-body",
+                    "#bodycontainer"
+                ],
+                [
+                    "pierce/#bodycontainer"
+                ]
+            ],
+            "offsetY": 950.4000244140625,
+            "offsetX": 22.199981689453125
+        }
+    ]
+}

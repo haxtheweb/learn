@@ -18,11 +18,11 @@ metadata:
   published: true
   hideInMenu: false
   created: 1788285968
-  updated: 1788285968
+  updated: 1788288624
 content: |
   <p>This section includes the following pages:</p>
   <ul>
-    <li><a href="/import-content/create-site-from-docx">Create Site from DOCX</a></li>
-    <li><a href="/import-content/xlsx-data-table-and-site-import">XLSX Data Table and Site Import</a></li>
-    <li><a href="/import-content/migrate-data-to-hax">Migrate Data to HAX</a></li>
+    <li><a href="import-content/create-site-from-docx">Create Site from DOCX</a></li>
+    <li><a href="import-content/xlsx-data-table-and-site-import">XLSX Data Table and Site Import</a></li>
+    <li><a href="import-content/migrate-data-to-hax">Migrate Data to HAX</a></li>
   </ul>

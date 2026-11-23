@@ -1,0 +1,27 @@
+{
+  "id": "item-1467f036-344e-4c49-8232-6b1f6a730c76",
+  "indent": 0,
+  "location": "pages/item-1467f036-344e-4c49-8232-6b1f6a730c76/index.json",
+  "slug": "tutorial-library",
+  "order": 1,
+  "parent": null,
+  "title": "Tutorial Library",
+  "description": "",
+  "metadata": {
+    "tags": "beginner,content-author,site-builder,creator",
+    "fields": {
+      "skill": "beginner",
+      "persona": [
+        "content-author",
+        "site-builder",
+        "creator"
+      ],
+      "capability": []
+    },
+    "published": true,
+    "hideInMenu": false,
+    "created": 1788285967,
+    "updated": 1788285967
+  },
+  "content": "<p>This section includes the following pages:</p>\n<ul>\n  <li><a href=\"/tutorial-library/dashboard-site-basics\">Dashboard &amp; Site Basics</a></li>\n  <li><a href=\"/tutorial-library/creating-structuring-content\">Creating &amp; Structuring Content</a></li>\n  <li><a href=\"/tutorial-library/editing-authoring\">Editing &amp; Authoring</a></li>\n  <li><a href=\"/tutorial-library/working-with-media\">Working with Media</a></li>\n  <li><a href=\"/tutorial-library/site-health-reports\">Site Health &amp; Reports</a></li>\n  <li><a href=\"/tutorial-library/developer-onboarding\">Developer Onboarding</a></li>\n</ul>\n"
+}

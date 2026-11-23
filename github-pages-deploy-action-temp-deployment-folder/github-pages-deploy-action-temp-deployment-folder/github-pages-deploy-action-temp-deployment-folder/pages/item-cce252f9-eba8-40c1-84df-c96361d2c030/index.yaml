@@ -1,0 +1,44 @@
+id: item-cce252f9-eba8-40c1-84df-c96361d2c030
+indent: 1
+location: pages/item-cce252f9-eba8-40c1-84df-c96361d2c030/index.yaml
+slug: using-hax-for/courses-and-resumes
+order: 2
+parent: item-09a2f55a-0fbe-4e8a-a9d1-966cd133584a
+title: Courses & Resumes
+description: ''
+metadata:
+  tags: beginner,content-author,site-builder,concepts,pages-structure
+  fields:
+    skill: beginner
+    persona:
+      - content-author
+      - site-builder
+    capability:
+      - concepts
+      - pages-structure
+  published: true
+  hideInMenu: false
+  created: 1788285970
+  updated: 1788285970
+content: >
+  <p><strong>Goal:</strong> Use HAX to author a course site or a structured
+  resume/CV — an outline of pages with instructional content, assessments, and
+  supporting media, or a cleanly outlined record of experience.</p>
+
+  <stop-note title="This is a concept stub" accent-color="grey"
+  icon="stopnoteicons:warning-icon" status="warning" message="A dedicated
+  concept walkthrough video for courses and resumes is coming soon.">
+    <p slot="message">A dedicated concept walkthrough video for courses and resumes is coming soon. The tutorials and blocks below are enough to build either today.</p>
+  </stop-note>
+
+  <h2>Blocks &amp; tutorials you'll use</h2>
+
+  <ul>
+    <li><a href="/tutorial-library/creating-structuring-content">Creating &amp; Structuring Content</a> — build the course or resume outline.</li>
+    <li><a href="/import-content">Import Content</a> — convert an existing DOCX or spreadsheet into a structured site.</li>
+    <li><a href="/block-reference/instructional">Instructional blocks</a> — question types, self checks, stop notes, timelines, and tables for course content.</li>
+    <li><a href="/block-reference/layout/column-layout">Column Layout</a> and <a href="/block-reference/layout/learning-component">Learning Component</a> — structure pages for readability.</li>
+  </ul>
+
+  <p>Course sites built in HAX are OER-friendly: the content is portable and can
+  be remixed by others.</p>
