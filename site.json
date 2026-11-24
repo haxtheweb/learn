@@ -20,7 +20,8 @@
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
-      }
+      },
+      "domain": "https://learn.hax.cloud/"
     },
     "theme": {
       "element": "custom-learn-hax-theme",
