@@ -1,8 +1,8 @@
 name: Accessibility
 
 # axe-core scan of every page in site.json, rendered the way the deployed
-# site is: the same static build as "Build and Deploy" (npm run
-# ghpages:build), with HAX elements loaded from the HAX CDN. Checks WCAG 2.0
+# site is: the same static build Vercel runs (npm run ghpages:build, set
+# in vercel.json), with HAX elements loaded from the HAX CDN. Checks WCAG 2.0
 # and 2.1 A and AA. .github/a11y/baseline.json records the violations the
 # site had when this check was added; a pull request fails only when a page
 # gets a new kind of violation or more failing elements than the baseline.
