@@ -107,7 +107,8 @@ export function promptFor(spots, note) {
 
 /** a new issue in haxtheweb/issues, filled in (GitHub opens it for the person to send) */
 export function issueUrl(spots, note) {
-  const body = [
+  // the goggles-tutorial issue form in haxtheweb/issues takes its fields by id: description, spots
+  const description = [
     "These parts of Learn HAX tutorials no longer match HAX (reported with the Update lens on " +
       SITE +
       ").",
@@ -117,14 +118,16 @@ export function issueUrl(spots, note) {
         `${i + 1}. **${s.page.title}** (${s.page.url}), ${s.block.kind.toLowerCase()} ${s.block.index + 1}: ${s.problem}${s.fix ? `\n   Should be: ${s.fix}` : ""}`,
     ),
     note ? "\n" + note : "",
-    "",
-    "```" + LEARN_FORMAT,
-    JSON.stringify(learnBlock(spots, note)),
-    "```",
   ].join("\n");
+  const block = JSON.stringify(learnBlock(spots, note));
   const q = new URLSearchParams({
+    template: "goggles-tutorial.yml",
     title: "[learn] Tutorial needs updating: " + titles(spots),
-    body: body.length > 6000 ? body.slice(0, 5990) + "\n…" : body,
+    description:
+      description.length > 3000
+        ? description.slice(0, 2990) + "\n…"
+        : description,
+    spots: block.length > 3000 ? block.slice(0, 2990) + "…" : block,
   });
   return ISSUES + "?" + q.toString();
 }
@@ -147,12 +150,16 @@ const State = {
   add(spot) {
     if (
       this.spots.find(
-        (s) => s.page.slug === spot.page.slug && s.block.index === spot.block.index,
+        (s) =>
+          s.page.slug === spot.page.slug && s.block.index === spot.block.index,
       )
     ) {
       return false;
     }
-    this.spots = [...this.spots, { id: nextId++, problem: "", fix: "", ...spot }];
+    this.spots = [
+      ...this.spots,
+      { id: nextId++, problem: "", fix: "", ...spot },
+    ];
     this.changed();
     return true;
   },
