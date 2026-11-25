@@ -87,7 +87,7 @@ Before starting work on an issue, comment on it saying you'd like to work on it 
 Join the community
 ------------------
 
-*   **Discord** (real-time help + discussion): [discord.gg/EKYJAjqGhf](https://discord.gg/EKYJAjqGhf)
+*   **Discord** (real-time help + discussion): [discord.gg/aCGxmRHEJP](https://discord.gg/aCGxmRHEJP)
 *   **YouTube** (tutorials): [youtube.com/@haxtheweb](https://www.youtube.com/@haxtheweb)
 *   Try HAX in the browser: [hax.cloud](https://hax.cloud)
 
