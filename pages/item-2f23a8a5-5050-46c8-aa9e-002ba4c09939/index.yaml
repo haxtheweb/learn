@@ -1,0 +1,14 @@
+id: item-2f23a8a5-5050-46c8-aa9e-002ba4c09939
+indent: 0
+location: pages/item-2f23a8a5-5050-46c8-aa9e-002ba4c09939/index.yaml
+slug: about
+order: 9
+parent: null
+title: About
+description: What this site is and who makes it.
+metadata:
+  created: 1795617731
+  updated: 1795617731
+  images: []
+  videos: []
+content: "<p>Learn HAX is where to learn HAX: tutorials, a reference for every block in the editor, and onboarding for people new to it.</p><p>It is made by the HAX project (HAXTheWeb), an open-source effort to let anyone author, remix and publish on the web without needing to learn how the web works. This site is itself a HAX site; <a href=\"https://github.com/haxtheweb/learn\">its source is on GitHub</a>. Its content is shared under the Creative Commons Attribution-ShareAlike (CC BY-SA) license.</p><p>To see how every part of HAX connects, visit <a href=\"https://hax.cloud/\">hax.cloud</a>. To get in touch, use the <a href=\"contact\">Contact</a> page.</p>"
