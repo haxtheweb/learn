@@ -1,391 +1,391 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://localhost/learn/start-here</loc>
+    <loc>https://learn.hax.cloud/start-here</loc>
     <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/start-here/cat</loc>
+    <loc>https://learn.hax.cloud/start-here/cat</loc>
     <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/start-here/chuck</loc>
+    <loc>https://learn.hax.cloud/start-here/chuck</loc>
     <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/start-here/sven</loc>
+    <loc>https://learn.hax.cloud/start-here/sven</loc>
     <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/start-here/luna</loc>
+    <loc>https://learn.hax.cloud/start-here/luna</loc>
     <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/dashboard-site-basics</loc>
+    <loc>https://learn.hax.cloud/tutorial-library/dashboard-site-basics</loc>
     <lastmod>2026-09-01T18:50:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/dashboard-site-basics/haxcms-dashboard</loc>
+    <loc>https://learn.hax.cloud/tutorial-library/dashboard-site-basics/haxcms-dashboard</loc>
     <lastmod>2026-09-01T18:06:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/dashboard-site-basics/site-admin-settings-dashboard</loc>
+    <loc>https://learn.hax.cloud/tutorial-library/dashboard-site-basics/site-admin-settings-dashboard</loc>
     <lastmod>2026-09-01T18:06:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/dashboard-site-basics/system-settings-dashboard</loc>
+    <loc>https://learn.hax.cloud/tutorial-library/dashboard-site-basics/system-settings-dashboard</loc>
     <lastmod>2026-09-01T18:06:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/creating-structuring-content/create-a-new-page</loc>
+    <loc>https://learn.hax.cloud/tutorial-library/creating-structuring-content/create-a-new-page</loc>
     <lastmod>2026-09-01T18:06:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/editing-authoring/edit-a-page</loc>
+    <loc>https://learn.hax.cloud/tutorial-library/editing-authoring/edit-a-page</loc>
     <lastmod>2026-09-01T18:06:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library</loc>
+    <loc>https://learn.hax.cloud/tutorial-library</loc>
     <lastmod>2026-09-01T18:50:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/creating-structuring-content</loc>
+    <loc>https://learn.hax.cloud/tutorial-library/creating-structuring-content</loc>
     <lastmod>2026-09-01T18:50:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/creating-structuring-content/reorder-organize-pages</loc>
+    <loc>https://learn.hax.cloud/tutorial-library/creating-structuring-content/reorder-organize-pages</loc>
     <lastmod>2026-09-01T18:06:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/creating-structuring-content/managing-course-structure</loc>
+    <loc>https://learn.hax.cloud/tutorial-library/creating-structuring-content/managing-course-structure</loc>
     <lastmod>2026-09-01T18:06:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/editing-authoring</loc>
+    <loc>https://learn.hax.cloud/tutorial-library/editing-authoring</loc>
     <lastmod>2026-09-01T18:50:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/editing-authoring/adding-blocks</loc>
+    <loc>https://learn.hax.cloud/tutorial-library/editing-authoring/adding-blocks</loc>
     <lastmod>2026-09-01T18:06:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/editing-authoring/slash-commands</loc>
+    <loc>https://learn.hax.cloud/tutorial-library/editing-authoring/slash-commands</loc>
     <lastmod>2026-09-01T18:06:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/working-with-media/adding-video-blocks</loc>
+    <loc>https://learn.hax.cloud/tutorial-library/working-with-media/adding-video-blocks</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/site-health-reports/reports</loc>
+    <loc>https://learn.hax.cloud/tutorial-library/site-health-reports/reports</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/developer-onboarding/developer-onboarding</loc>
+    <loc>https://learn.hax.cloud/tutorial-library/developer-onboarding/developer-onboarding</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/import-content/create-site-from-docx</loc>
+    <loc>https://learn.hax.cloud/import-content/create-site-from-docx</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional</loc>
+    <loc>https://learn.hax.cloud/block-reference/instructional</loc>
     <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional/math</loc>
+    <loc>https://learn.hax.cloud/block-reference/instructional/math</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional/question-types</loc>
+    <loc>https://learn.hax.cloud/block-reference/instructional/question-types</loc>
     <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional/question-types/fill-in-the-blanks</loc>
+    <loc>https://learn.hax.cloud/block-reference/instructional/question-types/fill-in-the-blanks</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional/question-types/mark-the-words</loc>
+    <loc>https://learn.hax.cloud/block-reference/instructional/question-types/mark-the-words</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional/question-types/matching-drag-and-drop</loc>
+    <loc>https://learn.hax.cloud/block-reference/instructional/question-types/matching-drag-and-drop</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional/question-types/multiple-choice</loc>
+    <loc>https://learn.hax.cloud/block-reference/instructional/question-types/multiple-choice</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional/question-types/short-answer-question</loc>
+    <loc>https://learn.hax.cloud/block-reference/instructional/question-types/short-answer-question</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional/question-types/sorting-question</loc>
+    <loc>https://learn.hax.cloud/block-reference/instructional/question-types/sorting-question</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/working-with-media</loc>
+    <loc>https://learn.hax.cloud/tutorial-library/working-with-media</loc>
     <lastmod>2026-09-01T18:50:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/working-with-media/working-with-images</loc>
+    <loc>https://learn.hax.cloud/tutorial-library/working-with-media/working-with-images</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/site-health-reports</loc>
+    <loc>https://learn.hax.cloud/tutorial-library/site-health-reports</loc>
     <lastmod>2026-09-01T18:50:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/tutorial-library/developer-onboarding</loc>
+    <loc>https://learn.hax.cloud/tutorial-library/developer-onboarding</loc>
     <lastmod>2026-09-01T18:50:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/import-content/xlsx-data-table-and-site-import</loc>
+    <loc>https://learn.hax.cloud/import-content/xlsx-data-table-and-site-import</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/import-content</loc>
+    <loc>https://learn.hax.cloud/import-content</loc>
     <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/import-content/migrate-data-to-hax</loc>
+    <loc>https://learn.hax.cloud/import-content/migrate-data-to-hax</loc>
     <lastmod>2026-09-01T18:06:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference</loc>
+    <loc>https://learn.hax.cloud/block-reference</loc>
     <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional/question-types/tagging-question</loc>
+    <loc>https://learn.hax.cloud/block-reference/instructional/question-types/tagging-question</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional/question-types/true-false-question</loc>
+    <loc>https://learn.hax.cloud/block-reference/instructional/question-types/true-false-question</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional/self-check</loc>
+    <loc>https://learn.hax.cloud/block-reference/instructional/self-check</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional/stop-note</loc>
+    <loc>https://learn.hax.cloud/block-reference/instructional/stop-note</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional/table</loc>
+    <loc>https://learn.hax.cloud/block-reference/instructional/table</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/instructional/timeline</loc>
+    <loc>https://learn.hax.cloud/block-reference/instructional/timeline</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/multimedia/3d-model</loc>
+    <loc>https://learn.hax.cloud/block-reference/multimedia/3d-model</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/layout/collection-list</loc>
+    <loc>https://learn.hax.cloud/block-reference/layout/collection-list</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/using-hax-for/club-websites</loc>
+    <loc>https://learn.hax.cloud/using-hax-for/club-websites</loc>
     <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/multimedia</loc>
+    <loc>https://learn.hax.cloud/block-reference/multimedia</loc>
     <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/multimedia/gif-player</loc>
+    <loc>https://learn.hax.cloud/block-reference/multimedia/gif-player</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/multimedia/inline-audio</loc>
+    <loc>https://learn.hax.cloud/block-reference/multimedia/inline-audio</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/multimedia/video-player</loc>
+    <loc>https://learn.hax.cloud/block-reference/multimedia/video-player</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/multimedia/media-playlist</loc>
+    <loc>https://learn.hax.cloud/block-reference/multimedia/media-playlist</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/multimedia/image-gallery</loc>
+    <loc>https://learn.hax.cloud/block-reference/multimedia/image-gallery</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/layout/column-layout</loc>
+    <loc>https://learn.hax.cloud/block-reference/layout/column-layout</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/layout</loc>
+    <loc>https://learn.hax.cloud/block-reference/layout</loc>
     <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/layout/learning-component</loc>
+    <loc>https://learn.hax.cloud/block-reference/layout/learning-component</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/block-reference/layout/play-list</loc>
+    <loc>https://learn.hax.cloud/block-reference/layout/play-list</loc>
     <lastmod>2026-09-01T18:06:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/using-hax-for</loc>
-    <lastmod>2026-09-01T18:50:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://localhost/learn/using-hax-for/portfolios</loc>
-    <lastmod>2026-09-01T18:50:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost/learn/using-hax-for/courses-and-resumes</loc>
-    <lastmod>2026-09-01T18:50:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost/learn/troubleshooting-faq</loc>
+    <loc>https://learn.hax.cloud/using-hax-for</loc>
     <lastmod>2026-09-01T18:50:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/release-notes</loc>
+    <loc>https://learn.hax.cloud/using-hax-for/portfolios</loc>
+    <lastmod>2026-09-01T18:50:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://learn.hax.cloud/using-hax-for/courses-and-resumes</loc>
+    <lastmod>2026-09-01T18:50:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://learn.hax.cloud/troubleshooting-faq</loc>
+    <lastmod>2026-09-01T18:50:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://learn.hax.cloud/release-notes</loc>
     <lastmod>2026-09-01T18:06:10.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/arcade</loc>
+    <loc>https://learn.hax.cloud/arcade</loc>
     <lastmod>2026-11-19T20:00:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://localhost/learn/contribute</loc>
+    <loc>https://learn.hax.cloud/contribute</loc>
     <lastmod>2026-11-19T20:00:04.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>

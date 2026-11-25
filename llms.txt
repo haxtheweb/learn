@@ -8,79 +8,83 @@ Use HAX CLI and ecosystem tooling to maintain human-authored content while keepi
 Managed files (feeds, search indexes, manifests, and this `llms.txt`) are generated artifacts and should be rebuilt by tooling.
 
 ## Core resources
-- [site.json](https://localhost/learn/site.json): Canonical site manifest and navigation tree in JSON Outline Schema format.
-- [llms.txt](https://localhost/learn/llms.txt): LLM-oriented guide to this site and its machine-readable resources.
+- [site.json](https://learn.hax.cloud/site.json): Canonical site manifest and navigation tree in JSON Outline Schema format.
+- [llms.txt](https://learn.hax.cloud/llms.txt): LLM-oriented guide to this site and its machine-readable resources.
+- [llms-full.txt](https://learn.hax.cloud/llms-full.txt): The whole site as one markdown document, in outline order.
+- [Whole site as HTML](https://learn.hax.cloud/x/api/v1/site/export/html): Every page in one HTML document.
+- [AGENTS.md](https://learn.hax.cloud/AGENTS.md): Instructions for AI agents working on this site's files.
 
 ## Pages
-- [Start Here](https://localhost/learn/pages/item-c79ab22a-2fbc-4054-9175-48c65fef2dd6/index.md)
-- [Cat — Content Author](https://localhost/learn/pages/item-8e8d4f78-af04-47ef-835e-560cafa19c31/index.md)
-- [Chuck — Site Builder](https://localhost/learn/pages/item-e5618910-6223-409f-9bcf-91f37f8aad8d/index.md)
-- [Sven — Creator](https://localhost/learn/pages/item-0380d076-dc72-4ed9-8926-1c57f94697a6/index.md)
-- [Luna — Developer](https://localhost/learn/pages/item-1dd36be7-d633-49e8-8783-ae66e95d26e3/index.md)
-- [Dashboard & Site Basics](https://localhost/learn/pages/item-1f0d127e-0642-43dd-8594-716fbb0f3cd9/index.md)
-- [HAXcms Dashboard](https://localhost/learn/pages/item-bf78e0b9-41fa-42cc-a47a-1b94cfe81709/index.md)
-- [Site Admin Settings Dashboard](https://localhost/learn/pages/item-037743a5-e7f6-4b3c-87af-8a509aac203d/index.md)
-- [System Settings Dashboard](https://localhost/learn/pages/item-6b2dd56a-878c-4208-8674-902f7a8e7e6a/index.md)
-- [Create a New Page](https://localhost/learn/pages/item-6943e66d-8a7f-4a3a-bc95-57a5d022303e/index.md)
-- [Edit a Page](https://localhost/learn/pages/item-a18c52a4-5f61-46cb-ac85-d954e7473977/index.md)
-- [Adding Video Blocks](https://localhost/learn/pages/item-3434a9e5-a635-4eb8-917d-538f1e5dda05/index.md)
-- [Reports](https://localhost/learn/pages/item-3f28ebc9-7bf2-4b1b-80bc-2441f9c7bca7/index.md)
-- [Developer Onboarding](https://localhost/learn/pages/item-74537f8b-33c9-48d5-8800-370b9db8ea29/index.md)
-- [Create Site from DOCX](https://localhost/learn/pages/item-5fb2118f-5546-4a4b-bdd8-e9bc4d6343d9/index.md)
-- [Instructional](https://localhost/learn/pages/item-1fad16d2-a62a-4895-b90b-052b834c8938/index.md)
-- [Math](https://localhost/learn/pages/item-c787686e-1a25-4f74-ab98-9164d2ec7c3b/index.md)
-- [Question Types](https://localhost/learn/pages/item-cdb028a2-5397-4117-a736-c602121ff70b/index.md)
-- [Fill in the Blanks](https://localhost/learn/pages/item-146c5613-144a-4b57-800f-73e4affe28d5/index.md)
-- [Mark the Words](https://localhost/learn/pages/item-dab9887d-4ca6-4e89-b8ae-b1ae0e7566c9/index.md)
-- [Matching / Drag and Drop](https://localhost/learn/pages/item-90093686-d1c7-4464-8656-0f407e82e193/index.md)
-- [Multiple Choice](https://localhost/learn/pages/item-d003549b-8e72-4887-9e63-ebc8392625fe/index.md)
-- [Short Answer Question](https://localhost/learn/pages/item-838af7af-7e6f-45de-8f75-8728d0fc5643/index.md)
-- [Sorting Question](https://localhost/learn/pages/item-6995c339-78b2-44ef-82a7-9f93c8ac2a8f/index.md)
-- [Tagging Question](https://localhost/learn/pages/item-bb895134-c091-41fb-abb0-0a37b1c17fe7/index.md)
-- [True / False Question](https://localhost/learn/pages/item-ef38f789-2cd8-4400-8e25-e34f4b48ff24/index.md)
-- [Self Check](https://localhost/learn/pages/item-00f0e62b-01d4-4202-add8-7e8490122049/index.md)
-- [Stop Note](https://localhost/learn/pages/item-08a260e1-c5be-4f4e-ae8e-b6083916bb90/index.md)
-- [Table](https://localhost/learn/pages/item-5efd455d-d2b8-4127-a4c4-f7c7dfc4d153/index.md)
-- [Timeline](https://localhost/learn/pages/item-e16de22c-5a24-4bc4-890f-0a3054ecdae9/index.md)
-- [3D Model](https://localhost/learn/pages/item-136d1c19-6fb7-409c-853d-6f8f05c9e913/index.md)
-- [Collection List](https://localhost/learn/pages/item-a1f98d11-c0b8-417f-b4f8-acbb5eba8b5d/index.md)
-- [Club Websites](https://localhost/learn/pages/item-b195606d-6dd6-4992-bda0-a844c24e2fba/index.md)
-- [Tutorial Library](https://localhost/learn/pages/item-1467f036-344e-4c49-8232-6b1f6a730c76/index.md)
-- [Creating & Structuring Content](https://localhost/learn/pages/item-33529864-7498-46e7-b27a-8487845c28a5/index.md)
-- [Reorder & Organize Pages](https://localhost/learn/pages/item-b078960a-206b-4c66-b467-ab700f69fbf4/index.md)
-- [Managing Course Structure](https://localhost/learn/pages/item-55ad6fa9-0217-4770-b35c-ed0e80519077/index.md)
-- [Editing & Authoring](https://localhost/learn/pages/item-77e491c7-219b-4501-bbd2-76c71aea802f/index.md)
-- [Adding Blocks](https://localhost/learn/pages/item-d1d8542a-0da4-469c-bb8d-78ef5c7ed258/index.md)
-- [Slash Commands](https://localhost/learn/pages/item-5bb4d1cd-9c23-4751-998c-992d89b33386/index.md)
-- [Working with Media](https://localhost/learn/pages/item-597d9a46-06d4-4a04-9c7f-788078208345/index.md)
-- [Working with Images](https://localhost/learn/pages/item-73ac8a17-d53e-4c52-bb3e-f7c626d48e33/index.md)
-- [Site Health & Reports](https://localhost/learn/pages/item-2038f2a6-45b4-4342-ae4d-c7e01f312822/index.md)
-- [Developer Onboarding](https://localhost/learn/pages/item-f5956eb6-ba21-4204-9995-ba3392b26768/index.md)
-- [XLSX Data Table and Site Import](https://localhost/learn/pages/item-5b3b531b-8bdb-45d1-8f2e-ede9a6ed42f0/index.md)
-- [Multimedia](https://localhost/learn/pages/item-3d74bcd7-710b-4a3c-b9eb-96ae68e9fadf/index.md)
-- [GIF Player](https://localhost/learn/pages/item-36029c31-e700-48d2-b06c-d7bf1c44f381/index.md)
-- [Inline Audio](https://localhost/learn/pages/item-8fda3207-09d4-47b8-9f05-239cbfb2ae1f/index.md)
-- [Video Player](https://localhost/learn/pages/item-8eff8304-de6b-4648-ae0b-26f3f520f5dc/index.md)
-- [Media Playlist](https://localhost/learn/pages/item-78d3584b-1eb5-489f-9355-7c3cb78a61bd/index.md)
-- [Image Gallery](https://localhost/learn/pages/item-1f108878-128d-4a23-b536-cefeabf50c51/index.md)
-- [Column Layout](https://localhost/learn/pages/item-01a77695-139a-4b3c-ac01-71843738454b/index.md)
-- [Portfolios](https://localhost/learn/pages/item-f3b1b432-40a7-45d1-ab36-7d2f717093dc/index.md)
-- [Import Content](https://localhost/learn/pages/item-a55e9f51-e83c-4c33-bbc5-9b82bdb39d72/index.md)
-- [Migrate Data to HAX](https://localhost/learn/pages/item-78c6ec8d-2d94-48d7-bb08-27f06a16bdd4/index.md)
-- [Layout](https://localhost/learn/pages/item-ba174e9f-0ba4-4484-bd8a-df6c63dcd181/index.md)
-- [Learning Component](https://localhost/learn/pages/item-b27c5b27-567e-4abd-a462-4a5811856511/index.md)
-- [Play List](https://localhost/learn/pages/item-316bda36-abf5-4a44-8ee9-89e8224e384b/index.md)
-- [Courses & Resumes](https://localhost/learn/pages/item-cce252f9-eba8-40c1-84df-c96361d2c030/index.md)
-- [Block Reference](https://localhost/learn/pages/item-ec9770f4-33ca-4a02-98fa-32053c5fcac5/index.md)
-- [Using HAX For…](https://localhost/learn/pages/item-09a2f55a-0fbe-4e8a-a9d1-966cd133584a/index.md)
-- [Troubleshooting & FAQ](https://localhost/learn/pages/item-b45608bf-e25d-4928-abea-ee56805430b0/index.md)
-- [Release Notes](https://localhost/learn/pages/item-d1c8060f-493a-4ef9-9ead-80ba1950816f/index.md)
-- [Arcade](https://localhost/learn/pages/item-19a2bd60-9f66-4c63-a281-65e27b5a4d4a/index.md)
-- [Contribute](https://localhost/learn/pages/item-0c352f14-47d1-4c2d-a756-d960fde15617/index.md)
+- [Start Here](https://learn.hax.cloud/pages/item-c79ab22a-2fbc-4054-9175-48c65fef2dd6/index.md): New to HAX? You're in the right place. Learn HAX organizes everything you need to get productive — from your first orientation video to deep reference on every block in the editor.
+- [Cat — Content Author](https://learn.hax.cloud/pages/item-8e8d4f78-af04-47ef-835e-560cafa19c31/index.md): Web content author, knows some HTML Cat has used the web and understands HTML but doesn't write it well enough to feel confident.
+- [Chuck — Site Builder](https://learn.hax.cloud/pages/item-e5618910-6223-409f-9bcf-91f37f8aad8d/index.md): Site builder, can write HTML / CSS / JavaScript Chuck is a site builder.
+- [Sven — Creator](https://learn.hax.cloud/pages/item-0380d076-dc72-4ed9-8926-1c57f94697a6/index.md): Artist, student without web fundamentals Sven is a student studying to be an artist.
+- [Luna — Developer](https://learn.hax.cloud/pages/item-1dd36be7-d633-49e8-8783-ae66e95d26e3/index.md): Front-end developer Luna has written JavaScript for over a decade.
+- [Dashboard & Site Basics](https://learn.hax.cloud/pages/item-1f0d127e-0642-43dd-8594-716fbb0f3cd9/index.md): This section includes the following pages: HAXcms Dashboard Site Admin Settings Dashboard System Settings Dashboard
+- [HAXcms Dashboard](https://learn.hax.cloud/pages/item-bf78e0b9-41fa-42cc-a47a-1b94cfe81709/index.md): How to Create an Online Course in HAXcms ---------------------------------------- Prerequisites ------------- Ensure you have access to the HAXCMS dashboard.
+- [Site Admin Settings Dashboard](https://learn.hax.cloud/pages/item-037743a5-e7f6-4b3c-87af-8a509aac203d/index.md): Exploring and Customizing HAX Site Settings ------------------------------------------- Prerequisites ------------- Before diving into your HAX site settings, ensure you have administrator access to the content management system.
+- [System Settings Dashboard](https://learn.hax.cloud/pages/item-6b2dd56a-878c-4208-8674-902f7a8e7e6a/index.md): How to Configure System Settings in HAXcms ------------------------------------------ Prerequisites ------------- Before you begin, make sure you have administrator access to your HAXcms dashboard.
+- [Create a New Page](https://learn.hax.cloud/pages/item-6943e66d-8a7f-4a3a-bc95-57a5d022303e/index.md): How to Create and Manage Pages in HAX ------------------------------------- Prerequisites ------------- Before you begin, make sure you have access to HAX and are logged into your account.
+- [Edit a Page](https://learn.hax.cloud/pages/item-a18c52a4-5f61-46cb-ac85-d954e7473977/index.md): How to Edit a Page in HACS: Step-by-Step Tutorial ------------------------------------------------- Prerequisites ------------- Permissions: You need editing rights for the page you wish to modify.
+- [Adding Video Blocks](https://learn.hax.cloud/pages/item-3434a9e5-a635-4eb8-917d-538f1e5dda05/index.md): How to Add Video to Your Page: Multiple Methods Explained --------------------------------------------------------- Prerequisites ------------- Before you start, ensure you have editing access to the page.
+- [Reports](https://learn.hax.cloud/pages/item-3f28ebc9-7bf2-4b1b-80bc-2441f9c7bca7/index.md): Reports (beta) provide a variety of ways to optimize the process of maintaining and discovering meaning in sites built with HAX.
+- [Developer Onboarding](https://learn.hax.cloud/pages/item-74537f8b-33c9-48d5-8800-370b9db8ea29/index.md): Single source of truth: issues/CONTRIBUTING.md on GitHub. This page is the readable version of that guide.
+- [Create Site from DOCX](https://learn.hax.cloud/pages/item-5fb2118f-5546-4a4b-bdd8-e9bc4d6343d9/index.md): How to Import a Website from a Word Document Using HAX ------------------------------------------------------ Prerequisites ------------- Word Document: Have your _.docx_ file ready for import.
+- [Instructional](https://learn.hax.cloud/pages/item-1fad16d2-a62a-4895-b90b-052b834c8938/index.md): This section includes the following pages: Math Question Types Self Check Stop Note Table Timeline
+- [Math](https://learn.hax.cloud/pages/item-c787686e-1a25-4f74-ab98-9164d2ec7c3b/index.md): To communicate about concepts in Mathematics a new form of expression language was required to translate chalkboard notation to the web.
+- [Question Types](https://learn.hax.cloud/pages/item-cdb028a2-5397-4117-a736-c602121ff70b/index.md): This section includes the following pages: Fill in the Blanks Mark the Words Matching / Drag and Drop Multiple Choice Short Answer Question Sorting Question Tagging Question True / False Question
+- [Fill in the Blanks](https://learn.hax.cloud/pages/item-146c5613-144a-4b57-800f-73e4affe28d5/index.md): This question type allows the user to complete a sentance by answering in context of other written material.
+- [Mark the Words](https://learn.hax.cloud/pages/item-dab9887d-4ca6-4e89-b8ae-b1ae0e7566c9/index.md): Mark the Words allows you to write a sentence and have the user select individual words as solutions to the question.
+- [Matching / Drag and Drop](https://learn.hax.cloud/pages/item-90093686-d1c7-4464-8656-0f407e82e193/index.md): Matching question, often called a drag and drop, allows for setting drop targets to possible matching answers.
+- [Multiple Choice](https://learn.hax.cloud/pages/item-d003549b-8e72-4887-9e63-ebc8392625fe/index.md): When reading content or processing a lecture, it's a good idea to stop and ask the user questions about what they experienced.
+- [Short Answer Question](https://learn.hax.cloud/pages/item-838af7af-7e6f-45de-8f75-8728d0fc5643/index.md): Short answer supports multiple possible answers and is best utilized with single words for accuracy in user entry.
+- [Sorting Question](https://learn.hax.cloud/pages/item-6995c339-78b2-44ef-82a7-9f93c8ac2a8f/index.md): Sorting questions can be used to make users place items in the correct order.
+- [Tagging Question](https://learn.hax.cloud/pages/item-bb895134-c091-41fb-abb0-0a37b1c17fe7/index.md): Tagging questions allow for a drag and drop or click to select method of answering.
+- [True / False Question](https://learn.hax.cloud/pages/item-ef38f789-2cd8-4400-8e25-e34f4b48ff24/index.md): A simple question type that allows you to supply the question but the user only can pick between true and false.
+- [Self Check](https://learn.hax.cloud/pages/item-00f0e62b-01d4-4202-add8-7e8490122049/index.md): Sometimes after a video or reading a section of content we have a simple question that we want the user to ask themselves to reflect.
+- [Stop Note](https://learn.hax.cloud/pages/item-08a260e1-c5be-4f4e-ae8e-b6083916bb90/index.md): There might be times when we've given out a lot of information to our users all at once, or perhaps there's a critical piece of detail we want to reemphasize before we move on.
+- [Table](https://learn.hax.cloud/pages/item-5efd455d-d2b8-4127-a4c4-f7c7dfc4d153/index.md): The effective sharing and display of large data tables helped build the web as we know it.
+- [Timeline](https://learn.hax.cloud/pages/item-e16de22c-5a24-4bc4-890f-0a3054ecdae9/index.md): Events happen in a sequence, but sometimes it's hard to convey the same meaning in pure written form.
+- [3D Model](https://learn.hax.cloud/pages/item-136d1c19-6fb7-409c-853d-6f8f05c9e913/index.md): As unbelievable as it may be, with the modern web platform we can display advanced 3D models using the _3D Model_ block in HAX.
+- [Collection List](https://learn.hax.cloud/pages/item-a1f98d11-c0b8-417f-b4f8-acbb5eba8b5d/index.md): A collection list is for organizing and automatically presenting "Collection items".
+- [Club Websites](https://learn.hax.cloud/pages/item-b195606d-6dd6-4992-bda0-a844c24e2fba/index.md): Goal: Stand up a simple, maintainable website for a club, team, or community group — with a homepage, an outline of activities/pages, a way to show photos and meeting info, and no ongoing hosting lock-in.
+- [Tutorial Library](https://learn.hax.cloud/pages/item-1467f036-344e-4c49-8232-6b1f6a730c76/index.md): This section includes the following pages: Dashboard & Site Basics Creating & Structuring Content Editing & Authoring Working with Media Site Health & Reports Developer Onboarding
+- [Creating & Structuring Content](https://learn.hax.cloud/pages/item-33529864-7498-46e7-b27a-8487845c28a5/index.md): This section includes the following pages: Create a New Page Reorder & Organize Pages Managing Course Structure
+- [Reorder & Organize Pages](https://learn.hax.cloud/pages/item-b078960a-206b-4c66-b467-ab700f69fbf4/index.md): How to Reorganize Your Site Structure in HAX -------------------------------------------- Prerequisites ------------- Access to your site in HAX Basic familiarity with the HAX interface Before starting, make sure you have editing…
+- [Managing Course Structure](https://learn.hax.cloud/pages/item-55ad6fa9-0217-4770-b35c-ed0e80519077/index.md): The outline designer is an interface for bulk management of the site outline.
+- [Editing & Authoring](https://learn.hax.cloud/pages/item-77e491c7-219b-4501-bbd2-76c71aea802f/index.md): This section includes the following pages: Edit a Page Adding Blocks Slash Commands
+- [Adding Blocks](https://learn.hax.cloud/pages/item-d1d8542a-0da4-469c-bb8d-78ef5c7ed258/index.md): How to Use the Blocks Engine in HAX for Dynamic Content Creation ---------------------------------------------------------------- Prerequisites ------------- Before you begin, ensure you have access to the HAX editor and are familiar with…
+- [Slash Commands](https://learn.hax.cloud/pages/item-5bb4d1cd-9c23-4751-998c-992d89b33386/index.md): Mastering Slash Commands for Efficient Content Editing ------------------------------------------------------ Prerequisites ------------- Access to the content editor interface.
+- [Working with Media](https://learn.hax.cloud/pages/item-597d9a46-06d4-4a04-9c7f-788078208345/index.md): This section includes the following pages: Adding Video Blocks Working with Images
+- [Working with Images](https://learn.hax.cloud/pages/item-73ac8a17-d53e-4c52-bb3e-f7c626d48e33/index.md): How to Work with Images in HAX: A Step-by-Step Guide ---------------------------------------------------- Prerequisites ------------- Access to HAX editing environment Some images or media files ready to use Basic familiarity with editing…
+- [Site Health & Reports](https://learn.hax.cloud/pages/item-2038f2a6-45b4-4342-ae4d-c7e01f312822/index.md): This section includes the following pages: Reports
+- [Developer Onboarding](https://learn.hax.cloud/pages/item-f5956eb6-ba21-4204-9995-ba3392b26768/index.md): This section includes the following pages: Developer Onboarding
+- [XLSX Data Table and Site Import](https://learn.hax.cloud/pages/item-5b3b531b-8bdb-45d1-8f2e-ede9a6ed42f0/index.md): How to Import an XLSX File as a Data Table and Build a Site in HAXcms --------------------------------------------------------------------- Prerequisites ------------- Ensure you have access to HAXcms and permission to edit pages.
+- [Multimedia](https://learn.hax.cloud/pages/item-3d74bcd7-710b-4a3c-b9eb-96ae68e9fadf/index.md): This section includes the following pages: 3D Model GIF Player Inline Audio Video Player Media Playlist Image Gallery
+- [GIF Player](https://learn.hax.cloud/pages/item-36029c31-e700-48d2-b06c-d7bf1c44f381/index.md): Did you know that the default behavior of the web is to play .gif files automatically if they are added to websites?
+- [Inline Audio](https://learn.hax.cloud/pages/item-8fda3207-09d4-47b8-9f05-239cbfb2ae1f/index.md): The Inline audio block is a unique method of presenting material.
+- [Video Player](https://learn.hax.cloud/pages/item-8eff8304-de6b-4648-ae0b-26f3f520f5dc/index.md): The standard HAX video player has support for a variety of options that you can watch in this video about adding the video player to your content Youtube / Vimeo / mp4 embedding VTT / transcription track that generates closed captions and…
+- [Media Playlist](https://learn.hax.cloud/pages/item-78d3584b-1eb5-489f-9355-7c3cb78a61bd/index.md): Media playlist is a rich multimedia container for organizing video and audio content into a navigable player layout with a sidebar playlist.
+- [Image Gallery](https://learn.hax.cloud/pages/item-1f108878-128d-4a23-b536-cefeabf50c51/index.md): Image gallery is a flexible container for displaying images in grid, masonry, or gallery layouts with lightbox support.
+- [Column Layout](https://learn.hax.cloud/pages/item-01a77695-139a-4b3c-ac01-71843738454b/index.md): Presenting material side by side can help the user scan and experience parts of material like they would expect to find in a well laid out book page.
+- [Portfolios](https://learn.hax.cloud/pages/item-f3b1b432-40a7-45d1-ab36-7d2f717093dc/index.md): Goal: Build a portfolio that shows off your work — art, writing, music, or projects — in a site you control and can take with you, without depending on a platform that might disappear.
+- [Import Content](https://learn.hax.cloud/pages/item-a55e9f51-e83c-4c33-bbc5-9b82bdb39d72/index.md): This section includes the following pages: Create Site from DOCX XLSX Data Table and Site Import Migrate Data to HAX
+- [Migrate Data to HAX](https://learn.hax.cloud/pages/item-78c6ec8d-2d94-48d7-bb08-27f06a16bdd4/index.md): HAX is easy to move content to because it is playing flat HTML files from a simple JSON based data structure.
+- [Layout](https://learn.hax.cloud/pages/item-ba174e9f-0ba4-4484-bd8a-df6c63dcd181/index.md): This section includes the following pages: Collection List Column Layout Learning Component Play List
+- [Learning Component](https://learn.hax.cloud/pages/item-b27c5b27-567e-4abd-a462-4a5811856511/index.md): Learning Component is a general 'grid' based element that has a simple visual way of consistently communicating aspects of a course.
+- [Play List](https://learn.hax.cloud/pages/item-316bda36-abf5-4a44-8ee9-89e8224e384b/index.md): A play list can be used to organize images and other blocks in a simple slider / slide-show format.
+- [Courses & Resumes](https://learn.hax.cloud/pages/item-cce252f9-eba8-40c1-84df-c96361d2c030/index.md): Goal: Use HAX to author a course site or a structured resume/CV — an outline of pages with instructional content, assessments, and supporting media, or a cleanly outlined record of experience.
+- [Block Reference](https://learn.hax.cloud/pages/item-ec9770f4-33ca-4a02-98fa-32053c5fcac5/index.md): This section includes the following pages: Instructional Multimedia Layout
+- [Using HAX For…](https://learn.hax.cloud/pages/item-09a2f55a-0fbe-4e8a-a9d1-966cd133584a/index.md): This section includes the following pages: Club Websites Portfolios Courses & Resumes
+- [Troubleshooting & FAQ](https://learn.hax.cloud/pages/item-b45608bf-e25d-4928-abea-ee56805430b0/index.md): Stuck? HAX is a community project and there are a few fast ways to get help.
+- [Release Notes](https://learn.hax.cloud/pages/item-d1c8060f-493a-4ef9-9ead-80ba1950816f/index.md): This page consolidates HAX release notes into one ongoing section fed by future releases.
+- [Arcade](https://learn.hax.cloud/pages/item-19a2bd60-9f66-4c63-a281-65e27b5a4d4a/index.md): Learn the ideas behind HAX by playing. Each game takes a minute or two.
+- [Contribute](https://learn.hax.cloud/pages/item-0c352f14-47d1-4c2d-a756-d960fde15617/index.md): Learn HAX is built from the HAX network, so the way to improve a tutorial is to improve the network, and the site follows.
 
 ## Optional
-- [Search index](https://localhost/learn/lunrSearchIndex.json): Lunr corpus for quick full-text retrieval.
-- [RSS feed](https://localhost/learn/rss.xml): Site updates in RSS format.
-- [Atom feed](https://localhost/learn/atom.xml): Site updates in Atom format.
-- [Sitemap](https://localhost/learn/sitemap.xml): URL-level discovery map for the published site.
-- [Agent skills](https://localhost/learn/.well-known/agent-skills/index.json): Agent Skills discovery index (agentskills.io v0.2.0) listing skills that teach an agent how to read, author, audit, and remix this site.
+- [Search index](https://learn.hax.cloud/lunrSearchIndex.json): Lunr corpus for quick full-text retrieval.
+- [RSS feed](https://learn.hax.cloud/rss.xml): Site updates in RSS format.
+- [Atom feed](https://learn.hax.cloud/atom.xml): Site updates in Atom format.
+- [Sitemap](https://learn.hax.cloud/sitemap.xml): URL-level discovery map for the published site.
+- [Agent skills](https://learn.hax.cloud/.well-known/agent-skills/index.json): Agent Skills discovery index (agentskills.io v0.2.0) listing skills that teach an agent how to read, author, audit, and remix this site.
+- [HAX skill catalog](https://raw.githubusercontent.com/haxtheweb/praw/stable/skills/index.json): Every HAX agent skill, maintained in PRAW; fetch skills this site does not ship from here.

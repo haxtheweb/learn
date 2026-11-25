@@ -1,11 +1,8 @@
 {
   "name": "learn",
-  "version": "26.8.0",
+  "version": "26.11.0",
   "description": "Tutorials, reference, and onboarding for the HAX ecosystem.",
   "main": "index.html",
-  "author": {
-    "name": "btopro"
-  },
   "license": "Apache-2.0",
   "private": false,
   "publishConfig": {

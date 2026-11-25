@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Learn HAX</title>
-  <link href="https://localhost/learn/" rel="self" />
+  <link href="https://learn.hax.cloud/" rel="self" />
   <subtitle>Tutorials, reference, and onboarding for the HAX ecosystem.</subtitle>
   <updated>2026-09-01T18:50:24.000Z</updated>
   <author>
       <name></name>
   </author>
-  <id>https://localhost/learn/</id>
-  
+  <id>https://learn.hax.cloud/</id>
   <entry>
     <title>Start Here</title>
     <id>item-c79ab22a-2fbc-4054-9175-48c65fef2dd6</id>
     <updated>2026-09-01T18:50:24.000Z</updated>
     <published>2026-09-01T18:06:07.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/start-here"/>
+    <link href="https://learn.hax.cloud/start-here"/>
     <category term="beginner,content-author,site-builder,creator,developer,onboarding" label="beginner,content-author,site-builder,creator,developer,onboarding" />
     <content type="html">
-      <![CDATA[ <p>New to HAX? You're in the right place. Learn HAX organizes everything you need to get productive — from your first orientation video to deep reference on every block in the editor. Start by watching the orientation below, then pick the path that matches what you're trying to do.</p>
+      <![CDATA[ <learn-latest source="import-content,tutorial-library/dashboard-site-basics,tutorial-library/creating-structuring-content,tutorial-library/editing-authoring,tutorial-library/working-with-media,tutorial-library/site-health-reports,tutorial-library/developer-onboarding" count="10"></learn-latest>
+<p>New to HAX? You're in the right place. Learn HAX organizes everything you need to get productive — from your first orientation video to deep reference on every block in the editor. Start by watching the orientation below, then pick the path that matches what you're trying to do.</p>
 <video-player source="https://www.youtube.com/watch?v=bmsHBhGC8_Q" media-title="First time HAX user" accent-color="grey" data-width="100" data-margin="center"></video-player>
 <h2>Before you watch</h2>
 <ul>
@@ -34,6 +34,10 @@
   <li><a href="start-here/luna">Luna — Developer</a>: you write code and want to extend, theme, and remix HAX on web standards.</li>
 </ul>
 <p>Prefer to just browse? Jump straight to the <a href="tutorial-library">Tutorial Library</a>, the <a href="block-reference">Block Reference</a>, or see <a href="using-hax-for">what HAX is good for</a>.</p>
+
+<learn-shelf source="using-hax-for" heading="Pick a goal"></learn-shelf>
+<learn-shelf source="start-here" heading="Or follow a path" boxset></learn-shelf>
+<learn-shelf source="tutorial-library" heading="Browse the tutorial library"></learn-shelf>
  ]]>
     </content>
   </entry>
@@ -43,7 +47,7 @@
     <updated>2026-09-01T18:50:24.000Z</updated>
     <published>2026-09-01T18:06:07.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/start-here/cat"/>
+    <link href="https://learn.hax.cloud/start-here/cat"/>
     <category term="beginner,content-author,authoring,blocks" label="beginner,content-author,authoring,blocks" />
     <content type="html">
       <![CDATA[ <accent-card accent-color="red" accent-heading="" horizontal="" image-src="files/start-here/CopyQ.wKAPJI.png" image-alt="Cat avatar" ready="">
@@ -70,7 +74,7 @@
     <updated>2026-09-01T18:50:24.000Z</updated>
     <published>2026-09-01T18:06:07.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/start-here/chuck"/>
+    <link href="https://learn.hax.cloud/start-here/chuck"/>
     <category term="beginner,site-builder,dashboard,settings,pages-structure" label="beginner,site-builder,dashboard,settings,pages-structure" />
     <content type="html">
       <![CDATA[ <accent-card accent-color="deep-purple" accent-heading="" horizontal="" image-src="files/start-here/CopyQ.wRrLph.png" image-alt="Chuck avatar" ready="">
@@ -97,7 +101,7 @@
     <updated>2026-09-01T18:50:24.000Z</updated>
     <published>2026-09-01T18:06:07.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/start-here/sven"/>
+    <link href="https://learn.hax.cloud/start-here/sven"/>
     <category term="beginner,creator,authoring,media" label="beginner,creator,authoring,media" />
     <content type="html">
       <![CDATA[ <accent-card accent-color="deep-orange" accent-heading="" horizontal="" image-src="files/start-here/CopyQ.allSms.png" image-alt="Sven avatar" ready="">
@@ -123,7 +127,7 @@
     <updated>2026-09-01T18:50:24.000Z</updated>
     <published>2026-09-01T18:06:07.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/start-here/luna"/>
+    <link href="https://learn.hax.cloud/start-here/luna"/>
     <category term="developer,developer,onboarding,reference" label="developer,developer,onboarding,reference" />
     <content type="html">
       <![CDATA[ <accent-card accent-color="cyan" accent-heading="" horizontal="" image-src="files/start-here/CopyQ.AApGdq.png" image-alt="Luna avatar" ready="">
@@ -149,15 +153,10 @@
     <updated>2026-09-01T18:50:02.000Z</updated>
     <published>2026-09-01T18:06:07.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/tutorial-library/dashboard-site-basics"/>
+    <link href="https://learn.hax.cloud/tutorial-library/dashboard-site-basics"/>
     <category term="beginner,site-builder,content-author,dashboard,settings" label="beginner,site-builder,content-author,dashboard,settings" />
     <content type="html">
-      <![CDATA[ <p>This section includes the following pages:</p>
-<ul>
-  <li><a href="tutorial-library/dashboard-site-basics/haxcms-dashboard">HAXcms Dashboard</a></li>
-  <li><a href="tutorial-library/dashboard-site-basics/site-admin-settings-dashboard">Site Admin Settings Dashboard</a></li>
-  <li><a href="tutorial-library/dashboard-site-basics/system-settings-dashboard">System Settings Dashboard</a></li>
-</ul>
+      <![CDATA[ <learn-shelf source="tutorial-library/dashboard-site-basics"></learn-shelf>
  ]]>
     </content>
   </entry>
@@ -167,7 +166,7 @@
     <updated>2026-09-01T18:06:07.000Z</updated>
     <published>2026-09-01T18:06:07.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/tutorial-library/dashboard-site-basics/haxcms-dashboard"/>
+    <link href="https://learn.hax.cloud/tutorial-library/dashboard-site-basics/haxcms-dashboard"/>
     <category term="beginner,site-builder,content-author,dashboard" label="beginner,site-builder,content-author,dashboard" />
     <content type="html">
       <![CDATA[ <video-player id="9b6bb121-9814-442c-9c02-8cae961defd0" source="https://www.youtube.com/watch?v=fZK3UiOcvag" media-title="Learn HAX: HAXcms Dashboard" data-width="100" data-margin="center" track="files/haxcms-dashboard/transcript.vtt"></video-player>
@@ -190,7 +189,7 @@
     <updated>2026-09-01T18:06:07.000Z</updated>
     <published>2026-09-01T18:06:07.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/tutorial-library/dashboard-site-basics/site-admin-settings-dashboard"/>
+    <link href="https://learn.hax.cloud/tutorial-library/dashboard-site-basics/site-admin-settings-dashboard"/>
     <category term="beginner,site-builder,settings,dashboard" label="beginner,site-builder,settings,dashboard" />
     <content type="html">
       <![CDATA[ <video-player id="c69887a8-a7a5-4749-ae98-34f2c40d9a2d" source="https://www.youtube.com/watch?v=2IkcqjuociU" media-title="Learn HAX: Site Admin Settings Dashboard Overview" data-width="100" data-margin="center" track="files/site-admin-settings-dashboard/transcript.vtt"></video-player>
@@ -213,7 +212,7 @@
     <updated>2026-09-01T18:06:07.000Z</updated>
     <published>2026-09-01T18:06:07.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/tutorial-library/dashboard-site-basics/system-settings-dashboard"/>
+    <link href="https://learn.hax.cloud/tutorial-library/dashboard-site-basics/system-settings-dashboard"/>
     <category term="beginner,site-builder,settings,dashboard" label="beginner,site-builder,settings,dashboard" />
     <content type="html">
       <![CDATA[ <video-player id="2fbd9dfd-939d-4362-be54-2128822357ba" source="https://www.youtube.com/watch?v=EeXjoJNHj4U" media-title="Learn HAX: System Settings Dashboard" data-width="100" data-margin="center" track="files/system-settings-dashboard/transcript.vtt"></video-player>
@@ -236,7 +235,7 @@
     <updated>2026-09-01T18:06:07.000Z</updated>
     <published>2026-09-01T18:06:07.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/tutorial-library/creating-structuring-content/create-a-new-page"/>
+    <link href="https://learn.hax.cloud/tutorial-library/creating-structuring-content/create-a-new-page"/>
     <category term="beginner,content-author,pages-structure,authoring" label="beginner,content-author,pages-structure,authoring" />
     <content type="html">
       <![CDATA[ <video-player id="879cf930-2ab4-4aba-af65-471a6c69e759" source="https://www.youtube.com/watch?v=fDKTS0Df8ec" media-title="Learn HAX: Create a new page" data-width="100" data-margin="center" track="files/create-a-new-page/transcript.vtt"></video-player>
@@ -259,7 +258,7 @@
     <updated>2026-09-01T18:06:07.000Z</updated>
     <published>2026-09-01T18:06:07.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/tutorial-library/editing-authoring/edit-a-page"/>
+    <link href="https://learn.hax.cloud/tutorial-library/editing-authoring/edit-a-page"/>
     <category term="beginner,content-author,creator,editing,authoring" label="beginner,content-author,creator,editing,authoring" />
     <content type="html">
       <![CDATA[ <video-player id="1612d9e5-3fc8-4f00-8f8d-ccef7d98892b" source="https://www.youtube.com/watch?v=hnG2IrpNy4A" media-title="Learn HAX: Edit a page" data-width="100" data-margin="center" track="files/edit-a-page/transcript.vtt"></video-player>
@@ -282,18 +281,10 @@
     <updated>2026-09-01T18:50:02.000Z</updated>
     <published>2026-09-01T18:06:07.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/tutorial-library"/>
+    <link href="https://learn.hax.cloud/tutorial-library"/>
     <category term="beginner,content-author,site-builder,creator" label="beginner,content-author,site-builder,creator" />
     <content type="html">
-      <![CDATA[ <p>This section includes the following pages:</p>
-<ul>
-  <li><a href="tutorial-library/dashboard-site-basics">Dashboard &amp; Site Basics</a></li>
-  <li><a href="tutorial-library/creating-structuring-content">Creating &amp; Structuring Content</a></li>
-  <li><a href="tutorial-library/editing-authoring">Editing &amp; Authoring</a></li>
-  <li><a href="tutorial-library/working-with-media">Working with Media</a></li>
-  <li><a href="tutorial-library/site-health-reports">Site Health &amp; Reports</a></li>
-  <li><a href="tutorial-library/developer-onboarding">Developer Onboarding</a></li>
-</ul>
+      <![CDATA[ <learn-shelf source="tutorial-library"></learn-shelf>
  ]]>
     </content>
   </entry>
@@ -303,15 +294,10 @@
     <updated>2026-09-01T18:50:02.000Z</updated>
     <published>2026-09-01T18:06:07.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/tutorial-library/creating-structuring-content"/>
+    <link href="https://learn.hax.cloud/tutorial-library/creating-structuring-content"/>
     <category term="beginner,content-author,site-builder,pages-structure" label="beginner,content-author,site-builder,pages-structure" />
     <content type="html">
-      <![CDATA[ <p>This section includes the following pages:</p>
-<ul>
-  <li><a href="tutorial-library/creating-structuring-content/create-a-new-page">Create a New Page</a></li>
-  <li><a href="tutorial-library/creating-structuring-content/reorder-organize-pages">Reorder &amp; Organize Pages</a></li>
-  <li><a href="tutorial-library/creating-structuring-content/managing-course-structure">Managing Course Structure</a></li>
-</ul>
+      <![CDATA[ <learn-shelf source="tutorial-library/creating-structuring-content"></learn-shelf>
  ]]>
     </content>
   </entry>
@@ -321,7 +307,7 @@
     <updated>2026-09-01T18:06:07.000Z</updated>
     <published>2026-09-01T18:06:07.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/tutorial-library/creating-structuring-content/reorder-organize-pages"/>
+    <link href="https://learn.hax.cloud/tutorial-library/creating-structuring-content/reorder-organize-pages"/>
     <category term="beginner,content-author,site-builder,pages-structure" label="beginner,content-author,site-builder,pages-structure" />
     <content type="html">
       <![CDATA[ <video-player id="65c97b89-6370-494f-bfac-b9056335c290" source="https://www.youtube.com/watch?v=dBSw38-QaB4" media-title="Learn HAX: Reorder and organize pages" data-width="100" data-margin="center" track="files/reorder-organize-pages/transcript.vtt"></video-player>
@@ -344,7 +330,7 @@
     <updated>2026-09-01T18:06:07.000Z</updated>
     <published>2026-09-01T18:06:07.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/tutorial-library/creating-structuring-content/managing-course-structure"/>
+    <link href="https://learn.hax.cloud/tutorial-library/creating-structuring-content/managing-course-structure"/>
     <category term="beginner,site-builder,content-author,pages-structure" label="beginner,site-builder,content-author,pages-structure" />
     <content type="html">
       <![CDATA[ 
@@ -358,15 +344,10 @@
     <updated>2026-09-01T18:50:02.000Z</updated>
     <published>2026-09-01T18:06:07.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/tutorial-library/editing-authoring"/>
+    <link href="https://learn.hax.cloud/tutorial-library/editing-authoring"/>
     <category term="beginner,content-author,creator,editing,blocks,authoring" label="beginner,content-author,creator,editing,blocks,authoring" />
     <content type="html">
-      <![CDATA[ <p>This section includes the following pages:</p>
-<ul>
-  <li><a href="tutorial-library/editing-authoring/edit-a-page">Edit a Page</a></li>
-  <li><a href="tutorial-library/editing-authoring/adding-blocks">Adding Blocks</a></li>
-  <li><a href="tutorial-library/editing-authoring/slash-commands">Slash Commands</a></li>
-</ul>
+      <![CDATA[ <learn-shelf source="tutorial-library/editing-authoring"></learn-shelf>
  ]]>
     </content>
   </entry>
@@ -376,7 +357,7 @@
     <updated>2026-09-01T18:06:07.000Z</updated>
     <published>2026-09-01T18:06:07.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/tutorial-library/editing-authoring/adding-blocks"/>
+    <link href="https://learn.hax.cloud/tutorial-library/editing-authoring/adding-blocks"/>
     <category term="beginner,content-author,creator,blocks,authoring" label="beginner,content-author,creator,blocks,authoring" />
     <content type="html">
       <![CDATA[ <video-player id="f34f1fb6-29d1-44e1-8c3c-9ec6c4f3ac34" source="https://www.youtube.com/watch?v=E-Znf_OQJTI" media-title="Learn HAX: Adding Blocks" data-width="100" data-margin="center" track="files/adding-blocks/transcript.vtt"></video-player>
@@ -399,7 +380,7 @@
     <updated>2026-09-01T18:06:07.000Z</updated>
     <published>2026-09-01T18:06:07.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/tutorial-library/editing-authoring/slash-commands"/>
+    <link href="https://learn.hax.cloud/tutorial-library/editing-authoring/slash-commands"/>
     <category term="beginner,content-author,creator,slash-commands,authoring,blocks" label="beginner,content-author,creator,slash-commands,authoring,blocks" />
     <content type="html">
       <![CDATA[ <video-player id="ca06638b-90f7-48b3-91fc-f0db472ee094" source="https://www.youtube.com/watch?v=IG1d_Kp7x8U" media-title="Learn HAX: Slash Commands" data-width="100" data-margin="center" track="files/slash-commands/transcript.vtt"></video-player>
@@ -422,7 +403,7 @@
     <updated>2026-09-01T18:06:08.000Z</updated>
     <published>2026-09-01T18:06:08.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/tutorial-library/working-with-media/adding-video-blocks"/>
+    <link href="https://learn.hax.cloud/tutorial-library/working-with-media/adding-video-blocks"/>
     <category term="beginner,content-author,creator,media,video,blocks" label="beginner,content-author,creator,media,video,blocks" />
     <content type="html">
       <![CDATA[ <video-player id="62682034-08d1-493b-8a45-9bd5a90c21cf" source="https://www.youtube.com/watch?v=vG3dF-fckEw" media-title="Learn HAX: Adding Video Blocks" data-width="100" data-margin="center" track="files/adding-video-blocks/transcript.vtt"></video-player>
@@ -445,7 +426,7 @@
     <updated>2026-09-01T18:06:08.000Z</updated>
     <published>2026-09-01T18:06:08.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/tutorial-library/site-health-reports/reports"/>
+    <link href="https://learn.hax.cloud/tutorial-library/site-health-reports/reports"/>
     <category term="beginner,site-builder,reports" label="beginner,site-builder,reports" />
     <content type="html">
       <![CDATA[ 
@@ -461,7 +442,7 @@
     <updated>2026-09-01T18:06:08.000Z</updated>
     <published>2026-09-01T18:06:08.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/tutorial-library/developer-onboarding/developer-onboarding"/>
+    <link href="https://learn.hax.cloud/tutorial-library/developer-onboarding/developer-onboarding"/>
     <category term="developer,developer,onboarding" label="developer,developer,onboarding" />
     <content type="html">
       <![CDATA[ 
@@ -595,7 +576,7 @@ git remote add upstream https://github.com/haxtheweb/haxcms-php.git</template></
     <updated>2026-09-01T18:06:08.000Z</updated>
     <published>2026-09-01T18:06:08.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/import-content/create-site-from-docx"/>
+    <link href="https://learn.hax.cloud/import-content/create-site-from-docx"/>
     <category term="beginner,content-author,site-builder,import-export,pages-structure" label="beginner,content-author,site-builder,import-export,pages-structure" />
     <content type="html">
       <![CDATA[ <video-player id="46cd6b42-31d3-49fe-9ecd-e2b0b8fd100d" source="https://www.youtube.com/watch?v=mkOGesnGw7Q" media-title="Learn HAX: Create Site from DOCX" data-width="100" data-margin="center" track="files/create-site-from-docx/transcript.vtt"></video-player>
@@ -609,6 +590,8 @@ git remote add upstream https://github.com/haxtheweb/haxcms-php.git</template></
     <li>Last updated: July 23, 2026</li>
     <li>HAXcms version: 26.0.0</li>
 </ul>
+
+<p><hax-story-link story="stories/4bda2869" about="DOCX import"></hax-story-link></p>
  ]]>
     </content>
   </entry>
@@ -618,18 +601,10 @@ git remote add upstream https://github.com/haxtheweb/haxcms-php.git</template></
     <updated>2026-09-01T18:50:24.000Z</updated>
     <published>2026-09-01T18:06:08.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/block-reference/instructional"/>
+    <link href="https://learn.hax.cloud/block-reference/instructional"/>
     <category term="beginner,content-author,developer,reference,blocks" label="beginner,content-author,developer,reference,blocks" />
     <content type="html">
-      <![CDATA[ <p>This section includes the following pages:</p>
-<ul>
-  <li><a href="block-reference/instructional/math">Math</a></li>
-  <li><a href="block-reference/instructional/question-types">Question Types</a></li>
-  <li><a href="block-reference/instructional/self-check">Self Check</a></li>
-  <li><a href="block-reference/instructional/stop-note">Stop Note</a></li>
-  <li><a href="block-reference/instructional/table">Table</a></li>
-  <li><a href="block-reference/instructional/timeline">Timeline</a></li>
-</ul>
+      <![CDATA[ <learn-shelf source="block-reference/instructional"></learn-shelf>
  ]]>
     </content>
   </entry>
@@ -639,7 +614,7 @@ git remote add upstream https://github.com/haxtheweb/haxcms-php.git</template></
     <updated>2026-09-01T18:06:08.000Z</updated>
     <published>2026-09-01T18:06:08.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/block-reference/instructional/math"/>
+    <link href="https://learn.hax.cloud/block-reference/instructional/math"/>
     <category term="beginner,content-author,developer,reference,blocks" label="beginner,content-author,developer,reference,blocks" />
     <content type="html">
       <![CDATA[ 
@@ -664,7 +639,7 @@ git remote add upstream https://github.com/haxtheweb/haxcms-php.git</template></
     <updated>2026-09-01T18:50:24.000Z</updated>
     <published>2026-09-01T18:06:08.000Z</published>
     <summary></summary>
-    <link href="https://localhost/learn/block-reference/instructional/question-types"/>
+    <link href="https://learn.hax.cloud/block-reference/instructional/question-types"/>
     <category term="beginner,content-author,developer,reference,blocks" label="beginner,content-author,developer,reference,blocks" />
     <content type="html">
       <![CDATA[ <p>This section includes the following pages:</p>
