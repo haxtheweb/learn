@@ -80,6 +80,8 @@ Managed files (feeds, search indexes, manifests, and this `llms.txt`) are genera
 - [Release Notes](https://learn.hax.cloud/pages/item-d1c8060f-493a-4ef9-9ead-80ba1950816f/index.md): This page consolidates HAX release notes into one ongoing section fed by future releases.
 - [Arcade](https://learn.hax.cloud/pages/item-19a2bd60-9f66-4c63-a281-65e27b5a4d4a/index.md): Learn the ideas behind HAX by playing. Each game takes a minute or two.
 - [Contribute](https://learn.hax.cloud/pages/item-0c352f14-47d1-4c2d-a756-d960fde15617/index.md): Learn HAX is built from the HAX network, so the way to improve a tutorial is to improve the network, and the site follows.
+- [About](https://learn.hax.cloud/pages/item-2f23a8a5-5050-46c8-aa9e-002ba4c09939/index.md): What this site is and who makes it.
+- [Contact](https://learn.hax.cloud/pages/item-45a593c2-981e-465d-bbae-cf86a4ac91cf/index.md): How to reach the people who make HAX.
 
 ## Optional
 - [Search index](https://learn.hax.cloud/lunrSearchIndex.json): Lunr corpus for quick full-text retrieval.
