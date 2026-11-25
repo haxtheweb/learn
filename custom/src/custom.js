@@ -13,3 +13,4 @@ import "./learn-arcade-cabinet.js";
 import { getLearnEra, setLearnEra } from "./learn-era.js";
 // the time period is page state; start from the one the visitor last chose
 setLearnEra(getLearnEra());
+import "./learn-update-lens.js";
