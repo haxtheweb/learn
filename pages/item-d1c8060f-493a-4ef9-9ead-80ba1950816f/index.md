@@ -82,7 +82,7 @@ Issues: [#2862](https://github.com/haxtheweb/issues/issues/2862), [#2870](https:
 
 ### Community pillars reflected this cycle
 
-HAX development is evaluated against seven [community pillars](https://haxtheweb.org/welcome/community/pillars). Here is how the 26.8.0 work maps onto them:
+HAX development is evaluated against seven [community pillars](https://haxtheweb.org/pillars). Here is how the 26.8.0 work maps onto them:
 
 *   **Accessible:** WCAG 2.0 AA components, a11y-media-player transcript support, and video transcript-gap detection so uncaptioned media gets surfaced.
 *   **Efficient:** webcomponents shrank net 8,127 lines through polyfill, Polymer, and wiredjs removal; CLS fixes and lazy loading keep it fast.
@@ -109,6 +109,6 @@ Tutorial Details
 *   [Video Tutorial Link (YouTube)](https://www.youtube.com/watch?v=0GqsJ83-gQk) - [transcript](files/release-notes/transcript.vtt)
 *   Issue analytics: [unified issue queue](https://github.com/haxtheweb/issues) (snapshot all\_issues\_20260813\_165905.json, 2,952 issues)
 *   Code scope: git history since [v26.0.0](https://github.com/haxtheweb/webcomponents/releases/tag/v26.0.0) across webcomponents, create, haxcms-php, and haxcms-nodejs
-*   Community pillars: [haxtheweb.org/welcome/community/pillars](https://haxtheweb.org/welcome/community/pillars)
+*   Community pillars: [haxtheweb.org/pillars](https://haxtheweb.org/pillars)
 *   Last updated: August 13, 2026
 *   HAXcms version: 26.8.0
