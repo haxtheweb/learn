@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+<id>item-cd0b2a5c-413a-44ad-9402-ef2d84a951da</id>
+<indent>2</indent>
+<location>pages/item-cd0b2a5c-413a-44ad-9402-ef2d84a951da/index.xml</location>
+<slug>tutorial-library/editing-authoring/lay-out-a-page</slug>
+<order>3</order>
+<parent>item-77e491c7-219b-4501-bbd2-76c71aea802f</parent>
+<title>Lay Out a Page</title>
+<description>Arrange content you already have: columns, images beside text, galleries and playlists.</description>
+<metadata>
+<created>1795719114</created>
+<updated>1795719114</updated>
+<images>
+</images>
+<videos>
+</videos>
+</metadata>
+<content><![CDATA[<p>You already have the words. This tutorial is about arranging them: putting content side by side in columns, setting an image beside the text, turning a row of images into a gallery, and collecting videos into a playlist. Every example on this page is the real block, so what you see here is what your page will look like.</p>
+<h2>Prerequisites</h2>
+<ul>
+  <li>Access to a HAX site you can edit</li>
+  <li>A page with some content on it already</li>
+  <li>The basics of <a href="tutorial-library/editing-authoring/edit-a-page">editing a page</a> and <a href="tutorial-library/editing-authoring/adding-blocks">adding blocks</a></li>
+</ul>
+<h2>Put content side by side with columns</h2>
+<p>Columns are the quickest way to change how a page reads. Open <strong>Blocks</strong>, expand <strong>Layout</strong>, and add a <strong>Column layout</strong> where you want the columns to start. Then drag the blocks you already have into its columns with their drag handle.</p>
+<ol>
+  <li>Click <strong>Edit</strong>, then open <strong>Blocks</strong> and expand <strong>Layout</strong>.</li>
+  <li>Drag <strong>Column layout</strong> into the page, or put your cursor where it should go and insert it.</li>
+  <li>Drag existing paragraphs, images or other blocks into each column.</li>
+  <li>Select the column layout and change <strong>Column Layout</strong> in its settings to change how the columns split the width.</li>
+</ol>
+<grid-plate layout="1-1">
+  <div slot="col-1">
+    <h3>2: equal width</h3>
+    <p>The default. Two columns of the same width, good for comparing two things or pairing a short explanation with an example.</p>
+  </div>
+  <div slot="col-2">
+    <h3>Other layouts</h3>
+    <p>Wide and narrow (<code>2-1</code>), narrow and wide (<code>1-2</code>), three columns (<code>1-1-1</code>, <code>1-2-1</code> and more) and up to four equal columns.</p>
+  </div>
+</grid-plate>
+<p>As the screen gets narrower the columns stack one above the other, so nothing gets squeezed. To keep a layout's columns side by side for longer, turn on <strong>Disable responsive</strong> in its settings; they still stack on the smallest screens.</p>
+<h2>Set an image beside the text</h2>
+<media-image source="files/working-with-images/champions.jpg" alt="Penn State roller hockey players in white jerseys walking across the rink after a game" caption="Float Position: Right, Width: 50" data-float-position="right" data-width="50"></media-image>
+<p>An image does not have to sit on its own line. Select it and open the <strong>Spacing</strong> section of its settings:</p>
+<ul>
+  <li><strong>Float Position</strong> sets it to the <strong>Left</strong> or <strong>Right</strong> so the text wraps around it, or to the <strong>Center</strong>. Text wraps around it on wide screens (1440 pixels and wider); on anything narrower the image sits on its own line, so the text stays readable.</li>
+  <li><strong>Width</strong> sizes it from 25 to 100 percent of the space it is in, from tablet width up; on a phone it fills the width.</li>
+</ul>
+<p>Put the image just before the paragraph it belongs with, so the two stay together when the page reflows. In the <strong>Configure</strong> section, <strong>Offset</strong> can also make an image <strong>wide</strong>, reaching past the text column, or <strong>narrow</strong>.</p>
+<h2>Turn images into a gallery</h2>
+<p>When you have several images in a row, a gallery is easier to read than a long stack. Drag one image onto another image on the page and the two become an <strong>Image gallery</strong>. Drop more images onto the gallery to add them.</p>
+<image-gallery mode="grid">
+  <media-image source="files/working-with-images/champions.jpg" alt="Penn State roller hockey players in white jerseys walking across the rink after a game"></media-image>
+  <media-image source="files/working-with-images/images/screenshot-6.jpg" alt="The HAX editor with an image selected and its settings open in the side panel"></media-image>
+</image-gallery>
+<p>Select the gallery and choose its <strong>Display mode</strong>: <strong>Grid</strong> lines the images up as above, <strong>Masonry</strong> fits images of different heights together, and <strong>Gallery</strong> shows one image at a time with arrows to move between them.</p>
+<h2>Collect videos into a playlist</h2>
+<p>Several videos on one page work better as a playlist: one player with the list beside it, instead of a column of players. Search the blocks for <strong>playlist</strong> and add a <strong>Media playlist</strong>. Then open the <strong>Page outline</strong> and drag your video and audio blocks into it.</p>
+<media-playlist>
+  <video-player source="https://www.youtube.com/watch?v=E-Znf_OQJTI" media-title="Learn HAX: Adding Blocks"></video-player>
+  <video-player source="https://www.youtube.com/watch?v=Kf_XkUH9MqE" media-title="Learn HAX: Working with Images"></video-player>
+</media-playlist>
+<h2>Rearrange as you go</h2>
+<ul>
+  <li>Move any block with its drag handle, or with move up and move down when you hover over it.</li>
+  <li>The <strong>Page outline</strong> shows every block on the page in order, which is the easiest way to move things into or out of a column layout, gallery or playlist.</li>
+  <li>Nothing is changed for your readers until you click <strong>Save</strong>.</li>
+</ul>
+<h2>Verification</h2>
+<p>Save, then check the page as a reader would:</p>
+<ul>
+  <li>Columns, floated images and galleries look the way you meant on a wide screen.</li>
+  <li>Narrow the window or open the page on a phone: columns stack, images you floated sit on their own line, and nothing is cut off.</li>
+  <li>Every image has alternative text that says what it shows.</li>
+</ul>
+<h2>Related</h2>
+<ul>
+  <li><a href="tutorial-library/editing-authoring/adding-blocks">Adding Blocks</a></li>
+  <li><a href="tutorial-library/working-with-media/working-with-images">Working with Images</a></li>
+  <li><a href="block-reference/layout">Block Reference: Layout</a></li>
+</ul>
+]]></content>
+</item>

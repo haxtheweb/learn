@@ -408,4 +408,10 @@
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
+  <url>
+    <loc>https://learn.hax.cloud/tutorial-library/editing-authoring/lay-out-a-page</loc>
+    <lastmod>2026-11-26T18:51:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

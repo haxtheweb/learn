@@ -1414,6 +1414,22 @@
             }
         },
         {
+            "id": "item-cd0b2a5c-413a-44ad-9402-ef2d84a951da",
+            "indent": 2,
+            "location": "pages/item-cd0b2a5c-413a-44ad-9402-ef2d84a951da/index.html",
+            "slug": "tutorial-library/editing-authoring/lay-out-a-page",
+            "order": 3,
+            "parent": "item-77e491c7-219b-4501-bbd2-76c71aea802f",
+            "title": "Lay Out a Page",
+            "description": "Arrange content you already have: columns, images beside text, galleries and playlists.",
+            "metadata": {
+                "created": 1795719114,
+                "updated": 1795719114,
+                "images": [],
+                "videos": []
+            }
+        },
+        {
             "id": "item-597d9a46-06d4-4a04-9c7f-788078208345",
             "indent": 1,
             "location": "pages/item-597d9a46-06d4-4a04-9c7f-788078208345/index.html",
