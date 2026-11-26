@@ -5,11 +5,27 @@
  */
 import { html, css } from "@haxtheweb/haxcms-elements/lib/core/HAXCMSLitElementTheme.js";
 import { DDD } from "@haxtheweb/d-d-d/d-d-d.js";
-import "@haxtheweb/retro-tv/retro-tv.js";
-import "@haxtheweb/retro-tv/lib/programs/retro-tv-title-sequence.js";
-import "@haxtheweb/retro-tv/lib/programs/retro-tv-static.js";
-import "@haxtheweb/video-player/video-player.js";
 import { LearnEraMixin, setLearnEra, learnEraStyles } from "./learn-era.js";
+
+// The stage only shows on a page with a video, so its players load then,
+// not with the theme: the video player alone is ~40 KB the home page and every
+// page without a video never uses (haxtheweb/issues#3431). They start loading
+// in willUpdate, before the first render that needs them.
+let stageMedia = null;
+function loadStageMedia() {
+  if (!stageMedia) {
+    stageMedia = Promise.all([
+      import("@haxtheweb/retro-tv/retro-tv.js"),
+      import("@haxtheweb/retro-tv/lib/programs/retro-tv-title-sequence.js"),
+      import("@haxtheweb/retro-tv/lib/programs/retro-tv-static.js"),
+      import("@haxtheweb/video-player/video-player.js"),
+    ]).catch((e) => {
+      stageMedia = null;
+      console.warn(e);
+    });
+  }
+  return stageMedia;
+}
 
 export class LearnStage extends LearnEraMixin(DDD) {
   static get tag() {
@@ -196,6 +212,9 @@ export class LearnStage extends LearnEraMixin(DDD) {
       this.playing = false;
       this.chaptersOpen = false;
       this.toggleAttribute("empty", !(this.page && this.page.video));
+      if (this.page && this.page.video) {
+        loadStageMedia();
+      }
     }
   }
   // the picture alone, for the TV: no player chrome around it
